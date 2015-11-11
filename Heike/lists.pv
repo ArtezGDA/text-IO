@@ -1,0 +1,23 @@
+size(512, 512)
+background(1)
+
+groceries = ["milk", "eggs", "tabasco", "brussel sprouts", "bacon", "pistachios"]
+
+print len(groceries) #prints the number of items in your list
+print groceries[3] #prints the fourth item in your list (because the first item is 0)
+groceries[2] = "habanero sauce" #changes the third item to 'habanero sauce'
+print groceries #then prints the new list of groceries
+print "final item:", groceries[-1] #prints the words 'final item:' and the last item of the list because of -1
+groceries.append("tea") #adds a new item 'tea' to your list
+print groceries
+del groceries[6] #removes the seventh item (number 6) from the list
+print groceries
+groceries.insert(4, "bread") #inserts 'bread' on the fourth number, shifting the other items after it
+print groceries
+groceries.pop() #removes the last item
+print groceries
+
+print "walk to the market"
+for item in groceries: #for each item in the list 'groceries' do:
+    print "buy some", item #prints the words 'buy some' in front of each list item
+print "done shopping!"

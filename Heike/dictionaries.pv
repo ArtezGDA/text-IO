@@ -1,0 +1,35 @@
+size(512, 512)
+background(1)
+
+heading = {} #creates a dictionary
+heading["family"] = "Avenir Next" #states a font family
+heading["size"] = 18 #states a font size
+heading["fill"] = color(1,0,0) #states a font color
+
+print heading["size"] #prints the font size
+print heading["fill"] #prints the fill color
+
+#
+
+heading = {
+    "family":"Avenir Next",
+    "size":18,
+    "fill":color(1,0,0)
+} 
+#does the same as before but smaller and yes everything has to be quoted
+
+heading = dict(family="Avenir Next", size=18, fill=color(1,0,0))
+#also does the same but even shorter
+
+print heading.keys() #this prints the heading items (keys) in a random order
+
+if "fill" in heading: #if the key 'fill' is found / defined in the dictionary 'heading' do:
+    print "found fill!" 
+if "italic" not in heading: #if the key 'italic' ISN'T found / defined in the dictionary 'heading' do:
+    print "italic not defined..."
+    
+print "fam:", heading.get("family", "Helvetica") #'family' is a defined key in the dictionary 'heading' so it will print the value
+print "wgt:", heading.get("weight", "normal") #'weight' is an undefined key so it will print the second statement, which is a backup, so there won't be an error
+    
+    
+    
