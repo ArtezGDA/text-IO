@@ -1,0 +1,8 @@
+courses = ["Photo - een portret", "Philo - experimental", "Annie - vlogging", "DR - google image", "MD - lists", "CS - video", "Grafisch - movie", "Typo - typetool"]
+print len(courses)
+courses.append("media theory lecture")
+print courses
+print len(courses)
+del courses[8]
+print len(courses)
+
