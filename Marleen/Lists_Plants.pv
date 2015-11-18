@@ -1,8 +1,12 @@
 courses = ["Aloe Vera", "Graslelie", "Philodendron Scandus Brazil", "Dracaena Marginata", "Opuntia Cactus",
-"Crassula Hobbit", "Paraplu Plant", "Citrus Limon"]
+"Crassula Hobbit", "Paraplu Plant", "Citrus Limon", "Palm"]
 print len(courses)
 courses.append("Ellendale")
 print courses
+courses.append("Planten")
+print courses
+courses.append("Groen")
+print courses
 print len(courses)
-del courses[8]
+del courses[9]
 print len(courses)
