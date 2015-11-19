@@ -1,7 +1,11 @@
 # Shirin's work for Text IO 
 
 ## Homework
-[collections]() (python code)
+[collections]() (Shirin/list.pv)<br>
+[collections]() (Shirin/dictionary.pv)<br>
+[collections]() (Shirin/data.structure.pv)<br>
+[collections]() (Shirin/test.zork.json)<br>
+
 
 ## Concept
 

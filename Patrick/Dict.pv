@@ -1,0 +1,7 @@
+heading = {}
+heading["Straatnaam"] = "Utrechtsestraat"
+heading["Nummer"] = 63
+heading["Kamer"] = 5
+
+print heading["Straatnaam"]
+print heading["Kamer"]

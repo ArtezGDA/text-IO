@@ -1,0 +1,12 @@
+
+d = { 'address': 38, 'ceiling': 6,'surface': 30, 'doors': 4, 
+'windows': 2, 'corners': 8, 'rooms': 2, 'vides': 2, 'balcony': 1}
+print d['address']
+d['rooms'] = "I have 2 rooms."
+print d['rooms']
+print d['ceiling']
+
+
+sentence = "Ik woon op de %s %d in, %s. In een huis met %d balkon. " % ("Emmastraat",38, "Arnhem", 1, )
+print sentence
+
