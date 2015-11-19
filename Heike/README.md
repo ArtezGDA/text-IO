@@ -12,7 +12,7 @@
 
 [The Array](individual_exercises_the_array.pv)
 
-[Dictionaries](individual_excercises_dictionaries.pv)
+[Dictionaries](individual_exercises_dictionaries.pv)
 
 [Data Structure](individual_excercises_data_structure.pv)
  
