@@ -1,0 +1,28 @@
+serie = {
+    'main character': 'Carrie Mathesson',
+    'titel': 'Homeland',
+    'seizoenen': [
+        {
+            'name': "s01", 
+            'director': "John Doe", 
+            'episodes': [
+                {
+                    'name':"s01e01",
+                    'titel': "epilogue",
+                    'airdate': "1-1-2010"
+                },
+                {
+                    'name':"s01e02",
+                    'titel': "Tin Man",
+                    'airdate': "1-8-2010"
+                    
+                }
+                ]
+        },
+        {
+            'name': "s02", 
+            'director': "John Doe"
+            
+        }
+        ]
+}

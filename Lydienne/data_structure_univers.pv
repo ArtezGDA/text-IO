@@ -1,0 +1,123 @@
+FontFamilie = {
+    'Univers LT Std': [
+        {
+            'font varianten': [
+                {
+                    'cijfer':"39",
+                    'naam':"Thin Ultra Condensed"
+                },
+                {
+                    'cijfer':"45",
+                    'naam':"Light"
+                },
+                {
+                    'cijfer':"45",
+                    'naam':"Light Oblique"
+                },
+                {
+                    'cijfer':"47",
+                    'naam':"Light Condensed"
+                },
+                
+                {
+                    'cijfer':"49",
+                    'naam':"Light Ultra Condensed"
+                },
+                
+                {
+                    'cijfer':"53",
+                    'naam':"Extended"
+                },
+                
+                {
+                    'cijfer':"53",
+                    'naam':"Extended Oblique"
+                },
+                {
+                    'cijfer':"55",
+                    'naam':"Roman"
+                },
+                {
+                    'cijfer':"55",
+                    'naam':"Oblique"
+                },{
+                    'cijfer':"57",
+                    'naam':"Condensed"
+                },
+                {
+                    'cijfer':"59",
+                    'naam':"Ultra Condensed"
+                },{
+                    'cijfer':"63",
+                    'naam':"Bold Extended"
+                },
+                {
+                    'cijfer':"63",
+                    'naam':"Bold Extended Oblique"
+                },{
+                    'cijfer':"65",
+                    'naam':"Bold"
+                },
+                {
+                    'cijfer':"65",
+                    'naam':"Bold Oblique"
+                },
+                {
+                    'cijfer':"67",
+                    'naam':"Bold Condensed"
+                },{
+                    'cijfer':"67",
+                    'naam':"Bold Condensed Oblique"
+                },
+                {
+                    'cijfer':"73",
+                    'naam':"Black Extended"
+                },{
+                    'cijfer':"73",
+                    'naam':"Black Extended Oblique"
+                },
+                {
+                    'cijfer':"75",
+                    'naam':"Black"
+                },
+                {
+                    'cijfer':"75",
+                    'naam':"Black Oblique"
+                },{
+                    'cijfer':"85",
+                    'naam':"Extra Black"
+                },
+                {
+                    'cijfer':"85",
+                    'naam':"Extra Black Oblique"
+                },{
+                    'cijfer':"93",
+                    'naam':"Extra Black Extended"
+                }
+                ]
+        },
+        {
+            'Characters set': [
+                {
+                    'Letters':"'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'"
+                },
+                {
+                    'Cijfers':"'1', '2', '3', '4', '5', '6', '7', '8', '9', '0'"
+                },
+                {
+                    'Symbolen':"'!', '@', '#', '%', '^', '&', '*', '(', ')', '-', '_', '+', '=', '{', '}', '[', ']', ':', ';', '|', '.', '/', '?', '<', '>', '§', '±', '~', '`',"
+                },
+                ]
+        },
+        { 
+            'Glyphs': [
+                {
+                    'onderkast': "'å', 'à', 'é', 'ó', 'ò', 'ô', 'æ', 'ø'"
+                },
+                {
+                    'Kapitalen': "'Å', 'À', 'É', 'Ó', 'Ò', 'Ô', 'Æ', 'Ø'"
+                },
+                ]
+        },
+        ]
+}
