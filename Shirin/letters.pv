@@ -1,0 +1,28 @@
+typeface = {
+    'font': 'Gotham',
+    "foundry": "Hoefler",
+    "designer": "tobias frere-jones",
+    "cassification": "geometric sans-serif",
+    'weights' : [
+            {
+                "weight": "bold",
+                "characters": [
+                    { 
+                        "A": [
+                            {
+                                "kerning": "bad",
+                                "kerning pairs": "3.07",                               
+                                "compoundshape": [
+                                                {
+                                    "1": [
+                                        "cornerpoints": ["10","10","10"]
+                                        "bendpoints": ["10","10","10"]
+                                        ]
+                                    "2": [
+                                        "cornerpoints": "10",
+                                        "bendpoints": "10"
+                                        ]
+                                                ],
+                                
+                            }
+                            ]
