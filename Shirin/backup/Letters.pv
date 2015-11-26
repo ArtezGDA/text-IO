@@ -1,0 +1,80 @@
+typeface = {
+    'font': 'Gotham',
+    "foundry": "Hoefler",
+    "designer": "tobias frere-jones",
+    "cassification": "geometric sans-serif",
+    'weights' : [
+            {
+                "weight": "bold",
+                "characters": [
+                    { 
+                        "capitals": [
+                    { 
+                        "A": [
+                            {
+                                "kerning": "bad",
+                                "kerning pairs": "3.07",                               
+                                "compoundshape": [
+                                                {"A": [
+                            {
+                                "kerning": "bad",
+                                "kerning pairs": "3.07",                               
+                                "compoundshape": [
+                                                {
+                                    "1": [
+                                        {
+                                            "cornerpoints": "'11'"
+                                        },
+                                        {
+                                            "bendpoints": "'0'"
+                                        }
+                                        ]
+                                   
+                                                }
+                                                ]
+                            }
+                            ]
+
+                                    "1": [
+                                        {
+                                            "cornerpoints": "'11'"
+                                        },
+                                        {
+                                            "bendpoints": "'0'"
+                                        }
+                                        ]
+                                   
+                                                }
+                                                ]
+                            }
+                            ],
+                        "B": [
+                            {
+                                "kerning": "bad",
+                                "kerning pairs": "3.07",                               
+                                "compoundshape": [
+                                                {
+                                    "1": [
+                                        {
+                                            "cornerpoints": "'11'"
+                                        },
+                                        {
+                                            "bendpoints": "'0'"
+                                        }
+                                        ]
+                                   
+                                                }
+                                                ]
+                            }
+                            ]
+                            }
+                        
+                            ]
+                        }
+                        ]
+                        }
+                        ]
+                        }
+                            
+                            
+print typeface
