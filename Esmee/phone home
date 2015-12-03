@@ -1,0 +1,304 @@
+Last login: Thu Dec  3 10:40:14 on ttys001
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]%  ps                         [85]
+  PID TTY           TIME CMD
+35333 ttys000    0:00.06 -bash
+36231 ttys000    0:00.14 /bin/zsh
+59252 ttys001    0:00.13 -zsh
+37144 ttys002    0:00.78 -zsh
+36646 ttys003    0:00.06 -zsh
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% ps -ax                      [86]
+  PID TTY           TIME CMD
+    1 ??        31:33.51 /sbin/launchd
+   40 ??         2:03.71 /usr/libexec/UserEventAgent (System)
+   41 ??         2:02.65 /usr/sbin/syslogd
+   43 ??         4:22.34 /System/Library/Frameworks/CoreServices.framework/Versi
+   44 ??         0:35.61 /usr/libexec/kextd
+   46 ??         0:00.77 /usr/libexec/thermald
+   48 ??         0:18.83 /System/Library/CoreServices/appleeventsd --server
+   49 ??         2:17.59 /usr/libexec/configd
+   50 ??         4:17.84 /System/Library/CoreServices/powerd.bundle/powerd
+   53 ??         3:28.93 /usr/libexec/airportd
+   55 ??         0:06.30 /usr/libexec/warmd
+   56 ??         9:38.60 /System/Library/Frameworks/CoreServices.framework/Frame
+   62 ??         0:12.32 /usr/libexec/diskarbitrationd
+   69 ??        53:05.19 /usr/libexec/opendirectoryd
+   70 ??         0:03.85 /usr/sbin/wirelessproxd
+   72 ??         1:16.83 /System/Library/PrivateFrameworks/ApplePushService.fram
+   74 ??         3:12.18 /System/Library/CoreServices/launchservicesd
+   76 ??         1:14.49 /usr/sbin/securityd -i
+   81 ??         0:20.94 /usr/sbin/blued
+   82 ??         0:00.50 autofsd
+   85 ??         7:42.92 /usr/sbin/mDNSResponder
+   87 ??         0:00.49 /usr/libexec/stackshot -t -O
+   88 ??         0:02.67 /System/Library/PrivateFrameworks/GenerationalStorage.f
+   90 ??         0:01.13 /System/Library/CoreServices/logind
+   91 ??         0:00.28 /usr/sbin/KernelEventAgent
+   93 ??        76:36.75 /usr/libexec/hidd
+   94 ??         1:03.72 /usr/libexec/taskgated -s
+   95 ??         1:40.16 /usr/sbin/notifyd
+   97 ??         1:15.28 /System/Library/CoreServices/coreservicesd
+   99 ??        37:51.95 /usr/sbin/distnoted daemon
+  100 ??         0:05.02 /System/Library/Frameworks/Security.framework/Versions/
+  143 ??         0:00.22 /System/Library/Frameworks/PCSC.framework/Versions/A/XP
+  150 ??         0:14.57 /usr/libexec/watchdogd
+  166 ??         0:05.13 /usr/libexec/awacsd
+  167 ??         4:57.97 /usr/libexec/networkd
+  179 ??         0:26.68 /usr/libexec/usbd
+  180 ??         0:27.50 /usr/sbin/ntpd -c /private/etc/ntp-restrict.conf -n -g 
+  181 ??         0:02.69 /usr/libexec/corestoraged
+  184 ??         0:02.81 /System/Library/Frameworks/CoreMediaIO.framework/Resour
+  189 ??         7:45.98 /System/Library/Frameworks/CoreServices.framework/Frame
+  194 ??         0:06.33 /System/Library/Frameworks/OpenGL.framework/Versions/A/
+  196 ??         0:08.53 /System/Library/PrivateFrameworks/AmbientDisplay.framew
+  214 ??         0:03.43 /usr/libexec/securityd_service
+  218 ??       200:46.35 /usr/sbin/distnoted agent
+  240 ??         0:00.00 (SystemUIServer)
+  242 ??        66:10.56 /usr/sbin/coreaudiod
+  254 ??         0:38.58 /System/Library/CoreServices/backupd.bundle/Contents/Re
+  277 ??         0:09.99 /usr/sbin/filecoordinationd
+  287 ??         0:09.57 /usr/sbin/racoon -D
+  351 ??         0:06.46 /System/Library/CoreServices/CrashReporterSupportHelper
+  354 ??         8:13.82 /System/Library/CoreServices/SubmitDiagInfo server-init
+  378 ??         0:00.00 (com.apple.WebKit)
+  916 ??         8:12.83 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+  942 ??         0:01.82 /usr/bin/ssh-agent -l
+ 1005 ??         0:01.20 /System/Library/Frameworks/CoreServices.framework/Frame
+ 1284 ??         0:01.07 /System/Library/Frameworks/CoreServices.framework/Frame
+ 2026 ??         0:03.24 /System/Library/PrivateFrameworks/DiskImages.framework/
+ 3177 ??         0:00.25 /System/Library/Frameworks/CoreServices.framework/Frame
+ 3604 ??         0:00.84 /System/Library/PrivateFrameworks/Noticeboard.framework
+ 3617 ??         0:42.87 /usr/libexec/syspolicyd
+ 3641 ??         0:01.63 /System/Library/Frameworks/CoreServices.framework/Frame
+ 4134 ??         0:13.53 /System/Library/Frameworks/ApplicationServices.framewor
+11990 ??         0:00.79 /System/Library/Services/AppleSpell.service/Contents/Ma
+14084 ??         0:00.69 /System/Library/Filesystems/AppleShare/check_afp.app/Co
+14347 ??         0:00.00 (com.apple.WebKit)
+15978 ??         0:00.03 /System/Library/Frameworks/CoreServices.framework/Frame
+17565 ??         0:00.77 /System/Library/Services/AppleSpell.service/Contents/Ma
+19550 ??         0:00.73 /System/Library/Services/AppleSpell.service/Contents/Ma
+19607 ??         3:25.18 /usr/sbin/spindump
+19630 ??         0:02.59 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+22412 ??        21:37.12 /usr/libexec/nsurlstoraged
+23851 ??         0:02.81 /Users/esmeeellson/Library/Application Support/Spigot/A
+25732 ??         0:00.72 /System/Library/Services/AppleSpell.service/Contents/Ma
+27149 ??         0:05.77 /System/Library/PrivateFrameworks/CommerceKit.framework
+27308 ??         7:42.11 /Applications/GitHub Desktop.app/Contents/MacOS/GitHub 
+27364 ??         0:03.78 /Applications/Dropbox.app/Contents/PlugIns/garcon.appex
+27550 ??         0:24.46 /System/Library/PrivateFrameworks/DiskImages.framework/
+27714 ??       520:54.44 /System/Library/Frameworks/ApplicationServices.framewor
+27718 ??         2:39.69 /System/Library/CoreServices/loginwindow.app/Contents/M
+27732 ??         0:13.70 /System/Library/PrivateFrameworks/MobileDevice.framewor
+27754 ??         0:08.26 /System/Library/Frameworks/WebKit.framework/Versions/A/
+27771 ??         0:38.00 /usr/libexec/UserEventAgent (Aqua)
+27774 ??       371:03.01 /Applications/Safari.app/Contents/MacOS/Safari -psn_0_2
+27775 ??         0:05.83 /System/Library/PrivateFrameworks/IMCore.framework/imag
+27778 ??         3:56.32 /Applications/Notes.app/Contents/MacOS/Notes -psn_0_261
+27784 ??         0:22.81 /usr/sbin/usernoted
+27785 ??         0:55.17 /usr/libexec/locationd
+27786 ??         2:33.47 /System/Library/PrivateFrameworks/CalendarAgent.framewo
+27788 ??         0:22.53 /System/Library/PrivateFrameworks/IDS.framework/identit
+27797 ??         0:00.07 /usr/sbin/pboard
+27800 ??         5:22.37 /System/Library/CoreServices/Dock.app/Contents/MacOS/Do
+27802 ??         1:54.43 /System/Library/CoreServices/SystemUIServer.app/Content
+27806 ??        58:27.19 /System/Library/CoreServices/Finder.app/Contents/MacOS/
+27812 ??         0:09.66 /Applications/Adobe Premiere Pro CC 2015/Adobe Premiere
+27821 ??         0:30.80 /usr/libexec/sharingd
+27822 ??         1:53.74 /Applications/Adobe Premiere Pro CC 2015/Adobe Premiere
+27823 ??        13:03.99 /System/Library/Frameworks/ApplicationServices.framewor
+27827 ??         0:12.68 /System/Library/PrivateFrameworks/CommerceKit.framework
+27829 ??       132:35.96 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+27834 ??         0:32.79 /System/Library/CoreServices/Spotlight.app/Contents/Mac
+27837 ??         0:07.74 /System/Library/CoreServices/Dock.app/Contents/XPCServi
+27840 ??         0:10.84 /System/Library/CoreServices/Menu Extras/AirPort.menu/C
+27842 ??         0:14.45 /System/Library/PrivateFrameworks/ParsecUI.framework/Ve
+27846 ??         0:01.88 /System/Library/CoreServices/SocialPushAgent.app/Conten
+27848 ??         0:05.89 /System/Library/CoreServices/Keychain Circle Notificati
+27850 ??         1:34.47 /Users/esmeeellson/Library/Application Support/com.geni
+27852 ??        16:17.14 /System/Library/CoreServices/NotificationCenter.app/Con
+27854 ??         0:08.79 /Library/Application Support/Sony Application Launcher/
+27860 ??         0:01.08 /System/Library/PrivateFrameworks/AskPermission.framewo
+27862 ??         0:11.37 com.apple.photostream-agent
+27863 ??         0:28.43 /Users/esmeeellson/Library/Application Support/Spotify/
+27864 ??         0:03.77 /System/Library/CoreServices/cloudpaird
+27869 ??         0:41.88 /System/Library/CoreServices/WiFiAgent.app/Contents/Mac
+27870 ??         0:18.48 /System/Library/CoreServices/diagnostics_agent
+27879 ??         0:03.44 /Applications/iTunes.app/Contents/MacOS/iTunesHelper.ap
+27885 ??         0:00.92 /System/Library/Frameworks/DiskArbitration.framework/Ve
+27886 ??         0:01.74 /System/Library/PrivateFrameworks/KerberosHelper/Helper
+27892 ??         0:02.72 /usr/sbin/diskmanagementd
+27896 ??        51:24.28 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+27897 ??        26:28.45 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+27900 ??       2183:42.78 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+27901 ??        45:29.66 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+27903 ??        28:25.76 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+27905 ??       100:38.04 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+27906 ??       174:56.72 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+27910 ??         7:57.08 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+27911 ??        41:31.84 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+27920 ??         0:00.90 /System/Library/PrivateFrameworks/CommerceKit.framework
+27933 ??         2:18.24 /System/Library/PrivateFrameworks/CommerceKit.framework
+27944 ??         0:05.28 /Applications/Canon Utilities/IJ Network Scanner Select
+27949 ??         0:06.53 /System/Library/PrivateFrameworks/CommerceKit.framework
+27965 ??        28:02.74 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+27969 ??         1:17.57 /System/Library/PrivateFrameworks/CommerceKit.framework
+27991 ??         0:12.60 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+28001 ??       502:59.24 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+28010 ??         0:36.68 /System/Library/Services/AppleSpell.service/Contents/Ma
+28696 ??         0:00.47 /System/Library/Services/AppleSpell.service/Contents/Ma
+29359 ??        19:14.73 /System/Library/CoreServices/Software Update.app/Conten
+29363 ??         0:00.64 /System/Library/PrivateFrameworks/SoftwareUpdate.framew
+29720 ??         2:13.34 /System/Library/PrivateFrameworks/PackageKit.framework/
+29929 ??         1:25.56 /Applications/Utilities/Adobe Application Manager/IPC/A
+30015 ??         6:53.81 /Library/Application Support/Adobe/Adobe Desktop Common
+30016 ??         0:25.06 /Applications/Utilities/Adobe Creative Cloud/CCLibrary/
+30018 ??         0:00.86 /Library/Application Support/Adobe/Adobe Desktop Common
+30021 ??        24:25.18 /Applications/Utilities/Adobe Creative Cloud/ACC/Creati
+30028 ??         7:30.26 /Library/Application Support/Adobe/Adobe Desktop Common
+30030 ??        19:26.30 /Library/Application Support/Adobe/Adobe Desktop Common
+30035 ??         3:25.73 /Applications/Utilities/Adobe Creative Cloud/CoreSync/C
+30041 ??         3:02.92 /Applications/Utilities/Adobe Creative Cloud/CoreSync/C
+30051 ??         0:03.51 /Applications/Utilities/Adobe Creative Cloud/CoreSync/C
+30052 ??         0:03.57 /Applications/Utilities/Adobe Creative Cloud/CoreSync/C
+30055 ??         0:03.66 /Applications/Utilities/Adobe Creative Cloud/CoreSync/C
+30119 ??         0:00.81 /System/Library/PrivateFrameworks/DiskImages.framework/
+30130 ??         0:00.43 /System/Library/Services/AppleSpell.service/Contents/Ma
+30153 ??         0:00.55 /System/Library/PrivateFrameworks/DiskImages.framework/
+30179 ??         0:00.00 (ExManBridgeTalkC)
+30180 ??         0:00.00 (ExManBridgeTalkC)
+30219 ??         0:00.00 (ExManBridgeTalkC)
+30222 ??         0:00.00 (ExManBridgeTalkC)
+30223 ??         0:00.43 /System/Library/Services/AppleSpell.service/Contents/Ma
+30280 ??         0:00.00 (ExManBridgeTalkC)
+30281 ??         0:00.00 (ExManBridgeTalkC)
+30490 ??         0:06.00 /System/Library/PrivateFrameworks/CloudDocsDaemon.frame
+30988 ??         0:06.41 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+32266 ??        33:49.46 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+32316 ??        12:19.49 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+32395 ??         0:14.87 /Applications/Canon Utilities/IJ Manual/Easy Guide View
+32418 ??         1:11.61 /Applications/iTunes.app/Contents/MacOS/iTunes
+32441 ??         0:00.54 /System/Library/PrivateFrameworks/MobileDevice.framewor
+33098 ??        75:22.54 /System/Library/CoreServices/Dock.app/Contents/Resource
+33139 ??         0:00.34 /System/Library/Services/AppleSpell.service/Contents/Ma
+33591 ??         3:02.82 /Applications/Microsoft Office 2011/Microsoft Excel.app
+33669 ??         5:46.88 /Users/esmeeellson/Downloads/Mou.app/Contents/MacOS/Mou
+34133 ??         0:00.26 /System/Library/Services/AppleSpell.service/Contents/Ma
+35129 ??         0:01.09 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+35130 ??        15:12.78 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+35328 ??         1:11.82 /Applications/Utilities/Terminal.app/Contents/MacOS/Ter
+37346 ??         1:26.74 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+37701 ??         0:07.51 /usr/libexec/nsurlsessiond
+38238 ??        54:54.91 /Applications/Microsoft Office 2011/Microsoft Word.app/
+38260 ??         0:04.17 /Library/Application Support/Microsoft/MAU2.0/Microsoft
+39213 ??         0:20.38 /Users/esmeeellson/Downloads/PlotDevice.app/Contents/Ma
+42048 ??         0:00.18 /System/Library/Services/AppleSpell.service/Contents/Ma
+42166 ??        12:30.96 /Applications/Adobe InDesign CC 2015/Adobe InDesign CC 
+42184 ??         0:47.82 /Applications/Adobe InDesign CC 2015/Adobe InDesign CC 
+42251 ??         0:00.00 (sh)
+42257 ??         0:00.00 (sh)
+42259 ??         0:13.11 /Applications/Adobe InDesign CC 2015/Adobe InDesign CC 
+42269 ??         1:38.82 /Applications/Adobe InDesign CC 2015/Adobe InDesign CC 
+42894 ??         0:00.14 /System/Library/Services/AppleSpell.service/Contents/Ma
+45350 ??         0:01.30 /Applications/Dropbox.app/Contents/PlugIns/garcon.appex
+45351 ??         0:01.46 /Applications/Utilities/Adobe Creative Cloud/CoreSync/C
+45585 ??         2:45.19 /Applications/Adobe Reader.app/Contents/MacOS/AdobeRead
+45683 ??         2:38.25 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+46147 ??         0:47.65 automountd
+46593 ??         2:21.18 /Applications/Adobe Bridge CC/Adobe Bridge CC.app/Conte
+46602 ??         0:40.70 /Applications/Adobe Bridge CC/Adobe Bridge CC.app/Conte
+46605 ??         0:00.16 /Applications/Adobe Bridge CC/Adobe Bridge CC.app/Conte
+46714 ??        25:01.36 /Applications/Adobe Photoshop CC 2015/Adobe Photoshop C
+46717 ??         0:39.24 /Applications/Adobe Photoshop CC 2015/Adobe Photoshop C
+46742 ??         0:00.00 (sh)
+46745 ??         0:05.38 /Applications/Adobe Photoshop CC 2015/Adobe Photoshop C
+46749 ??         0:00.00 (sh)
+46752 ??         0:06.03 /Applications/Adobe Photoshop CC 2015/Adobe Photoshop C
+46754 ??         0:00.19 /Applications/Adobe Photoshop CC 2015/Adobe Photoshop C
+46759 ??         0:23.12 /Applications/Adobe Photoshop CC 2015/Adobe Photoshop C
+46760 ??         1:07.01 /Applications/Adobe Photoshop CC 2015/Adobe Photoshop C
+47100 ??         0:01.36 /Applications/Utilities/Adobe Creative Cloud/CoreSync/C
+47102 ??         0:01.27 /Applications/Dropbox.app/Contents/PlugIns/garcon.appex
+49615 ??         0:29.26 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+52972 ??         0:00.02 /System/Library/PrivateFrameworks/HelpData.framework/Ve
+54412 ??         3:05.27 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+55290 ??         0:01.48 /System/Library/Frameworks/ApplicationServices.framewor
+55722 ??         0:00.05 /usr/sbin/netbiosd
+55762 ??         0:00.27 /System/Library/PrivateFrameworks/MessagesKit.framework
+55763 ??         0:00.55 /usr/libexec/secinitd
+55764 ??         0:01.70 /usr/sbin/cfprefsd agent
+55765 ??         0:01.15 /usr/sbin/cfprefsd daemon
+55766 ??         0:00.36 /System/Library/PrivateFrameworks/TCC.framework/Resourc
+55767 ??         0:01.92 /usr/libexec/coreduetd
+55768 ??         0:00.08 /usr/libexec/nsurlstoraged
+55769 ??         0:00.66 /System/Library/CoreServices/lsuseractivityd
+55772 ??         0:00.80 sysmond
+55780 ??         0:00.05 /usr/libexec/networkd_privileged
+55781 ??         0:00.17 /usr/libexec/secd
+55782 ??         0:00.17 /System/Library/Frameworks/Accounts.framework/Versions/
+55789 ??         0:00.47 /usr/libexec/systemstatsd
+55825 ??         0:00.76 /System/Library/PrivateFrameworks/CacheDelete.framework
+55831 ??         0:01.50 /System/Library/PrivateFrameworks/SafariShared.framewor
+55833 ??         0:00.59 /usr/libexec/sandboxd -n PluginProcess -n 
+55834 ??         0:00.04 /System/Library/PrivateFrameworks/CoreSymbolication.fra
+55855 ??         0:00.08 /System/Library/PrivateFrameworks/PerformanceAnalysis.f
+55867 ??         0:01.40 /usr/libexec/pkd
+55887 ??         0:00.10 /System/Library/Frameworks/Security.framework/Versions/
+55889 ??         0:00.06 /usr/libexec/diagnosticd
+55965 ??         0:02.09 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+56020 ??         0:40.25 /System/Library/StagedFrameworks/Safari/WebKit.framewor
+56083 ??         0:03.56 /usr/libexec/amfid
+56092 ??         0:00.64 /System/Library/PrivateFrameworks/InternetAccounts.fram
+57799 ??         0:00.11 /System/Library/CoreServices/iconservicesagent
+57800 ??         0:00.10 /System/Library/CoreServices/pbs
+57809 ??         0:00.03 /System/Library/CoreServices/iconservicesd
+57827 ??         0:00.71 /System/Library/Frameworks/CoreServices.framework/Frame
+57863 ??         0:00.23 /System/Library/PrivateFrameworks/CalendarAgent.framewo
+57956 ??         0:34.73 /Volumes/Sublime Text/Sublime Text.app/Contents/MacOS/S
+57967 ??         0:00.89 /Volumes/Sublime Text/Sublime Text.app/Contents/MacOS/p
+57977 ??         0:00.04 /System/Library/PrivateFrameworks/TCC.framework/Resourc
+58054 ??         0:00.03 /System/Library/PrivateFrameworks/DataDetectorsCore.fra
+58080 ??         0:00.74 /Applications/Utilities/Adobe Creative Cloud/CoreSync/C
+58092 ??         0:00.02 /System/Library/PrivateFrameworks/AccountPolicy.framewo
+58243 ??         0:00.07 /System/Library/Frameworks/InputMethodKit.framework/Ver
+58244 ??         0:00.01 /System/Library/PrivateFrameworks/CloudDocsDaemon.frame
+58442 ??         0:00.39 /System/Library/Frameworks/QuickLook.framework/Resource
+58444 ??         0:00.30 /System/Library/Frameworks/QuickLook.framework/Versions
+58448 ??         0:00.51 /Applications/TextEdit.app/Contents/MacOS/TextEdit
+58475 ??         0:00.34 /System/Library/PrivateFrameworks/RemoteViewServices.fr
+58781 ??         0:00.25 /System/Library/Frameworks/CoreServices.framework/Frame
+58796 ??         0:00.21 /System/Library/Frameworks/QuickLook.framework/Versions
+58799 ??         0:00.06 /System/Library/PrivateFrameworks/SafariServices.framew
+58803 ??         0:00.08 /System/Library/Frameworks/ApplicationServices.framewor
+58820 ??         0:00.22 /System/Library/CoreServices/CoreServicesUIAgent.app/Co
+58965 ??         0:00.44 /System/Library/Frameworks/Quartz.framework/Frameworks/
+59015 ??         0:24.07 /Applications/Adobe Illustrator CC 2015/Adobe Illustrat
+59022 ??         0:01.20 /Applications/Adobe Illustrator CC 2015/Adobe Illustrat
+59027 ??         0:00.01 /System/Library/Frameworks/ApplicationServices.framewor
+59049 ??         0:00.01 /usr/libexec/spindump_agent
+59055 ??         0:00.03 /System/Library/Frameworks/CoreServices.framework/Frame
+59056 ??         0:00.03 /System/Library/Frameworks/CoreServices.framework/Frame
+59059 ??         0:00.03 /System/Library/Frameworks/CoreServices.framework/Frame
+59084 ??         0:00.26 /Applications/Dropbox.app/Contents/PlugIns/garcon.appex
+59085 ??         0:00.26 /Applications/Utilities/Adobe Creative Cloud/CoreSync/C
+59875 ??         0:17.50 /System/Library/PrivateFrameworks/Noticeboard.framework
+62306 ??        16:56.90 /Applications/Dropbox.app/Contents/MacOS/Dropbox /first
+62341 ??         0:20.40 /Library/DropboxHelperTools/Dropbox_u501/dbfseventsd
+62342 ??         1:01.98 /Library/DropboxHelperTools/Dropbox_u501/dbfseventsd
+62344 ??         0:55.34 /Library/DropboxHelperTools/Dropbox_u501/dbfseventsd
+62358 ??         0:08.82 /Applications/Dropbox.app/Contents/PlugIns/garcon.appex
+62359 ??         0:06.55 /Applications/Dropbox.app/Contents/PlugIns/garcon.appex
+62374 ??         0:42.14 /System/Library/Image Capture/Support/Image Capture Ext
+70276 ??         1:13.27 /System/Library/PrivateFrameworks/DiskImages.framework/
+70286 ??         0:00.36 /System/Library/PrivateFrameworks/DiskImages.framework/
+87314 ??         0:01.04 /System/Library/Services/AppleSpell.service/Contents/Ma
+96901 ??         0:01.04 /System/Library/Services/AppleSpell.service/Contents/Ma
+35331 ttys000    0:00.43 login -pf esmeeellson
+35333 ttys000    0:00.06 -bash
+36231 ttys000    0:00.14 /bin/zsh
+59251 ttys001    0:00.05 login -pf esmeeellson /bin/zsh
+59252 ttys001    0:00.13 -zsh
+59285 ttys001    0:00.00 ps -ax
+37143 ttys002    0:00.04 login -pf esmeeellson /bin/zsh
+37144 ttys002    0:00.78 -zsh
+36644 ttys003    0:00.04 login -pf esmeeellson /bin/zsh
+36646 ttys003    0:00.06 -zsh
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]%   
