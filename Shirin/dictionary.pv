@@ -1,7 +1,0 @@
-d = { 'address': 113, 'surface': 12,'ceiling height':2, 'doors': 1, 'windows':4, 'roomates':2 }
-print d['address']
-d['window'] = "I have 4 windows"
-print d['window']
-
-sentence = "I live in a %s room at onderlangs %d straat. Besides me there live %d other people." % ("little",113 , 3)
-print sentence
