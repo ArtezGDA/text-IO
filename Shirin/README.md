@@ -15,6 +15,8 @@
 [How many occurances of 'cat' are there in the collected works?]() (Cat.rtf)<br>
 [How many occurances of ‘dog’ are there in the collected works?]() (Dog.rtf)<br>
 [Find all occurances of 'horror' are there in the collected works of Poe and see them in context and with line numbers]() (horror.rtf)<br>
+<br><br>
+[Photoshop]() (adobe.rtf)<br>
 
 
 
