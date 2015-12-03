@@ -135,7 +135,7 @@ Data structure I
 		'prize': '0,99',
 
 
-				},
+		},
 		{
 		
 		'name': 'Star',
