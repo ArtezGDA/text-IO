@@ -1,0 +1,18 @@
+a = ["Filosofie", "Fotografie", "Design Reaserch", "Annie", "Computer Skills", "Media Design", "Typografie", "Grafisch"]
+print len(a)
+
+a + ["Media Theorie"]
+#a.append("Media Theorie")
+
+print len (a)
+
+a.pop(7)
+print len (a)
+
+a.pop(3)
+print len (a)
+
+print a[4]
+
+
+print a

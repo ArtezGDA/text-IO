@@ -1,0 +1,6 @@
+d = { 'adres':19, 'oppervlakte kamer': "21 m2", 'hoogte kamer': "3,2 m", 'bedgrootte': "2persoons 160cm bij 200 cm", 'merk printer': "Epson XP-950"}
+#d = { 'kleren': "veel blousjes met kleur"}
+
+#for n in d: 
+#    print n
+print 'adres'    

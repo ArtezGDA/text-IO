@@ -1,10 +1,4 @@
-# Nikki G's work for Text IO 
-
-## Homework
-[collections]() (python code)
-Cowsay: 
-
-
+```
 Last login: Thu Dec  3 13:44:04 on ttys000
 [Nikki@MacBook-Pro-van-Nikki: ~]% ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 It appears Homebrew is already installed. If your intent is to reinstall you
@@ -40,14 +34,4 @@ The current contents of /usr/local are bin Cellar clamXav CODEOFCONDUCT.md CONTR
                      |_____|        |_____|         ~ - . _ _ _ _ _>
 [Nikki@MacBook-Pro-van-Nikki: ~]% 
 
-
-## Concept
-
-## Prototype: working demo
-
-## Design the flow of the program
-
-## How to use the script
-
-## PDF format 
-			
+```
