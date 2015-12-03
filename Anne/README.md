@@ -106,7 +106,7 @@ Data structure I
 
 		{
 		
-		'name': 'Can't Let Go',
+		'name': 'Cant Let Go',
 		'duration': '3:28',
 		'prize': '1,29',
 
