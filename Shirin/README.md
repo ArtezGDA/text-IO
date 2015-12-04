@@ -2,7 +2,7 @@
 
 ## Homework
 [List]() (Shirin/list.pv)<br>
-[Dictionary of my room]() (Shirin/dictionaryRoom.pv)<br>
+[Dictionary of my room]() (Shirin/Room.inventory.pv)<br>
 [Data Structure]() (Shirin/data.structure.pv)<br>
 [Data Structure]() (Shirin/test.zork.json)<br>
 [iTunes]() (Shirin/iTunes.pv)<br>
