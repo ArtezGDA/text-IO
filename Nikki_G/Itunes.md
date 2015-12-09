@@ -1,3 +1,4 @@
+#####import
 ```
 Itunens = {
 	'Caracal (Deluxe)': [
@@ -27,4 +28,36 @@ Itunens = {
 	],
 }
 
+```
+```
+import itunes.py 
+
+d = Itunes.data
+
+print "Mijn lievelings liedje is %s met de duur van %d minuten" % (d ['title14'], d ['time14'])
+```
+#####uitkomst
+```
+Last login: Wed Dec  9 14:49:38 on ttys001
+[Nikki@MacBook-Pro-van-Nikki: ~]% cd/Users/Nikki/Documents/A\ School/Artez\ GD2A/Media\ Design/Zelf\ Text 
+zsh: command not found: cd/Users/Nikki/Documents/A School/Artez GD2A/Media Design/Zelf Text
+[Nikki@MacBook-Pro-van-Nikki: ~]% cd Documents                            [109]
+[Nikki@MacBook-Pro-van-Nikki: ~/Documents]% cd /Users/Nikki/Documents/A\ School/Artez\ GD2A/Media\ Design/Zelf\ Text 
+[Nikki@MacBook-Pro-van-Nikki: Artez GD2A/Media Design/Zelf Text]% python itunes_data.py
+Traceback (most recent call last):
+  File "itunes_data.py", line 1, in <module>
+    import itunes.py 
+  File "/Users/Nikki/Documents/A School/Artez GD2A/Media Design/Zelf Text/itunes.py", line 8
+    {'title2': "omen', 'time": 3.50},
+                             ^
+SyntaxError: invalid syntax
+[Nikki@MacBook-Pro-van-Nikki: Artez GD2A/Media Design/Zelf Text]% python itunes_data.py
+Traceback (most recent call last):
+  File "itunes_data.py", line 1, in <module>
+    import itunes.py 
+  File "/Users/Nikki/Documents/A School/Artez GD2A/Media Design/Zelf Text/itunes.py", line 8
+    {'title2': "omen', 'time2": 3.50},
+                              ^
+SyntaxError: invalid syntax
+[Nikki@MacBook-Pro-van-Nikki: Artez GD2A/Media Design/Zelf Text]%  
 ```
