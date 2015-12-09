@@ -1,0 +1,75 @@
+spotify = {
+    'Artist': 'London Grammer',
+    'Album' : [
+            {
+                "name": "if you wait",
+                "year": "2013",
+                "track": [
+                    { 
+                        "number": "01",
+                        "title": "hey now",
+                        "duration": "3.07"
+                    },
+                    { 
+                        "number": "02",
+                        "title": "stay awake",
+                        "duration": "3.07"
+                    },
+                    { 
+                        "number": "03",
+                        "title": "shyer",
+                        "duration": "3.07"
+                    },
+                    
+                     { 
+                        "number": "04",
+                        "title": "wasting my young years",
+                        "duration": "3.07"
+                    },
+                    
+                     { 
+                        "number": "05",
+                        "title": "sights",
+                        "duration": "3.07"
+                    },
+                    
+                     { 
+                        "number": "06",
+                        "title": "strong",
+                        "duration": "3.07"
+                    },
+                    
+                     { 
+                        "number": "07",
+                        "title": "nightcall",
+                        "duration": "3.07"
+                    },
+                    
+                     { 
+                        "number": "08",
+                        "title": "metal & dust",
+                        "duration": "3.07"
+                    },
+                    
+                     { 
+                        "number": "09",
+                        "title": "flickers",
+                        "duration": "3.07"
+                    },
+                    
+                     { 
+                        "number": "10",
+                        "title": "if you wait",
+                        "duration": "3.07"
+                     }
+                        ]
+
+            }
+            
+            ]
+        
+        }
+           
+            
+           
+print spotify
