@@ -103,6 +103,7 @@ print sentence
  
 
 ## Concept
+You type one word and pop up banners game up
 
 ## Prototype: working demo
 
