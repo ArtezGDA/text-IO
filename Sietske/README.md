@@ -33,8 +33,13 @@
 
 <br>
 ## Concept
+Nieuwe fortune berichten van random regels uit Charles Bukowski boeken
 
 ## Prototype: working demo
+![](textIO/prototype1.png)
+
+![](textIO/prototype2.png)
+
 
 ## Design the flow of the program
 
