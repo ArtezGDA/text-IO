@@ -1,0 +1,6 @@
+import room_file.pv
+
+d = room_file.room_sietske
+
+print "Hello, my address is %s, %s. " % (d['address'], d['postcode'], d['city'])
+print "The height is %d m, the surface is %d m2, and it has %d door and %d windows" % (d['height ceiling'], d['surface'], d['doors'], d['windows'])

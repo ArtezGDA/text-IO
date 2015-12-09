@@ -1,0 +1,12 @@
+vakken = ["Fotografie", "Filosofie", "Media theorie", "Design Research", "Coding", "Computer Vaardigheden", "Grafisch ontwerp", "Typografie"]
+print vakken [4]
+
+print len(vakken)
+
+vakken.append("MD Lezing")
+print vakken
+
+print len(vakken)
+
+del vakken[2]
+print vakken

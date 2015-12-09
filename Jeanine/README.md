@@ -1,7 +1,16 @@
 # Jeanine's work for Text IO 
 
 ## Homework
-[collections]() (python code)
+[List]() (List_vakken.pv)
+
+[Dictonairy]() (my_data_file_room.py)
+
+[Spotify]() (my_data_file_spotify.py)
+
+[Cowsay] () (Cowsay)
+
+[Poe] () (Poe)
+
 
 ## Concept
 

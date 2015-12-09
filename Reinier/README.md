@@ -1,7 +1,9 @@
 # Reinier's work for Text IO 
 
 ## Homework
-[collections]() (python code)
+[Cowsay](cowsay.md)
+[poe](poe.md)
+
 
 ## Concept
 

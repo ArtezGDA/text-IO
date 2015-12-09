@@ -1,0 +1,55 @@
+iTunes = {
+    'Artist': 'Michael Jackson',
+    'Album' : [
+            {
+                "name": "bad",
+                "year": "1978",
+                "track": [
+                    { 
+                        "number": "01",
+                        "title": "bad",
+                        "duration": "3.07"
+                    },
+                    { 
+                        "number": "02",
+                        "title": "the way you make me feel",
+                        "duration": "3.07"
+                    },
+                    { 
+                        "number": "03",
+                        "title": "thrillerl",
+                        "duration": "3.07"
+                    }
+                    ]
+
+            },
+            
+            {
+                "name": "thriller",
+                "year": "1983",
+                "track": [
+                        { 
+                        "number": "01",
+                        "title": "wanna be started something",
+                        "duration": "3.07"
+                        },
+                        { 
+                        "number": "02",
+                        "title": "baby be mine",
+                        "duration": "3.07"
+                        },
+                        { 
+                        "number": "03",
+                        "title": "the girl is mine",
+                        "duration": "3.07"
+                        }
+                        ]
+
+            }
+            
+            ]
+        
+        }
+print iTunes
+
+

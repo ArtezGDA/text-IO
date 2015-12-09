@@ -1,0 +1,43 @@
+Last login: Thu Dec  3 12:22:52 on ttys001
+[AnneGoossens@MacBook-Pro-van-Anne-Goossens: ~]% ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+It appears Homebrew is already installed. If your intent is to reinstall you
+should do the following before running this installer again:
+    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall)"
+The current contents of /usr/local are bin CODEOFCONDUCT.md CONTRIBUTING.md Library LICENSE.txt README.md share SUPPORTERS.md .git .gitignore
+[AnneGoossens@MacBook-Pro-van-Anne-Goossens: ~]% brew install cowsay       [86]
+==> Downloading https://homebrew.bintray.com/bottles/cowsay-3.03.yosemite.bottle
+######################################################################### 100.0%
+==> Pouring cowsay-3.03.yosemite.bottle.1.tar.gz
+🍺  /usr/local/Cellar/cowsay/3.03: 53 files, 228K
+[AnneGoossens@MacBook-Pro-van-Anne-Goossens: ~]% cowsay "hello"            [87]
+zsh: correct cowsay to _cowsay ? ([Y]es/[N]o/[E]dit/[A]bort) n
+ _______ 
+< hello >
+ ------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+[AnneGoossens@MacBook-Pro-van-Anne-Goossens: ~]% cowsay -l                 [88]
+Cow files in /usr/local/Cellar/cowsay/3.03/share/cows:
+beavis.zen bong bud-frogs bunny cheese cower daemon default dragon
+dragon-and-cow elephant elephant-in-snake eyes flaming-sheep ghostbusters
+head-in hellokitty kiss kitty koala kosh luke-koala meow milk moofasa moose
+mutilated ren satanic sheep skeleton small sodomized stegosaurus stimpy
+supermilker surgery telebears three-eyes turkey turtle tux udder vader
+vader-koala www
+[AnneGoossens@MacBook-Pro-van-Anne-Goossens: ~]% cowsay -f skeleton Hello  [89]
+ _______ 
+< Hello >
+ ------- 
+          \      (__)      
+           \     /oo|  
+            \   (_"_)*+++++++++*
+                   //I#\\\\\\\\I\
+                   I[I|I|||||I I `
+                   I`I'///'' I I
+                   I I       I I
+                   ~ ~       ~ ~
+                     Scowleton
+[AnneGoossens@MacBook-Pro-van-Anne-Goossens: ~]%  

@@ -1,0 +1,13 @@
+
+my_room = {'address' : "Emmastraat 25", 'ceiling height' : "4 meters", 'surface' : "12 m2", 'windows' : 2, 'doors' : 1}
+
+
+print "My address is:", my_room["address"]
+
+print "My ceiling is", my_room["ceiling height"], "high."
+
+print "The surface of my room is:", my_room["surface"]
+
+print "In my room there are", my_room["windows"], "windows and", my_room["doors"], "door."
+
+

@@ -1,0 +1,1 @@
+my_data = {'naam': "Jeanine van Berkel", 'age': 20}

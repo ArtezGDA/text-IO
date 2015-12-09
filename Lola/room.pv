@@ -1,0 +1,30 @@
+size(512, 512)
+background(1)
+
+d = {'name': "Lola Beumer",
+     'adress': "beekstraat 24a",
+     'city': "Arnhem",
+     'zipcode': "6811DV",
+     'room mates': "max, nina & madelon",
+     'square meters': "18 square meters",
+     'windows': "1 window",
+     'heater': "1 heather ",
+     'floor': "carpet",
+     
+     
+     }
+
+
+print "hi my name is", d['name'], "my adress is", d['adress'],"my zipcode is", d['zipcode'],"My room mates are", d['room mates'],"my room is", d['square meters'],"and has", d['windows'],"and ", d['heater'],"and the floor is", d['floor']
+
+
+
+
+
+
+
+
+
+
+
+

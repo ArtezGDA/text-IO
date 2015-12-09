@@ -1,0 +1,12 @@
+vakken = ["Filosofie", "Fotografie", "Design Research", "Media Theory", "Computer Skills", "Digital Media", "Typografie", "Graphic Design"]
+print len(vakken)
+
+vakken.append("Lecture")
+print len(vakken)
+
+print vakken
+
+del vakken[8]
+
+print vakken
+print len(vakken)

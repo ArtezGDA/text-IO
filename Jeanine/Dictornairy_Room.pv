@@ -1,0 +1,6 @@
+d = { 'address': "Heemskerckstraat 1",  'postcode': 6828,  'city': "Arnhem",  'surface': 20,'ceiling height':2, 'doors': 2, 'windows':2, 'roomates':3 }
+print d['city']
+d['roommates'] = "I have 3 roommates"
+print d['roommates']
+sentence = "I live at %s and I think I have a %s room with %s windows." % (d["address"], "cosy", d["windows"])
+print sentence

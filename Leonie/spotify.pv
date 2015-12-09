@@ -1,0 +1,55 @@
+spotify = {
+    'Artist': 'The opposites',
+    'Album' : [
+            {
+                "name": "de fik erin",
+                "year": "2008",
+                "track": [
+                    { 
+                        "number": "01",
+                        "title": "wat staar je?!",
+                        "duration": "3.49"
+                    },
+                    { 
+                        "number": "02",
+                        "title": "Fok Jou!",
+                        "duration": "2.52"
+                    },
+                    { 
+                        "number": "03",
+                        "title": "je kan niks doen",
+                        "duration": "3.32"
+                    }
+                    ]
+
+            },
+            
+            {
+                "name": "begin 20",
+                "year": "2008",
+                "track": [
+                        { 
+                        "number": "01",
+                        "title": "hol van de leeuw",
+                        "duration": "2.17"
+                        },
+                        { 
+                        "number": "02",
+                        "title": "vandaag",
+                        "duration": "3.40"
+                        },
+                        { 
+                        "number": "03",
+                        "title": "jouw pijn, mijn pijn",
+                        "duration": "3.16"
+                        }
+                        ]
+
+            }
+            
+            ]
+        
+        }
+print spotify
+
+

@@ -1,0 +1,37 @@
+albums = [
+    'Wiped Out!',
+    'To Pimp a Butterfly',
+    'Goddess',
+    'Liminal',
+    'AM'
+]
+
+songs = {
+    'Wiped Out!': 5,
+    'To Pimp a Butterfly' : 3,
+    'Goddess' : 4,
+    'Liminal' : 2,
+    'AM' : 3
+}
+
+artists = {
+    'Wiped Out!': "The Neighbourhood",
+    'To Pimp a Butterfly' : "Kendrick Lamar",
+    'Goddess' : "BANKS",
+    'Liminal' : "The Acid",
+    'AM': 'Arctic Monkeys'
+}
+
+year = {
+    'Wiped Out!' : "2015",
+    'To Pimp a Butterfly': "2015",
+    'Goddess' : "2014",
+    'Liminal' : "2014",
+    'AM': '2013'
+}
+
+print "AM by the", artists['AM'], "came out in", year['AM']
+print albums[1], "has", songs['To Pimp a Butterfly'], "songs on it"
+
+#i don't know how to add properties per song
+# because i don't know how to separate the songs

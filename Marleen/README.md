@@ -3,6 +3,18 @@
 ## Homework
 [collections]() (python code)
 
+*Italic*
+
+**Bold**
+
+***Bold Italic***
+
+
+```
+
+
+```
+
 ## Concept
 
 ## Prototype: working demo

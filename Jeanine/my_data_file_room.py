@@ -1,0 +1,1 @@
+my_data_room = { 'address': "Heemskerckstraat 1",  'postcode': 6828,  'city': "Arnhem",  'surface': 20,'ceiling height':2, 'doors': 2, 'windows':2, 'roomates':3 }
