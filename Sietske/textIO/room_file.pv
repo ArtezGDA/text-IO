@@ -1,4 +1,4 @@
-roomSietske = 
+room_sietske = 
         {
             'address': "Hommelseweg 235", 
             'postcode': "6821 LG",
@@ -8,3 +8,4 @@ roomSietske =
             'doors': 1,
             'windows': 2,
         }
+

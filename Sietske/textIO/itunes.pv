@@ -1,0 +1,170 @@
+iTunes = {
+    'Artist': 'The So So Gloss',
+    'Album' : [
+            {
+                'name': "Blowout",
+                'year': "2013",
+                'track': [
+                    { 
+                        'number': "01",
+                        'title': "Son of an American",
+                        'duration': "3.00"
+                    },
+                    { 
+                        'number': "02",
+                        'title': "House of Glass",
+                        'duration': "2.17"
+                    },
+                    { 
+                        'number': "03",
+                        'title': "Diss Town",
+                        'duration': "3.11"
+                    },
+                    { 
+                        'number': "04",
+                        'title': "Lost Weekend",
+                        'duration': "3.28"
+                    },
+                    { 
+                        'number': "05",
+                        'title': "Blowout",
+                        'duration': "2.46"
+                    },
+                    { 
+                        'number': "06",
+                        'title': "Wrecking Ball",
+                        'duration': "2.55"
+                    },
+                    { 
+                        'number': "07",
+                        'title': "Speakeasy",
+                        'duration': "3.07"
+                    },
+                    { 
+                        'number': "08",
+                        'title': "All of the Time",
+                        'duration': "4.27"
+                    },
+                    { 
+                        'number': "09",
+                        'title': "Everything Revival",
+                        'duration': "3.43"
+                    },
+                    { 
+                        'number': "10",
+                        'title': "Island Ridin'",
+                        'duration': "4.09"
+                    },
+                    { 
+                        'number': "11",
+                        'title': "Dizzy",
+                        'duration': "6.09"
+                    }
+                    ]
+
+            },
+            ],
+            
+        'Artist': "the Beatles",
+        'Album': [
+              {
+                'name': "Abbey Road",
+                'year': 1969,
+                'track': [
+                    {
+                       'number': "01",
+                        'title': "Come Together",
+                        'duration': "4.21", 
+                    },
+                    {
+                       'number': "02",
+                        'title': "Something",
+                        'duration': "3.03", 
+                    },
+                    {
+                       'number': "03",
+                        'title': "Maxwell's Silver Hammer",
+                        'duration': "3.27", 
+                    },
+                    {
+                       'number': "04",
+                        'title': "Oh! Darling",
+                        'duration': "3.27",
+                    },
+                    {
+                       'number': "05",
+                        'title': "Octopus's Garden",
+                        'duration': "2.51", 
+                    },
+                    {
+                       'number': "06",
+                        'title': "I Want You (She's So Heavy)",
+                        'duration': "7.47", 
+                    },
+                    {
+                       'number': "07",
+                        'title': "Here Comes the Sun",
+                        'duration': "3.06", 
+                    },
+                    {
+                       'number': "08",
+                        'title': "Becauser",
+                        'duration': "2.46", 
+                    },
+                    {
+                       'number': "09",
+                        'title': "You Never Give Me Your Money",
+                        'duration': "4.02", 
+                    },
+                    {
+                       'number': "10",
+                        'title': "Sun King",
+                        'duration': "2.26", 
+                    },
+                    {
+                       'number': "11",
+                        'title': "Mean Mr. Mustard",
+                        'duration': "1.06", 
+                    },
+                    {
+                       'number': "12",
+                        'title': "Polythene Pam",
+                        'duration': "1.13", 
+                    },
+                    {
+                       'number': "13",
+                        'title': "She Came in Through the Bathroom Window",
+                        'duration': "1.58", 
+                    },
+                    {
+                       'number': "14",
+                        'title': "Golden Slumbers",
+                        'duration': "1.32", 
+                    },
+                    {
+                       'number': "15",
+                        'title': "Carry That Weight",
+                        'duration': "1.37", 
+                    },
+                    {
+                       'number': "16",
+                        'title': "End",
+                        'duration': "2.20", 
+                    },
+                    {
+                       'number': "17",
+                        'title': "Her Majesty",
+                        'duration': "0.23", 
+                    },
+                    
+                  ]
+              }
+            
+            ]
+            
+        }
+        
+print iTunes
+
+
+
