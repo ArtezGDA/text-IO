@@ -3,10 +3,10 @@ background(1)
 
 courses = ["philosophy", "photography", "media and theory design", "design research", "coding", "computerskills", "graphic design", "typography"]
 print len(courses) 
-courses.append("willem")
+courses.append("ton")
 print courses
 print len(courses)
-courses.pop("willem")
+courses.pop("ton")
 print len(courses)
 
 text("Welcome to PlotDevice", 40, 40)
