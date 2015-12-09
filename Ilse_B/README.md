@@ -3,6 +3,9 @@
 ## Homework
 [collections]() (python code)
 
+[dictionary](Ilse_B/mediadesign/dictionary/dictionary.pv)
+
+[list](Ilse_B/mediadesign/dictionary/list.pv)
 ## Concept
 
 ## Prototype: working demo

@@ -1,0 +1,6 @@
+d = { 'address': "Jacob Cremerstraat 35",  'postcode': "6821DB",  'city': "Arnhem",  'surface': "15m2", 'ceiling height': "3 meters", 'doors': 1, 'windows':2}
+
+
+
+print "My room is", d['surface'], "big", "My room is on", d['address'], "My ceiling is", d['ceiling height'], "high"
+

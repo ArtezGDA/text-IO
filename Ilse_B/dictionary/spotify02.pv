@@ -1,0 +1,73 @@
+spotify = {
+    'Artist': 'Adele',
+    'Album' : [
+            {
+                "name1": "25",
+                "year": "2015",
+                "track": [
+                    { 
+                        "number1": "01",
+                        "title": "Hello",
+                        "duration": "4.55"
+                    },
+                    { 
+                        "number2": "02",
+                        "title": "Send My Love",
+                        "duration": "3.43"
+                    },
+                    { 
+                        "number3": "03",
+                        "title": "I Miss You",
+                        "duration": "5.49"
+                    },
+                    { 
+                        "number4": "04",
+                        "title": "When We Were Young",
+                        "duration": "4.51"
+                    },
+                    { 
+                        "number5": "05",
+                        "title": "Remedy",
+                        "duration": "4.05"
+                    },
+                    { 
+                        "number6": "06",
+                        "title": "Water Under The Bridge",
+                        "duration": "4.00"
+                    },
+                    { 
+                        "number7": "07",
+                        "title": "River Lea",
+                        "duration": "3.45"
+                    },
+                    ]
+
+            },
+            
+            {
+                "name2": "Noble Beast",
+                "year": "2008",
+                "track": [
+                        { 
+                        "number1": "01",
+                        "title": "Oh No",
+                        "duration": "4.20"
+                        },
+                        { 
+                        "number2": "02",
+                        "title": "Masterswarm",
+                        "duration": "3.50"
+                        },
+                        { 
+                        "number3": "03",
+                        "title": "Fitz And The Dizzy Spells",
+                        "duration": "3.20"
+                        }
+                        ]
+
+            }
+            
+            ]
+        
+        }
+print spotify ['name1']

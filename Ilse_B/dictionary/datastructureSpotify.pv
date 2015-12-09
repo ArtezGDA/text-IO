@@ -1,0 +1,189 @@
+spotify = {
+	'albums': [
+	{
+		'name1': '25', 
+		'year':2015, 
+		'artist': "Adele",
+		'songs': 
+		[
+		{'name': '1', 'title': "Hello", 'length': 4:55},
+		{'name': '2', 'title': "Send My Love", 'length': 3:43},
+		{'name': '3', 'title': "I Miss You", 'length': 5:49},
+		{'name': '4', 'title': "When We Were Young", 'length': 4:51},
+		{'name': '5', 'title': "Remedy", 'length': 4:05},
+		{'name': '6', 'title': "Water Under The Bridge", 'length': 4:00},
+		{'name': '7', 'title': "River Lea", 'length': 3:45},
+		{'name': '8', 'title': "Love In The Dark", 'length': 4:46},
+		{'name': '9', 'title': "Million Years Ago",'length': 3:47},
+		{'name': '10', 'title': "All I Ask", 'length': 4:32},
+		{'name': '11', 'title': "Sweetest Devotion", 'length': 4:12},
+		]
+	},
+	{
+		'name': 'Noble Beast', 
+		'year':2008, 
+		'artist': "Andrew Bird",
+		'songs': 
+		[
+		{'name': '1' 'title': "Oh No" 'length': 4:20},
+		{'name': '2' 'title': "Masterswarm" 'length': 6:35},
+		{'name': '3' 'title': "Fitz And The Dizzy Spells" 'length': 3:36},
+		{'name': '4' 'title': "Effigy" 'length': 5:06},
+		{'name': '5' 'title': "Tenuousness" 'length': 3:51},
+		{'name': '6' 'title': "Nomenclature" 'length': 2:54},
+		{'name': '7' 'title': "Ouo" 'length': 0:20},
+		{'name': '8' 'title': "Not A Robot, But A Ghost" 'length': 5:37},
+		{'name': '9' 'title': "Unfolding Fans" 'length': 0:57},
+		{'name': '10' 'title': "Anonanimal" 'length': 4:47},
+		{'name': '11' 'title': "Natural Disaster" 'length': 4:18},
+		{'name': '12' 'title': "The Privateers" 'length': 3:24},
+		{'name': '13' 'title': "Souverian" 'length': 7:18},
+		{'name': '14' 'title': "Oh Ho!" 'length': 1:18},
+		]
+	},
+	
+	{
+		'name': 'Islands', 
+		'year':2015, 
+		'artist': "Bear's Den",
+		'songs': 
+		[
+		{'name': '1' 'title': "Agape" 'length': 4:16},
+		{'name': '2' 'title': "The Love We Stole" 'length': 3:42},
+		{'name': '3' 'title': "Above The Clouds Of Pompeii" 'length': 4:39},
+		{'name': '4' 'title': "Isaac" 'length': 4:19},
+		{'name': '5' 'title': "Think Of England" 'length': 4:00},
+		{'name': '6' 'title': "Magdalene" 'length': 3:42},
+		{'name': '7' 'title': "When You Break" 'length': 4:47},
+		{'name': '8' 'title': "Stubborn Beast" 'length': 4:29},
+		{'name': '9' 'title': "Elusium (Album Version)" 'length': 3:26},
+		{'name': '10' 'title': "Bad Blood" 'length': 5:00},
+		]
+	},
+	{
+	    'name': 'Without/Within', 
+		'year':2013, 
+		'artist': "Bear's Den",
+		'songs': 
+		[
+		{'name': '1' 'title': "Sahara pt.I" 'length': 1:53},
+		{'name': '2' 'title': "Sahara pt.II" 'length': 4:12},
+		{'name': '3' 'title': "Don't Let The Sun Steal You Away" 'length': 4:28},
+		{'name': '4' 'title': "Writing On The Wall" 'length': 4:13},
+		{'name': '5' 'title': "Sophie" 'length': 5:04},
+		{'name': '6' 'title': "My Lair" 'length': 5:16},
+	    ]
+	},
+	{
+	    'name': 'Get To Heaven', 
+		'year':2015, 
+		'artist': "Everything Everything",
+		{'name': '1' 'title': "To The Blade" 'length': 4:15},
+		{'name': '2' 'title': "Distant Past" 'length': 3:42},
+		{'name': '3' 'title': "Get To Heaven" 'length': 3:43},
+		{'name': '4' 'title': "Regret" 'length': 3:22},
+		{'name': '5' 'title': "Spring/Sun/Winter/Dread" 'length': 3:18},
+		{'name': '6' 'title': "The Wheel (Is Turning Now)" 'length': 5:26},
+		{'name': '7' 'title': "Fortune 500" 'length': 4:16},
+		{'name': '8' 'title': "Blast Doors" 'length': 3:30},
+		{'name': '9' 'title': "Zero Pharaoh" 'length': 3:39},
+		{'name': '10' 'title': "No Reptiles" 'length': 4:42},
+		{'name': '11' 'title': "Warm Healer" 'length': 6:12},
+		{'name': '12' 'title': "We Sleep In Pairs" 'length': 3:23},
+		{'name': '13' 'title': "Hapsburg Lippp" 'length': 3:39},
+		{'name': '14' 'title': "President Heartbeat" 'length': 3:21},
+		{'name': '15' 'title': "Brainchild" 'length': 3:51},
+		{'name': '16' 'title': "Yuppie Supper" 'length': 3:33},
+		{'name': '17' 'title': "Only As Good As My God" 'length': 3:35},
+		]
+	},
+	{
+	    'name': 'Stay Gold', 
+		'year':2014, 
+		'artist': "First Aid Kit",
+		{'name': '1' 'title': "My Silver Lining" 'length': 3:35},
+		{'name': '2' 'title': "Master Pretender" 'length': 3:47},
+		{'name': '3' 'title': "Stay Gold" 'length': 4:11},
+		{'name': '4' 'title': "Cedar Lane" 'length': 4:43},
+		{'name': '5' 'title': "Shattered & Hollow" 'length': 4:04},
+		{'name': '6' 'title': "The Bell" 'length': 3:28},
+		{'name': '7' 'title': "Waitress Song" 'length': 4:04},
+		{'name': '8' 'title': "Fleeting One" 'length': 3:14},
+		{'name': '9' 'title': "Heaven Knows" 'length': 3:18},
+		{'name': '10' 'title': "A Long Time Ago" 'length': 4:01},
+		]
+	},
+	{
+	    'name': 'Life Is Elsewhere', 
+		'year':2012, 
+		'artist': "Little Comets",
+		'songs': 
+		[
+		{'name': '1' 'title': "A Little Opus" 'length': 3:47},
+		{'name': '2' 'title': "Tense/Empty" 'length': 3:40},
+		{'name': '3' 'title': "Jennifer" 'length': 2:42},
+		{'name': '4' 'title': "Bayonne" 'length': 3:18},
+		{'name': '5' 'title': "Waiting in the Shadows in the Dead of the Night" 'length': 3:20},
+		{'name': '6' 'title': "Violence Out Tonight" 'length': 4:47},
+		{'name': '7' 'title': "The Western Boy" 'length': 3:42},
+		{'name': '8' 'title': "Worry" 'length': 3:03},
+		{'name': '9' 'title': "Semaphores On the Lawn" 'length': 3:12},
+		{'name': '10' 'title': "Woe" 'length': 3:06},
+		{'name': '11' 'title': "Woman Woman" 'length': 4:02},
+		{'name': '12' 'title': "In Blue Music We Trust" 'length': 4:30},
+		]
+	},
+	{
+	    'name': 'I Never Learn', 
+		'year':2014, 
+		'artist': "Lykke Li",
+		'songs': 
+		[
+		{'name': '1' 'title': "I Never Learn" 'length': 3:04},
+		{'name': '2' 'title': "No Rest For The Wicked" 'length': 3:42},
+		{'name': '3' 'title': "Just Like A Dream" 'length': 4:18},
+		{'name': '4' 'title': "Silverline" 'length': 3:52},
+		{'name': '5' 'title': "Gunshot" 'length': 3:24},
+		{'name': '6' 'title': "Love Me Like I'm Not Made Of Stone" 'length': 3:47},
+		{'name': '7' 'title': "Never Gonna Love Again" 'length': 4:00},
+		{'name': '8' 'title': "Heart Of Steel" 'length': 3:54},
+		{'name': '9' 'title': "Sleeping Alone" 'length': 2:59},
+		]		
+	},
+	{
+	    'name': 'Lonesome Dreams', 
+		'year':2013, 
+		'artist': "Lord Huron",
+		'songs': 
+		[
+		{'name': '1' 'title': "Ends Of The Earth" 'length': 4:34},
+		{'name': '2' 'title': "Time To Run" 'length': 6:26},
+		{'name': '3' 'title': "Lonesome Dreams" 'length': 5:39},
+		{'name': '4' 'title': "The Ghost on the Shore" 'length': 4:44},
+		{'name': '5' 'title': "She Lit a Fire" 'length': 4:30},
+		{'name': '6' 'title': "I Will Be Back One Day" 'length': 3:28},
+		{'name': '7' 'title': "The Man Who Lives Forever" 'length': 4:14},
+		{'name': '8' 'title': "Lullaby" 'length': 6:11},
+		{'name': '9' 'title': "Brother (Last ride)" 'length': 4:22},
+		{'name': '10' 'title': "In The Wind" 'length': 3:48},
+		{'name': '11' 'title': "Setting Sun" 'length': 5:47},
+		{'name': '12' 'title': "When Will I See Again" 'length': 3:29},
+		{'name': '13' 'title': "Son Of A Gun" 'length': 3:47},
+		]
+	},
+	{
+	    'name': 'Recordings Of The Middle East', 
+		'year':2010, 
+		'artist': "The Middle East",
+		'songs': 
+		[
+		{'name': '1' 'title': "The Darkest Side" 'length': 5:07},
+		{'name': '2' 'title': "Lonely" 'length': 7:27},
+		{'name': '3' 'title': "Blood" 'length': 5:27},
+		{'name': '4' 'title': "Fools Gold" 'length': 3:14},
+		{'name': '5' 'title': "Beleriand" 'length': 5:01},
+		{'name': '6' 'title': "Dirty Looks" 'length': 6:37},
+		]
+		
+	print spotify ['Recordings Of The Middle East']
+	

@@ -1,0 +1,12 @@
+size(512, 512)
+background(1)
+
+room = {}
+room["ceiling"] = "2.8m"
+room["Jacob Cremerstraat 35"] = "address"
+room["12m"] = "ceiling"
+room["1"] = "door"
+room["2"] = "window"
+
+print room["ceiling"]
+
