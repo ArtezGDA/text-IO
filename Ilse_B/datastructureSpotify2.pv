@@ -1,0 +1,26 @@
+spotify = {
+	'albums': [
+	{
+		'albumname': '25', 
+		'year': 2015, 
+		'artist': "Adele",
+		'songs': 
+		[
+		{'name': '1', 'title': "Hello", 'length': 4.55},
+		{'name': '2', 'title': "Send My Love", 'length': 3.43},
+		{'name': '3', 'title': "I Miss You", 'length': 5.49},
+		{'name': '4', 'title': "When We Were Young", 'length': 4.51},
+		{'name': '5', 'title': "Remedy", 'length': 4.05},
+		{'name': '6', 'title': "Water Under The Bridge", 'length': 4.00},
+		{'name': '7', 'title': "River Lea", 'length': 3.45},
+		{'name': '8', 'title': "Love In The Dark", 'length': 4.46},
+		{'name': '9', 'title': "Million Years Ago",'length': 3.47},
+		{'name': '10', 'title': "All I Ask", 'length': 4.32},
+		{'name': '11', 'title': "Sweetest Devotion", 'length': 4.12},
+		]
+	}
+	]
+	}
+	
+	
+print spotify['albums','albumname','year','artist','songs','name']
