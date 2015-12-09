@@ -2,6 +2,7 @@
 
 ## Homework
 [collections]() (python code)
+![](Marianne/Spotify.pv)
 
 ## Concept
 
