@@ -1,0 +1,20 @@
+size(512, 512)
+background(1)
+
+
+
+d = {'name': "Leonie Gores",
+    'adress': "Leoninusstraat 3", 
+    'city' : "arnhem", 
+    'noroommates' : "one", 
+    'roommate' : "Ronja",
+    'square meters' : 18,
+    'hotc' : 2,
+    'nodoors' : 6,
+    'nowindows' : 4,}
+  
+print "hi my name is", d["name"]     
+print "my adress is", d['adress']
+print "i have", d['noroommates'] 
+print "her name is", d['roommate']
+
