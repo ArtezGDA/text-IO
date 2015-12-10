@@ -2,7 +2,7 @@
 
 ## Homework
 [List]() (Shirin/list.pv)<br>
-[Dictionary Shirin](Shirin/format.pv) (Shirin/format.pv)<br>
+[Dictionary Shirin](format.pv) (Shirin/format.pv)<br>
 [Dictionary Kimberley]() (Shirin/format.kim.pv)<br>
 [Data Shirin]() (Shirin/data_shirin.py)<br>
 [Data Kimberley]() (Shirin/data_kim.py)<br>
