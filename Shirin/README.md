@@ -1,7 +1,7 @@
 # Shirin's work for Text IO 
 
 ## Homework
-[List]() (Shirin/list.pv)<br>
+[List](list.pv)<br>
 [Dictionary Shirin](format.pv)<br>
 [Dictionary Kimberley](format.kim.pv)<br>
 [Data Shirin](data_shirin.py)<br>
