@@ -1,0 +1,77 @@
+iTunes = {
+    'Artist': 'Joy Division',
+    'Information': [{
+          "Begin": "1977",
+          "End": "1980",
+          "Genre": "Postpunk",
+          "Members": "Ian Curtis, Peter Hook, Stephen Morris, Bernard Sumner",
+    }],
+    'Albums' :  [
+            {
+                "name": ["Unknown Pleasures"],
+                "Released": ["1979"],
+                "Genre":["Postpunk", "Alternative", "New Age"],
+                "Label": ["Factory Records"],
+                "Duration": ["39:23"],
+                "tracks": [
+                    { 
+                        "number": "1",
+                        "title": "Disorder",
+                        "duration": "3:32",
+                    },
+                    { 
+                        "number": "2",
+                        "title": "Day of the Lords",
+                        "duration": "4:49",
+                    },
+                    { 
+                        "number": "3",
+                        "title": "Candidate",
+                        "duration": "3:05",
+                    },
+                    { 
+                        "number": "4",
+                        "title": "Insight",
+                        "duration": "4:29",
+                    },
+                    { 
+                        "number": "5",
+                        "title": "New Dawn Fades",
+                        "duration": "4:47",
+                    },
+                    { 
+                        "number": "6",
+                        "title": "She's Lost Control",
+                        "duration": "3:57",
+                    },
+                    { 
+                        "number": "7",
+                        "title": "Shadowplay",
+                        "duration": "3:55",
+                    },
+                    { 
+                        "number": "8",
+                        "title": "Wilderness",
+                        "duration": "2:38",
+                    },
+                    { 
+                        "number": "9",
+                        "title": "Interzone",
+                        "duration": "2:16",
+                    },
+                    { 
+                        "number": "10",
+                        "title": "I Remember Nothing",
+                        "duration": "5:53",
+                    }
+                    ]
+            },
+
+            {
+            }
+
+            ]
+
+        }
+print iTunes["Artist"]
+print iTunes["Albums"][0]
