@@ -1,0 +1,8 @@
+```
+courses = ["Design Research", "Design & Philosophy", "Typography", "Graphic Design", "Digital Media", "Photography", "Computer Skills", "Workgroup", "Media Theory"]
+print len(courses)
+print courses[2]
+del courses[8]
+courses.append("Media Theory")
+print courses
+```

@@ -1,8 +1,9 @@
 # Reinier's work for Text IO 
 
 ## Homework
-[Cowsay](cowsay.md)
-[poe](poe.md)
+[1. Array](1_array.md)
+[2. Dictionary](2_dictionary.md)
+[3. Data Structure I](3_data_structure_1.md)
 
 
 ## Concept
