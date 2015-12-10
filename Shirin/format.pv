@@ -1,0 +1,8 @@
+import data_shirin
+
+d = data_shirin.my_dict
+
+print "The Adress of %s room is in %s, %s %d. " % (d['name'],d['city'],d['adress'],d['number'],)
+print "My room is approximately %d big and the ceiling is %d high. " % (d['roomsize'],d['ceilingheight'])
+print "On top of that I have %d windows, which makes my room very light" % (d['windows'])
+

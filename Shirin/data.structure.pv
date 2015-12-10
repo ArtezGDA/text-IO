@@ -1,5 +1,0 @@
-game = read("test.zork.json")
-print "I am born on the %i th of the month" % game["moves"]
-print "(%i points so far)" % game["player"]["score"]
-if "lamp" in game["player"]["inventory"]:
-    print "Player has not yet been eaten by a grue..."
