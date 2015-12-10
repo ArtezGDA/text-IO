@@ -1,0 +1,8 @@
+spoorwegstraat 37
+3 m
+20 m2
+2 windows
+	
+
+room = ["address", "height", "surface", "windows"]
+print room

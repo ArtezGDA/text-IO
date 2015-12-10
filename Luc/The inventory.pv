@@ -1,0 +1,13 @@
+appartment = { 
+'address': "Spoorwegstraat 37",
+'postcode': "6828AM",  
+'city': "Arnhem",  
+'surface': 75,
+'ceiling height':3, 
+'doors': 6, 
+'windows':10, 
+'friend':1,
+}
+
+sentence = "I live in a %s appartment at %s together with %s friend." % ("nice",appartment["address"] , appartment["friend"])
+print sentence
