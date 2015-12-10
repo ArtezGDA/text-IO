@@ -1,0 +1,23 @@
+d = {
+
+'plaats': "Arnhem",
+'straat naam': "Sonsbeeksingel 30" ,
+'postcode': "6814 AB",
+'huisnummer':30,
+'opp':11.5 ,
+'hoogte':3.77 ,
+'lengte':3.77 ,
+'breedte':3.05,
+'banken':0 ,
+'bureaus': 1 ,
+'kasten': 2,
+'deur': 1 ,
+'ramen': 1,
+'bed': 1,
+
+}
+
+print d
+print d['plaats']
+zin = "i live in %s on the street %s, the postcode is %s" % (d ["plaats"], d ["straat naam"], d ["postcode"])
+print zin
