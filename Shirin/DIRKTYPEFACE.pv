@@ -82,7 +82,7 @@ typeface = {
                 "a":[{
                 "corner-points":[ "etc"
                 ],
-                "bend-points":["'x0/y-1.077', 'x0.817/y0.055', 'etc.' "]
+                "bend-points":["t'x0/y-1.077', 'x0.817/y0.055', 'etc.' "]
             }]
                 
             }]
