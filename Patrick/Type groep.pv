@@ -1,0 +1,102 @@
+typeface = {
+    'font': 'Gotham',
+    "foundry": "Hoefler",
+    "designer": "tobias frere-jones",
+    "cassification": "geometric sans-serif",
+    'weights' : [
+            {
+                "weight": "bold",
+                "weight": "Italic",
+                "weight": "light",
+            }
+                ],
+   #166.68pt
+   "characters": [
+                    { 
+                        "capitals": [
+                    {
+                        "A": [
+                            {
+                                "compoundshape":[{
+                                    "point 1":["x 16.767", "y -19.182"],
+                                    "point 2":["x 33.395", "y -19.182"],
+                                    "point 3":["x 25.047", "y -38.501"],
+                                }],
+                                "outline":[{
+                                    "point 1":["x 0", "y 0"],
+                                    "point 2":["x 0", "y 8.694"],
+                                    "point 3":["x 13.662", "y -11.661"],
+                                    "point 4":["x 36.52", "y -11.6611"],
+                                    "point 4":["x 41.399", "y 0"],
+                                    "point 5":["x 50.369", "y 0"],
+                                    "point 6":["x 29.117", "y -48.644"],
+                                    "point 7":["x 21.252", "y -48.644"],
+                                }],
+                                "kerning":{
+                                    "pair": "AB", "kerning": -10,
+                                    "pair": "AC", "kerning": -10,
+                                    "pair": "AD", "kerning": -10,
+                                    "pair": "Ab", "kerning": -10,
+                                    "pair": "Ac", "kerning": -10,
+                                    "pair": "Ad", "kerning": -10
+                                }
+                            }
+                            ],
+                         "B": [{
+                             "compoundshape":[{
+                                    "point 1":["x 0", "y 0"],
+                                    "point 2":["x 0", "y 0"],
+                                    "point 3":["x 0", "y 0"]
+                                }],
+                                
+                                "outline":[{
+                                    "point 1":["x 0", "y 0"],
+                                    "point 2":["x 19,052", "y 0", "d.3 0,575", "c.3 67,046"],
+                                    "point 3":["x 34,282", "y -11,29", "d.2 0,575", "c.2 67,046"],
+                                    "point 4":["x 34,282", "y -11,408", "d.5 0,575", "c.5 67,046"],
+                                    "point 5":["x 19,052", "y 0", "d.4 0,575", "c.4 67,046"],
+                                    "point 6":["x 34,282", "y -11,29", "d.7 0,575", "c.7 67,046"],
+                                    "point 7":["x 34,282", "y -11,408"]
+                                 }],
+                                 
+                                 "kerning":{
+                                    "pair": "BA", "kerning": -10,
+                                    "pair": "BB", "kerning": -10,
+                                    "pair": "BC", "kerning": -10,
+                                    "pair": "Ba", "kerning": -10,
+                                    "pair": "Bb", "kerning": -10,
+                                    "pair": "Bc", "kerning": -10
+                                }
+                                }],
+                                }
+                    ],
+                         "lowercase": [
+                    {
+                        "a": [
+                            {
+                                "compundshape": "1"
+                            }
+                            ],
+                        "b": [{}]
+                    }
+                            ],
+                            
+                        
+                }
+                    ],
+            "characterset":[{
+            "uper-case":["'A', 'B', 'C', 'D', 'E', 'etc.'"],
+            "lower-case":["'a', 'b', 'c', 'd', 'e', 'etc.'"],
+            "numbers":["'1', '2', '3', '4', '5', '6', '7', '8', '9'"],
+            "punctuation mark":["'.', ',', '!', '?', '-', '(', ')'"],
+            "glyphs":["'!', '@', '#', '%', '^', '&', '*', '(', ')', '-', '_', '+', '=', '{', '}', '[', ']', ':', ';', '|', '.', '/', '?', '<', '>', '§', '±', '~', '`',"],
+        }]
+        
+            
+            
+    
+}
+                            
+                            
+print typeface
+
