@@ -23,7 +23,8 @@
 
 
 ## Concept
-[Jokes working like fortune](1.jpg)(2.jpg)<br>
+[Jokes working like fortune](1.jpg)<br>
+[Jokes working like fortune](2.jpg)<br>
 
 
 ## Prototype: working demo
