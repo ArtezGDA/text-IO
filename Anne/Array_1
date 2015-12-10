@@ -1,0 +1,35 @@
+Last login: Thu Nov 19 09:33:58 on ttys000
+MacBook-Pro-van-Anne-Goossens:~ AnneGoossens$ python
+Python 2.7.10 (default, Jul 14 2015, 19:46:27) 
+[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.39)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> [0, 1, 2, 3]
+[0, 1, 2, 3]
+>>> reeks = [0, 1, 2, 3]
+>>> reeks
+[0, 1, 2, 3]
+>>> naam = "Anne"
+>>> vakken = ["Media Design", "Fotografie"]
+>>> vakken
+['Media Design', 'Fotografie']
+>>> len(vakken)
+2
+>>> vakken.append("Graphic Design")
+>>> len(vakken)
+3
+>>> vakken.pop()
+'Graphic Design'
+>>> len(vakken)
+2
+>>> print len(vakken)
+2
+>>> vakken = vakken + ["Graphic Design", "Philosophy"]
+>>> len(vakken)
+4
+>>> vakken.pop()
+'Philosophy'
+>>> vakken.pop()
+'Graphic Design'
+>>> vakken.pop()
+'Fotografie'
+>>> 

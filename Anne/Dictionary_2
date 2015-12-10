@@ -1,0 +1,33 @@
+Last login: Thu Nov 19 11:39:44 on ttys001
+MacBook-Pro-van-Anne-Goossens:~ AnneGoossens$ python
+Python 2.7.10 (default, Jul 14 2015, 19:46:27) 
+[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.39)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> huis = {'adres': "Bredestraat 7", 'huisdieren': 1, 'huur': 235}
+>>> huis
+{'huur': 235, 'huisdieren': 1, 'adres': 'Bredestraat 7'}
+>>> huis['huisdieren']
+1
+>>> huis['huur']
+235
+>>> def maalvijf(x):
+...     return x * 5
+... 
+>>> maalvijf(2)
+10
+>>> huis['huisdieren']
+1
+>>> huis['huisdieren'] = 3
+>>> huis['huisdieren']
+3
+>>> huis
+{'huur': 235, 'huisdieren': 3, 'adres': 'Bredestraat 7'}
+>>> 
+>>> ['huisdieren'] 
+['huisdieren']
+>>> ['huisdieren'] = ['Pimmetje', 'Pimmetje'}, 'adres':
+  File "<stdin>", line 1
+    ['huisdieren'] = ['Pimmetje', 'Pimmetje'}, 'adres':
+                                            ^
+SyntaxError: invalid syntax
+>>> 

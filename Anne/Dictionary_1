@@ -1,0 +1,22 @@
+Last login: Wed Nov 25 15:36:48 on ttys001
+MacBook-Pro-van-Anne-Goossens:~ AnneGoossens$ python
+Python 2.7.10 (default, Jul 14 2015, 19:46:27) 
+[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.39)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> kamer={}
+>>> kamer["adres"] = "Bredestraat 7"
+>>> kamer["hoogte"] = "2.60 m"
+>>> kamer["breedte"] = "3.50 m"
+>>> kamer["lengte"] = "6.25 m"
+>>> kamer["omtrek"] = "3.50 m x 6.25 m =21.88 m"
+>>> kamer["deur"] = "2 x deur"
+>>> kamer["raam"] = "2 x raam"
+>>> kamer["kast"] = "3 x kast"
+>>> print kamer
+{'omtrek': '3.50 m x 6.25 m =21.88 m', 'raam': '2 x raam', 'adres': 'Bredestraat 7', 'kast': '3 x kast', 'breedte': '3.50 m', 'deur': '2 x deur', 'hoogte': '2.60 m', 'lengte': '6.25 m'}
+>>> 
+
+
+
+
+

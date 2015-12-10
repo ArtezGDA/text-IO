@@ -1,0 +1,80 @@
+Album = {
+	
+	'artist': 'Earth, Wind & Fire',
+	'album': 'I Am',
+	'date' : '1979',
+	'total': '9 songs',
+
+	}
+
+		{
+
+		'name': 'In the Stone',
+		'duration': '4:48',
+		'prize': '0,99',
+
+		},
+
+		{
+		
+		'name': 'Can't Let Go',
+		'duration': '3:28',
+		'prize': '1,29',
+
+		},
+
+		{
+		
+		'name': 'After the Love Has Gone',
+		'duration': '4:38',
+		'prize': '0,99',
+
+		},
+
+		{
+		
+		'name': 'Let your Feelings Show',
+		'duration': '5:13',
+		'prize': '0,99',
+
+		},
+
+		{
+		
+		'name': 'Boogie Wonderland (with The Emotions)',
+		'duration': '4:48',
+		'prize': '0,99',
+
+		},
+
+		{
+		
+		'name': 'Star',
+		'duration': '4:25',
+		'prize': '0,99',
+
+		},
+
+		{
+		
+		'name': 'Wait',
+		'duration': '3:39',
+		'prize': '0,99',
+
+		},
+
+		{
+		
+		'name': 'Rock That!',
+		'duration': '3:07',
+		'prize': '0,99',
+
+		},
+
+		{
+		
+		'name': 'You and I',
+		'duration': '3:32',
+		'prize': '1,29',
+
+		}
