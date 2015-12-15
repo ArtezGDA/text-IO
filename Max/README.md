@@ -2,21 +2,31 @@
 
 ## Homework
 ###Array
-[collections]() (python code)
-
+[Array](textIO/array.pv)
 ###Dictionary
 [Format](testIO/format.py)
 
 [Dictionary Room](textIO/my_room_data.py)
 
 ###Data structure I
-[Data structure iTunes](testIO/itunes_library.py)
+[Data structure iTunes](textIO/itunes_library.py)
 
 <br>
 ##Excercises for working with the shell
 
 ###1. Months and Days
-[Months and days] 
+[Months and days](textIO/months_and_days.rtf) 
+
+###2. Cowsay
+[Search files](textIO/cowsay.rtf)
+
+###3. Research Edgar Allan Poe
+[Edgar Allan Poe](textIO/download_poe.rtf)
+
+###4. Phone Home
+[Phone Home](textIO/phone_home)
+
+<br>
 ## Concept
 
 ## Prototype: working demo
