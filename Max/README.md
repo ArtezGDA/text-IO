@@ -4,29 +4,29 @@
 ###Array
 [Array](array.pv)
 ###Dictionary
-[Format](testIO/format.py)
+[Format](format.py)
 
-[Dictionary Room](textIO/my_room_data.py)
+[Dictionary Room](my_room_data.py)
 
 ###Data structure I
-[Data structure Dexter](textIO/dexter_library.py)
+[Data structure Dexter](dexter_library.py)
 
-[Data structure iTunes](textIO/itunes_library.py)
+[Data structure iTunes](itunes_library.py)
 
 <br>
 ##Excercises for working with the shell
 
 ### Months and Days
-[Months and days](textIO/months_and_days.md) 
+[Months and days](months_and_days.md) 
 
 ### Cowsay
-[Search files](textIO/cowsay.md)
+[Search files](cowsay.md)
 
 ### Research Edgar Allan Poe
-[Edgar Allan Poe](textIO/download_poe.md)
+[Edgar Allan Poe](download_poe.md)
 
 ### Phone Home
-[Phone Home](textIO/phone_home.md)
+[Phone Home](phone_home.md)
 
 <br>
 ## Concept
