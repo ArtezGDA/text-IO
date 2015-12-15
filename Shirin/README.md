@@ -8,7 +8,7 @@
 [Data Kimberley](data_kim.py)<br>
 [iTunes](iTunes.pv)<br>
 <br><br>
-[Typeface Groupassignment](Typeface.pv)<br>
+[Typeface Groupassignment](gotham.pv)<br>
 <br><br>
 [All the works from Poe can be found in Project Gutenberg](Download.texts.rtf)<br>
 [Was Poe a cat or a dog person?](Cat/Dog.rtf)<br>
