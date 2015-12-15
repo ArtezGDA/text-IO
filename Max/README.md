@@ -15,16 +15,16 @@
 <br>
 ##Excercises for working with the shell
 
-###1. Months and Days
+### Months and Days
 [Months and days](textIO/months_and_days.rtf) 
 
-###3. Cowsay
+### Cowsay
 [Search files](textIO/cowsay.rtf)
 
-###4. Research Edgar Allan Poe
+### Research Edgar Allan Poe
 [Edgar Allan Poe](textIO/download_poe.rtf)
 
-###5. Phone Home
+### Phone Home
 [Phone Home](textIO/phone_home)
 
 <br>
