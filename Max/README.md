@@ -2,7 +2,7 @@
 
 ## Homework
 ###Array
-[Array](textIO/array.pv)
+[Array](array.pv)
 ###Dictionary
 [Format](testIO/format.py)
 
