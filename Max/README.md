@@ -17,13 +17,13 @@
 ###1. Months and Days
 [Months and days](textIO/months_and_days.rtf) 
 
-###2. Cowsay
+###3. Cowsay
 [Search files](textIO/cowsay.rtf)
 
-###3. Research Edgar Allan Poe
+###4. Research Edgar Allan Poe
 [Edgar Allan Poe](textIO/download_poe.rtf)
 
-###4. Phone Home
+###5. Phone Home
 [Phone Home](textIO/phone_home)
 
 <br>
