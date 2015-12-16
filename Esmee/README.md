@@ -103,9 +103,12 @@ print sentence
  
 
 ## Concept
-You type one word and pop up banners game up
+You type one product word and you see the commercial discounts for that product.
 
 ## Prototype: working demo
+
+![drawning 1](schets1/Esmee-rect-oval.png)
+[drawning 1](schets1/drawning1.pv)
 
 ## Design the flow of the program
 
