@@ -160,6 +160,26 @@ kamer = {
 
 ## Concept
 
+Mijn idee was om tekst als een emotie in te voeren, en vervolgens dat er een digitale smiley uitkomt. Als een computer die tie toch emoties kan tonen. Dit moet alleen nog verder ontwikkeld worden. 
+
+```
+emoties = { 
+	'emoties' :[
+	{
+		'boos': " >:( ",
+		'blij': " :) ",
+		'verdrietig': " :'(",
+		'verbaasd': " :o",
+		'heel blij': " :D",
+		'knipoog': " ;)",
+		'vragend': " :/ ",
+		'tevreden': " ^^ ",
+		'beertje blij': " :3 "
+
+	}],}
+
+```
+
 ## Prototype: working demo
 
 ## Design the flow of the program

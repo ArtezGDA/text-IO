@@ -1,0 +1,16 @@
+emoties = { 
+	'emoties' :[
+	{
+		'boos': " >:( ",
+		'blij': " :) ",
+		'verdrietig': " :'(",
+		'verbaasd': " :o",
+		'heel blij': " :D",
+		'knipoog': " ;)",
+		'vragend': " :/ ",
+		'tevreden': " ^^ ",
+		'beertje blij': " :3 "
+
+	}],}
+	
+	
