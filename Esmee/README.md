@@ -111,10 +111,9 @@ You type one product word and you see the commercial discounts for that product.
 [drawning 1](conceptmap/bier.pv)
 
 ![drawning 1](conceptmap/bier.py)
-[drawning 1](conceptmap/bier.pv)
 
 ![drawning 1](conceptmap/formatbier.py)
-[drawning 1](conceptmap/formatbier.pv)
+[drawning 1](conceptmap/formatbier.py)
 
 ## Design the flow of the program
 
