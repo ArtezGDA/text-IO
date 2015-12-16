@@ -1,0 +1,174 @@
+Last login: Thu Dec 10 09:26:28 on ttys000
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% sudo easy_install ipython  [144]
+Password:
+Searching for ipython
+Reading https://pypi.python.org/simple/ipython/
+Best match: ipython 4.0.1
+Downloading https://pypi.python.org/packages/source/i/ipython/ipython-4.0.1.zip#md5=274fe8b87d9c1a5816579933f0825c66
+Processing ipython-4.0.1.zip
+Writing /tmp/easy_install-Z1Ll29/ipython-4.0.1/setup.cfg
+Running ipython-4.0.1/setup.py -q bdist_egg --dist-dir /tmp/easy_install-Z1Ll29/ipython-4.0.1/egg-dist-tmp-3cdCC1
+error: Setup script exited with error in ipython setup command: Invalid environment marker: sys_platform == "darwin" and platform_python_implementation == "CPython"
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% sudo easy_install PyGithub
+Searching for PyGithub
+Reading https://pypi.python.org/simple/PyGithub/
+Best match: PyGithub 1.26.0
+Downloading https://pypi.python.org/packages/source/P/PyGithub/PyGithub-1.26.0.tar.gz#md5=5a9961b4331d63cbbcae3850abcf888a
+Processing PyGithub-1.26.0.tar.gz
+Writing /tmp/easy_install-kXvotq/PyGithub-1.26.0/setup.cfg
+Running PyGithub-1.26.0/setup.py -q bdist_egg --dist-dir /tmp/easy_install-kXvotq/PyGithub-1.26.0/egg-dist-tmp-KvUfwX
+zip_safe flag not set; analyzing archive contents...
+github.tests.Framework: module references __file__
+creating /Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/PyGithub-1.26.0-py2.7.egg
+Extracting PyGithub-1.26.0-py2.7.egg to /Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages
+Adding PyGithub 1.26.0 to easy-install.pth file
+
+Installed /Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/PyGithub-1.26.0-py2.7.egg
+Processing dependencies for PyGithub
+Finished processing dependencies for PyGithub
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% sudo easy_install colored                           [146]
+Searching for colored
+Reading https://pypi.python.org/simple/colored/
+Best match: colored 1.2.1
+Downloading https://pypi.python.org/packages/source/c/colored/colored-1.2.1.tar.gz#md5=9b0c7b5bb405e3f955fcc3223e9d24d0
+Processing colored-1.2.1.tar.gz
+Writing /tmp/easy_install-NJcaYQ/colored-1.2.1/setup.cfg
+Running colored-1.2.1/setup.py -q bdist_egg --dist-dir /tmp/easy_install-NJcaYQ/colored-1.2.1/egg-dist-tmp-Ob0XP6
+zip_safe flag not set; analyzing archive contents...
+Copying colored-1.2.1-py2.7.egg to /Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages
+Adding colored 1.2.1 to easy-install.pth file
+
+Installed /Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/colored-1.2.1-py2.7.egg
+Processing dependencies for colored
+Finished processing dependencies for colored
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% which pip                                                                                        [147]
+/usr/local/bin/pip
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% cd doc                                                                                           [148]
+cd: no such file or directory: doc
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% cd Doc                                                                                           [149]
+cd: no such file or directory: Doc
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% cd Documents                                                                                     [150]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~/Documents]% cd Artez2015                                                                           [151]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~/Documents/Artez2015]% cd coding                                                                    [152]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Documents/Artez2015/coding]% cd text-IO                                                              [153]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Artez2015/coding/text-IO]% cd course                                                                 [154]
+cd: no such file or directory: course
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Artez2015/coding/text-IO]% cd coursecd Artez                                                         [155]
+cd: string not in pwd: coursecd
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Artez2015/coding/text-IO]% cd ~                                                                      [156]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% python wiki_scraper.py                                                                           [157]
+/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'wiki_scraper.py': [Errno 2] No such file or directory
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% cd Documents                                                                                     [158]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~/Documents]% cd Arte                                                                                [159]
+cd: no such file or directory: Arte
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~/Documents]% cd Artez2015                                                                           [160]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~/Documents/Artez2015]% cd coding/text-IO                                                            [161]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Artez2015/coding/text-IO]% mkdir API-test                                                            [162]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Artez2015/coding/text-IO]% cd API-test                                                               [163]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: coding/text-IO/API-test]% git status                                                                 [164]
+On branch master
+Your branch is behind 'origin/master' by 22 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	./
+
+nothing added to commit but untracked files present (use "git add" to track)
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: coding/text-IO/API-test]% cd ~                                                                       [165]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% cd Documents/Artez2015/coding/text-IO/Esmee/API-test                                             [166]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: text-IO/Esmee/API-test]% git status                                                                  [167]
+On branch master
+Your branch is behind 'origin/master' by 22 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	./
+
+nothing added to commit but untracked files present (use "git add" to track)
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: text-IO/Esmee/API-test]% cd secret                                                                   [168]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Esmee/API-test/secret]% git status                                                                   [169]
+On branch master
+Your branch is behind 'origin/master' by 22 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	../
+
+nothing added to commit but untracked files present (use "git add" to track)
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Esmee/API-test/secret]% git status                                                                   [170]
+On branch master
+Your branch is behind 'origin/master' by 22 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	../
+
+nothing added to commit but untracked files present (use "git add" to track)
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Esmee/API-test/secret]% git add .                                                                    [170]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Esmee/API-test/secret]% git status                                                                   [171]
+On branch master
+Your branch is behind 'origin/master' by 22 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   github_account.py
+
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Esmee/API-test/secret]% git add .gitignore                                                           [172]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Esmee/API-test/secret]% git status                                                                   [173]
+On branch master
+Your branch is behind 'origin/master' by 23 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   .gitignore
+	new file:   github_account.py
+
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Esmee/API-test/secret]% git reset HEAD github_account                                                [174]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Esmee/API-test/secret]% git status                                                                   [175]
+On branch master
+Your branch is behind 'origin/master' by 23 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   .gitignore
+	new file:   github_account.py
+
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Esmee/API-test/secret]% git reset HEAD github_account.py                                             [176]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Esmee/API-test/secret]% git status                                                                   [177]
+On branch master
+Your branch is behind 'origin/master' by 23 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   .gitignore
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	github_account.py
+
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Esmee/API-test/secret]% pwd                                                                          [178]
+/Users/esmeeellson/.Trash/secret_password
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Esmee/API-test/secret]% ls                                                                           [179]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Esmee/API-test/secret]% ipython                                                                      [179]
+zsh: correct ipython to python ? ([Y]es/[N]o/[E]dit/[A]bort) n
+zsh: command not found: ipython
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: Esmee/API-test/secret]% cd ~                                                                         [180]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% cd Documents/Artez2015/coding/text-IO/Esmee/API-test                                             [181]
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: text-IO/Esmee/API-test]% pwd                                                                         [182]
+/Users/esmeeellson/Documents/Artez2015/coding/text-IO/Esmee/API-test
+ls
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: text-IO/Esmee/API-test]% ls                                                                          [183]
+secret_password.py   secret_password.pyc
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: text-IO/Esmee/API-test]% ipython                                                                     [183]
+zsh: correct ipython to python ? ([Y]es/[N]o/[E]dit/[A]bort) n
+zsh: command not found: ipython
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: text-IO/Esmee/API-test]%                                                                             [184]
