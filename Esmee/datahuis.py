@@ -1,1 +1,1 @@
-huisdict = {'adres': "Janthijssenstraat 13", 'deuren': 8, 'ramen': 21, 'kleuren': "blauw, grijs, zilver, wit, aqua, antraciet, paars, zwart"}
+huisdict = {'adres': "Janthijssenstraat 13", 'plaats': "Oss", 'deuren': 8, 'ramen': 21, 'kleuren': "blauw, grijs, zilver, wit, aqua, antraciet, paars, zwart"}
