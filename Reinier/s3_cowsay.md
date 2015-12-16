@@ -14,9 +14,9 @@ The current contents of /usr/local are bin Cellar CODEOFCONDUCT.md CONTRIBUTING.
             (__)\       )\/\
                 ||----w |
                 ||     ||
-[ReinierHijmans@MacBook-Pro-van-Reinier: ~]% cowsay -f stegosaurus "Hoi Reinier"
+[ReinierHijmans@MacBook-Pro-van-Reinier: ~]% cowsay -f stegosaurus "Welcome ladies and gentlemen!"
  _____________ 
-< Hoi Reinier >
+< Welcome ladies and gentlemen! >
  ------------- 
 \                             .       .
  \                           / `.   .' " 
