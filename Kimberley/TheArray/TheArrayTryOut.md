@@ -1,9 +1,19 @@
 ```
-courses = ['Photography', 'Design Philosophy', 'Media Theory Annie', 'Design Research', 'Digital Media', 'Computer Skills', 'Graphic Design', 'Typography']
-print courses[0][1] #eerste woord tweede letter
-print courses [0:1] #eerste woord met haakjes
+courses = [['Photography', 'Design Philosophy'], ['Media Theory Annie', 'Design Research'], ['Digital Media', 'Computer Skills'], ['Graphic Design', 'Typography']]
 print courses
-courses[2]='les' # veranderd 2 (media theory) in les
+print len (courses)
+courses.insert(2,["Media Theory"])
 print courses
+
+print "Monthlyschedule"
+for classes in courses: 
+    
+    print "Monday", courses[0]
+    print "Tuesday", courses[1]
+    print "Wednesday", courses[2]
+    print "Thursday", courses[3]
+    print "friday", courses[4]
+    
+print "Month over!"
 
 ```

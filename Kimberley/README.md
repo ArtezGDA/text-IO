@@ -18,7 +18,7 @@
 
 ###The Array
 
-[TheArray.md]() (python code)<br>
+[The Array.pv](TheArray/TheArray.pv) <br>
  
 ```
 courses = [['Photography', 'Design Philosophy'], ['Media Theory Annie', 'Design Research'], ['Digital Media', 'Computer Skills'], ['Graphic Design', 'Typography']]
@@ -39,7 +39,7 @@ print "Monday", courses[0]
 print "Month over!"
 
 ```
-[TheArrayExtra.md]() (python code)
+**TheArrayExtra.md**
 
 ```
 courses = ['Photography', 'Design Philosophy', 'Media Theory Annie', 'Design Research', 'Digital Media', 'Computer Skills', 'Graphic Design', 'Typography']
@@ -50,7 +50,7 @@ courses[2]='les' # veranderd 2 (media theory) in les
 print courses
 
 ```
-[TheArrayTryOut.md]() (python code)
+**TheArrayTryOut.md**
 
 ```
 courses = ['Photography', 'Design Philosophy', 'Media Theory Annie', 'Design Research', 'Digital Media', 'Computer Skills', 'Graphic Design', 'Typography']
@@ -63,7 +63,7 @@ print courses
 ```
 ###The Dictionary
 
-[data_kth.md]() (python code)
+[data_kth.py](TheDictionary/data_kth.py)
 
 ```
 dict = {
@@ -80,7 +80,7 @@ dict = {
 
 
 ```
-[format_kth.md]() (python code)
+[format_kth.py](TheDictionary/format_kth.py)
 
 ```
 import data_kth
@@ -93,7 +93,7 @@ print "On top of that I have %d window, and %d door" % (d['windows'],d['doors'],
 
 
 ```
-[format_friend.md]() (python code)
+[format_friend.pv](TheDictionary/format_friend.pv)
 
 ```
 import data_kth
@@ -116,6 +116,8 @@ print "She has %d windows, and also %d door." % (d['windows'],d['doors'], )
 
 ```
 ###Data Structure
+
+[ItunesDictionary.pv](DataDictionaryI/ItunesDictionary.pv)
 
 ```
 
@@ -393,6 +395,8 @@ print iTunes["Albums"][1]
 ##2
 <br>
 ###Days/Months
+[DaysMonths](DaysMonths/DaysMonths.md)
+
 ```
 Last login: Thu Dec  3 09:40:17 on ttys003
 [Kimberleyterheerdt@MacBook-Pro-van-Kimberley: ~]% cd ~/Downloads           [1]
@@ -467,6 +471,7 @@ april.txt      february.txt   june.txt       november.txt
 Days/   Months/
 ```
 ###Ember
+[Ember](DaysMonths/Ember.md)
 
 ```
 Kimberleyterheerdt@MacBook-Pro-van-Kimberley: ~/Downloads/Testfiles]% cat Months/*ember.txt
@@ -477,6 +482,7 @@ Month 9 is September
 
 ```
 ###Cowsay
+[Cowsay](Cowsay/Cowsay.md)
 
 ```
 [Kimberleyterheerdt@MacBook-Pro-van-Kimberley: ~]% ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -599,6 +605,8 @@ dquote> "
 ```
 
 ###Allen Poe
+[Poe](Poe/Poe1.md)
+
 ```
 [Kimberleyterheerdt@MacBook-Pro-van-Kimberley: ~]% mkdir Poe              [141]
 mkdir: Poe: File exists
@@ -755,6 +763,8 @@ vol1.txt  vol2.txt  vol3.txt  vol4.txt  vol5.txt
 [Kimberleyterheerdt@MacBook-Pro-van-Kimberley: ~/Poe]%                    [153]
 ```
 ###Phone Behaviour
+[Adobe Photoshop](Adobe Photoshop/AdobePhoneHomeBehaviour.md)
+
 
 ```
 Last login: Thu Dec  3 10:01:49 on ttys004
