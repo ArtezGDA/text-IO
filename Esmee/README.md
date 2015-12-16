@@ -108,13 +108,13 @@ You type one product word and you see the commercial discounts for that product.
 ## Prototype: working demo
 
 ![drawning 1](conceptmap/bier.png)
-[drawning 1](conceptmap/bier.png)
+[drawning 1](conceptmap/bier.pv)
 
 ![drawning 1](conceptmap/bier.py)
-[drawning 1](conceptmap/bier.py)
+[drawning 1](conceptmap/bier.pv)
 
 ![drawning 1](conceptmap/formatbier.py)
-[drawning 1](conceptmap/formatbier.py)
+[drawning 1](conceptmap/formatbier.pv)
 
 ## Design the flow of the program
 
