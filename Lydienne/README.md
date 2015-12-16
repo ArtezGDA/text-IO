@@ -3,7 +3,7 @@
 ## Homework
 [collections]() (python code)
 ### Data structure I
-[Data structure](Data_structure_I.pv) 
+[Data muziek](data_structure_muziek.pv) 
 
 ```
 Muziek = {
