@@ -3,6 +3,8 @@
 ## Homework
 [collections]() (python code)
 ### Data structure I
+[Data structure](Data_structure_I.pv) 
+
 ```
 Muziek = {
     'albums': [
@@ -907,6 +909,7 @@ ps[lydiennealbertoe@MacBook-Pro-van-Lydienne: ~]% ps                        [117
 
 ```
 ## Concept
+Cowsay conversation
 
 ## Prototype: working demo
 
