@@ -107,8 +107,14 @@ You type one product word and you see the commercial discounts for that product.
 
 ## Prototype: working demo
 
-![drawning 1](schets1/Esmee-rect-oval.png)
-[drawning 1](schets1/drawning1.pv)
+![drawning 1](conceptmap/bier.png)
+[drawning 1](conceptmap/bier.png)
+
+![drawning 1](conceptmap/bier.py)
+[drawning 1](conceptmap/bier.py)
+
+![drawning 1](conceptmap/formatbier.py)
+[drawning 1](conceptmap/formatbier.py)
 
 ## Design the flow of the program
 
