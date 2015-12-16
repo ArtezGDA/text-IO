@@ -2,323 +2,35 @@
 
 ## Homework
 [collections]() (python code)
-### Data structure I
-[Data muziek](data_structure_muziek.pv) 
 
-```
-Muziek = {
-    'albums': [
-        {
-            'name': "It's a man's world", 
-            'director': "Anastacia", 
-            'tracks': [
-                {
-                    'track':"1-11",
-                    'titel': "Ramble On",
-                    'airdate': "2012",
-                    'duur':"4:36"
-                },
-                {
-                    'track':"2-11",
-                    'titel': "Best of You",
-                    'airdate': "2012",
-                    'duur':"4:21"
-                    
-                },
-                {
-                    'track':"3-11",
-                    'titel': "Sweet Child o' Mine",
-                    'airdate': "2012",
-                    'duur':"3:58"
-                },
-                {
-                    'track':"4-11",
-                    'titel': "You Can't Always Get What You Want",
-                    'airdate': "2012",
-                    'duur':"5:40"
-                    
-                },
-                {
-                    'track':"5-11",
-                    'titel': "One",
-                    'airdate': "2012",
-                    'duur':"3:50"
-                },
-                {
-                    'track':"6-11",
-                    'titel': "Back in Black",
-                    'airdate': "2012",
-                    'duur':"4:30"
-                    
-                },
-                {
-                    'track':"7-11",
-                    'titel': "Dream On",
-                    'airdate': "2012",
-                    'duur':"4:35"
-                },
-                {
-                    'track':"8-11",
-                    'titel': "Use Somebody",
-                    'airdate': "2012",
-                    'duur':"3:58"
-                    
-                },
-                {
-                    'track':"9-11",
-                    'titel': "You Give Love a Bad Name",
-                    'airdate': "2012",
-                    'duur':"4:05"
-                },
-                {
-                    'track':"10-11",
-                    'titel': "Wonderwall",
-                    'airdate': "2012",
-                    'duur':"3:57"
-                    
-                },
-                {
-                    'track':"11-11",
-                    'titel': "Black Hole Sun",
-                    'airdate': "2012",
-                    'duur':"4:54"
-                    
-                }
-                ]
-        },
-        {
-            'name': "Burlesque", 
-            'director': "Various Artists",
-            'tracks': [
-                {
-                    'track':"1-10",
-                    'titel': "Something's Got a Hold On Me",
-                    'airdate': "2010",
-                    'duur':"3:05"
-                },
-                {
-                    'track':"2-10",
-                    'titel': "Welcome to Burlesque",
-                    'airdate': "2010",
-                    'duur':"2:46"
-                    
-                },
-                {
-                    'track':"3-10",
-                    'titel': "Tough Lover",
-                    'airdate': "2010",
-                    'duur':"2:00"
-                },
-                {
-                    'track':"4-10",
-                    'titel': "But I Am a Good Girl",
-                    'airdate': "2010",
-                    'duur':"2:30"
-                    
-                },
-                {
-                    'track':"5-10",
-                    'titel': "Guy What Takes His Time",
-                    'airdate': "2010",
-                    'duur':"2:43"
-                },
-                {
-                    'track':"6-10",
-                    'titel': "Express",
-                    'airdate': "2010",
-                    'duur':"4:20"
-                },
-                {
-                    'track':"7-10",
-                    'titel': "You Haven't Seen the Last of Me",
-                    'airdate': "2010",
-                    'duur':"3:31"
-                },
-                {
-                    'track':"8-10",
-                    'titel': "Bound to You",
-                    'airdate': "2010",
-                    'duur':"4:24"
-                },
-                {
-                    'track':"9-10",
-                    'titel': "The Beautiful People ",
-                    'airdate': "2010",
-                    'duur':"2:59"
-                },
-                {
-                    'track':"10-10",
-                    'titel': "Wonderwall",
-                    'airdate': "2010",
-                    'duur':"3:32"
-                    
-                }
-                ]
-        },
-        {
-            'name': "Sweet Talker", 
-            'director': "Jessie J", 
-            'tracks': [
-                {
-                    'track':"1-15",
-                    'titel': "Ain't Been Done",
-                    'airdate': "2014",
-                    'duur':"3:01"
-                },
-                {
-                    'track':"2-15",
-                    'titel': "Burnin' Up (feat. 2 Chainz)",
-                    'airdate': "2014",
-                    'duur':"3:41"
-                    
-                },
-                {
-                    'track':"3-15",
-                    'titel': "Sweet Talker",
-                    'airdate': "2014",
-                    'duur':"3:42"
-                },
-                {
-                    'track':"4-15",
-                    'titel': "Bang Bang",
-                    'airdate': "2014",
-                    'duur':"3:19"
-                    
-                },
-                {
-                    'track':"5-15",
-                    'titel': "Fire",
-                    'airdate': "2014",
-                    'duur':"3:56"
-                },
-                {
-                    'track':"6-15",
-                    'titel': "Personal",
-                    'airdate': "2014",
-                    'duur':"3:55"
-                    
-                },
-                {
-                    'track':"7-15",
-                    'titel': "Masterpiece",
-                    'airdate': "2014",
-                    'duur':"3:41"
-                },
-                {
-                    'track':"8-15",
-                    'titel': "Seal Me With a Kiss (feat. De La Soul)",
-                    'airdate': "2014",
-                    'duur':"3:54"
-                    
-                },
-                {
-                    'track':"9-15",
-                    'titel': "Said Too Much",
-                    'airdate': "2014",
-                    'duur':"3:35"
-                },
-                {
-                    'track':"10-15",
-                    'titel': "Loud (feat. Lindsey Stirling)",
-                    'airdate': "2014",
-                    'duur':"4:33"
-                    
-                },
-                {
-                    'track':"11-15",
-                    'titel': "Keep Us Together",
-                    'airdate': "2014",
-                    'duur':"3:50"
-                    
-                },
-                {
-                    'track':"12-15",
-                    'titel': "Get Away",
-                    'airdate': "2014",
-                    'duur':"3:50"
-                },
-                {
-                    'track':"13-15",
-                    'titel': "Your Loss I'm Found",
-                    'airdate': "2014",
-                    'duur':"3:37"
-                    
-                },
-                {
-                    'track':"14-15",
-                    'titel': "Strip",
-                    'airdate': "2014",
-                    'duur':"3:34"
-                },
-                {
-                    'track':"15-15",
-                    'titel': "You Don't Really Know Me",
-                    'airdate': "2014",
-                    'duur':"3:55"
-                    
-                }
-                ]
-        },
-        ]
-}
+### Collectios
+[The array](lists.pv) 
 
-```
+[Data structure I](data_structure_muziek.pv) 
 
-###data_structure_serie
-```
->>> 
->>> 
->>> 
->>> 
->>> 
->>> 
->>> 
->>> serie = {'totel': "Homeland", 'main character': "Carrie Matheson"}
->>> 
->>> serie
-{'main character': 'Carrie Matheson', 'totel': 'Homeland'}
->>> serie['seizoenen']
-Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
-KeyError: 'seizoenen'
->>> serie ['serizoenen'] = []
->>> serie
-{'serizoenen': [], 'main character': 'Carrie Matheson', 'totel': 'Homeland'}
->>> serie['seizoenen'].append("s01")
-Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
-KeyError: 'seizoenen'
->>> serie['seizoenen'].append("s01")
-Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
-KeyError: 'seizoenen'
->>> serie
-{'serizoenen': [], 'main character': 'Carrie Matheson', 'totel': 'Homeland'}
->>> serie['serizoenen'].append("s01")
->>> serie['serizoenen'].append("s02")
->>> serie['serizoenen'].append("s03")
->>> serie['serizoenen'].append("s04")
->>> serie
-{'serizoenen': ['s01', 's02', 's03', 's04'], 'main character': 'Carrie Matheson', 'totel': 'Homeland'}
->>> 
-```
-###The array
-```
-size(512, 512)
-background(1)
+[The dictionary pv](slaapkamer.pv)!werkt niet
 
-lessen = ["Computerskills", "Design & Philosophy", "Design Research", "Digital Media", "Graphic Design", "Media & Design Theory", "Photography", "Time Based Media", "Typography"]
+[The dictionary py](slaapkamer.py)!werkt niet
 
-print len(lessen) #print de aantal lessen op de lijst uit
-print lessen[3] #print de vierde les (de eerste les is 0)
-print lessen #print de nieuwe lijst van de lessen
-lessen.append("Media Theory Lectures") #voeg een nieuwe les toe aan de lijst'Media Theory Lectures'.
-print lessen #print de nieuwe lijst van de lessen
-del lessen[9] #verwijder les negen 'Media Theory Lectures'
-print lessen #print de nieuwe lijst van de lessen
-lessen.insert(4, "Media Theory Lectures") 
+[Test data structure serie](data_structure_serie.pv) 
 
-```
+[Data structure II](data_structure_serie.pv) 
+
+
+###ZSH
+[Create some folders 1](homework_03_in_class.md) 
+
+[Create some folders 2](homework_03_in_class2.md) 
+
+[Search files](Months_and_Days.md) 
+
+[Cowsay](cowsay.md) 
+
+[Research Edgar Allan Poe](Poe.md) 
+
+[Inspect Adobe 'phone home' behavior](phone_home.md) 
+
+
 
 ###The dictionary  
 ```

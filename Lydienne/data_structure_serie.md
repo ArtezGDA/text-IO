@@ -1,11 +1,4 @@
-```
->>> 
->>> 
->>> 
->>> 
->>> 
->>> 
->>> 
+
 >>> serie = {'totel': "Homeland", 'main character': "Carrie Matheson"}
 >>> 
 >>> serie
@@ -34,4 +27,3 @@ KeyError: 'seizoenen'
 >>> serie
 {'serizoenen': ['s01', 's02', 's03', 's04'], 'main character': 'Carrie Matheson', 'totel': 'Homeland'}
 >>> 
-```
