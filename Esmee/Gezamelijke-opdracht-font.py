@@ -67,7 +67,7 @@ Font = {
 	'Characters' = [
 
 		{
-        'Kapitalen':"
+        'Kapitalen':
         'A':[	out point 1: (x:4,84, y:112,77),
         		point 2: (x:40,33, y:20,67),
         		point 3: (x:64,91, y:20,67),
@@ -407,11 +407,11 @@ Font = {
         		point 10: (x:41,01, y:96,61),
         		point 11: (x:86,68, y:96,61),
         		point 12: (x:86,86, y:112,27)
-        	],"
+        	],
         },
 
 		{
-        'Onderkast':"
+        'Onderkast':
         'a':,
         'b':,
         'c':, 
@@ -437,7 +437,7 @@ Font = {
         'w', 
         'x', 
         'y', 
-        'z'"
+        'z'
         },
 
 		{
