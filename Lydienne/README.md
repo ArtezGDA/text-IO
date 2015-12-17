@@ -8,7 +8,7 @@
 
 [Data structure I](data_structure_muziek.pv)
 
-[The dictionary pv](text-IO/Lydienne/slaapkamer/slaapkamer.pv) 
+[The dictionary pv](../text-IO/Lydienne/slaapkamer/slaapkamer.pv) 
 
 [The dictionary py](/Users/lydiennealbertoe/text-IO/Lydienne/slaapkamer/slaapkamer.py)
 
