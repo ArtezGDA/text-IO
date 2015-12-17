@@ -74,6 +74,10 @@ Mona Gezingspudding griesmeel met saus 500 g
 #####drinken:
 AH Zuid-afrika huiswijn fris
 
+##Type group assignment
+[Type face](Typeface_group].pv)
+
+
 ## Prototype: working demo
 
 ## Design the flow of the program
