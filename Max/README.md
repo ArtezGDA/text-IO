@@ -75,7 +75,7 @@ Mona Gezingspudding griesmeel met saus 500 g
 AH Zuid-afrika huiswijn fris
 
 ##Type group assignment
-[Type face](Typeface_group.py)
+[Type face](typeface.py)
 
 
 ## Prototype: working demo
