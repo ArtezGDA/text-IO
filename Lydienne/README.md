@@ -6,11 +6,11 @@
 ### Collectios
 [The array](lists.pv) 
 
-[Data structure I](data_structure_muziek.pv) 
+[Data structure I](data_structure_muziek.pv)
 
-[The dictionary pv](slaapkamer.pv)!werkt niet
+[The dictionary pv](/Users/lydiennealbertoe/text-IO/Lydienne/slaapkamer/slaapkamer.pv) 
 
-[The dictionary py](slaapkamer.py)!werkt niet
+[The dictionary py](/Users/lydiennealbertoe/text-IO/Lydienne/slaapkamer/slaapkamer.py)
 
 [Test data structure serie](data_structure_serie.pv) 
 
