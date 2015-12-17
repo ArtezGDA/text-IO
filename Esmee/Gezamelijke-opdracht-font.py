@@ -64,7 +64,7 @@ Font = {
 
 		]
 
-	       'Characters' = [
+	   'Characters' = [
 
 		{
                 'Kapitalen':
