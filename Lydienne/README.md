@@ -8,9 +8,9 @@
 
 [Data structure I](data_structure_muziek.pv)
 
-[The dictionary pv](text-IO/Lydienne/slaapkamer/slaapkamer.pv) 
+[The dictionary pv](/Users/lydiennealbertoe/text-IO/Lydienne/slaapkamer/slaapkamer.pv) 
 
-[The dictionary py](Lydienne/slaapkamer/slaapkamer.py)
+[The dictionary py](/Users/lydiennealbertoe/text-IO/Lydienne/slaapkamer/slaapkamer.py)
 
 [Test data structure serie](data_structure_serie.pv) 
 
