@@ -1,4 +1,4 @@
-# Algorithmic-Nature
+# Text-IO
 Group Work for the [Text IO assignment](https://github.com/ArtezGDA/Course-Material/blob/master/textIO.md)
 
 ### Contents
