@@ -30,11 +30,13 @@
 
 <br>
 ## Concept
-
+<br>
 Wat zullen we eten vanavond?
+Wanneer je weer eens niet weet wat je gaat eten die avond, gebruik dit script die voor jou op een random manier bepaalt wat jij gaat eten an de hand van ingrediënten van de Albert Heijn. Vier verschillende knoppen; voorgerecht, hoofdgerecht, nagerecht en wat te drinken erbij. 
 
+<br>
 ####TEXT IN:
-alle ingredienten van www.ah.nl scrapen.
+alle ingredienten/producten van www.ah.nl scrapen.
 
 #####bv: 
 AH rundergehakt 300 gAH mager rundergehakt 300 g
@@ -53,10 +55,12 @@ etc. etc. etc.
 
 ####TEXT OUT:
 
-#####voorgerecht:
+######randomize:
+
+#####-voorgerecht:
 UNOX soep in pak tomatensoep met balletjes 1l
 
-#####hoofdgerecht: 
+#####-hoofdgerecht: 
 
 AH biologisch rundergehakt 500 g
 
@@ -68,14 +72,14 @@ AH courgette per stuk
 
 AH Mozzarella 125 g
 
-#####nagerecht:
+#####-nagerecht:
 Mona Gezingspudding griesmeel met saus 500 g
 
-#####drinken:
+#####-drinken:
 AH Zuid-afrika huiswijn fris
 
 ##Type group assignment
-[Type face](typeface.py)
+[Group Typeface](typeface.py)
 
 
 ## Prototype: working demo
