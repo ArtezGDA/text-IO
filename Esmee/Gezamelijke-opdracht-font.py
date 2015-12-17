@@ -61,5 +61,3 @@ Font = {
 		{
 		'weight': 'Black italic',
 		}
-
-		]
