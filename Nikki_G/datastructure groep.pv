@@ -1,0 +1,230 @@
+
+typeface = {
+    
+"kapitaal":
+    [
+        {
+           
+   "letters": [
+       { 
+            'A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,': [
+                    {
+                        "A": [
+                            {
+                                "compartmenten":[{
+                                    "1":[{'coordinaten hoekpunten':[{
+                                        "coordinaten hoekpunt 1":[15.25,9.74],
+                                        "coordinaten hoekpunt 1":[15.25,9.74],
+                                        "coordinaten hoekpunt 1":[15.06 , 9.81],
+                                        "coordinaten hoekpunt 1":[14.94 , 9.74],
+                                        "coordinaten hoekpunt 1":[15.80 , 10.12],
+                                        "coordinaten hoekpunt 1":[15.15 , 10.16],
+                                        "coordinaten hoekpunt 1":[15.20 , 10.08],
+                                        "coordinaten hoekpunt 1":[15.61 , 10.08],
+                                        "coordinaten hoekpunt 1":[15.61 , 9.93],
+                                        "coordinaten hoekpunt 1":[15.61 , 10.31],
+                                        "coordinaten hoekpunt 1":[15.61 , 10.16],
+                                        }],
+                                        
+                                        
+                                    }],
+                                 
+                                }],
+                            
+                                "tussen ruimte":[{
+                                    "AE":[0.9],
+                                    
+                                  
+                                }],
+                              "kleur":['zwart'],
+                               }],
+                              }],
+                            }],
+                          }],
+                                
+                      "kerning":[{
+                            'M,N,O,R,P,G,L':[{ 
+                                'L':[{
+                                        'hoekpunt':[15.13 , 10.63 ],
+                                        'hoekpunt':[15.32 , 10.44 ],
+                                        'hoekpunt':[15.09 , 10.17],
+                                        'hoekpunt':[15.17 , 10.17 ],
+                                        'hoekpunt':[15.18 , 9.96 ],
+                                        'hoekpunt':[15.24 , 10.01],
+                                        'hoekpunt':[15.40 , 9.94],
+                                        'hoekpunt':[15.40 , 9.87],
+                                        'hoekpunt':[15.61 , 9.96 ],
+                                        'hoekpunt':[14.94 , 10.44],
+                                        'hoekpunt':[15.09 , 10.44],
+                                        'hoekpunt':[15.70 , 10.44],
+                                        "tussen ruimte":[{
+                                        "AE":[0.9],
+                                    
+                                }],
+                              "kleur":['zwart'],
+                               
+                                }],
+                            }],
+                        }],
+                    
+"onderkasten":
+        [{
+                
+        "letters": [{
+            
+              'a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z': [{
+                  
+                   "acde": [{
+                       
+                        "a": [{
+                            
+                           "compartement":[{'coordinaten hoekpunten buitenvorm':[{
+                                    'hoekpunt':[14.44 , 10.35],
+                                    'hoekpunt':[14.88 , 10.35],
+                                    'hoekpunt':[14.88 , 10.17],
+                                    'hoekpunt':[15.17 , 10.17 ],
+                                    'hoekpunt':[15.18 , 9.96 ],
+                                    'hoekpunt':[15.24 , 10.01],
+                                    'hoekpunt':[15.40 , 9.94],
+                                    'hoekpunt':[15.40 , 9.87],
+                                    'hoekpunt':[15.61 , 9.96 ],
+                                    'hoekpunt':[14.94 , 10.44],
+                                    'hoekpunt':[15.09 , 10.44],
+                                    'hoekpunt':[15.70 , 10.44],
+                                }]
+                                }],
+                             "compartement binnenvorm":[{
+                                     'hoekpunt':[14.54 , 10.40],
+                                     'hoekpunt':[14.98 , 10.40],
+                                     'hoekpunt':[14.98 , 10.30],
+                                     'hoekpunt':[15.19 , 10.50],
+                                     'hoekpunt':[14.98 , 10.70],
+                                     'hoekpunt':[14.98 , 10.60],
+                                     'hoekpunt':[14.54 , 10.60],
+                                 }],
+                                 }],
+                              "tussen ruimte":[{
+                                  "ha":['1'],
+                              }],
+                              }],
+                              }],
+                            
+                    
+                   "fghijklm": [{
+                       
+                        "f": [{
+                            
+                           "compartement":[{'coordinaten hoekpunten buitenvorm compartement':[{
+                                     'hoekpunt':[103  , 143],
+                                     'hoekpunt':[104  , 143],
+                                     'hoekpunt':[102  , 144],
+                                     'hoekpunt':[108  , 144],
+                                     'hoekpunt':[108  , 145],
+                                     'hoekpunt':[102  , 145],
+                                     'hoekpunt':[104  , 146],
+                                     'hoekpunt':[103  , 147],
+                                     'hoekpunt':[103  , 147],
+                                     'hoekpunt':[101  , 145],
+                             }],
+                             }],
+                              
+                              "tussen ruimte":[{"fa":[1,8],
+                             }],
+                             }],
+                             }],
+                   
+                    "p,q,t,u": [{
+                        
+                        "p": [{
+                            
+                           "compartement":[{'coordinaten hoekpunten':[{  
+                                 'hoekpunt':[103  , 143],
+                                 'hoekpunt':[104  , 138],
+                                 'hoekpunt':[108  , 146],
+                                 'hoekpunt':[99  , 146],
+                             }],}],}],
+                             
+                              "tussen ruimte":[{"pa":[1,8],
+                             }], 
+                             }],
+                             }],
+             
+                    "r,s,v,w,x,y,z": [{
+                        
+                        "r": [{
+                            
+                           "compartement":[{'coordinaten hoekpunten':[{
+                                 'hoekpunt':[105  , 145],
+                                 'hoekpunt':[109  , 152],
+                                 'hoekpunt':[100  , 152],
+                             }],
+                             }],
+                            
+                           "compartement binnenvorm":[{  
+                                 'hoekpunt':[105  , 149],
+                                 'hoekpunt':[108  , 152],
+                                 'hoekpunt':[101  , 152],
+                               
+                             }],
+                             }],
+                             
+                              "tussen ruimte":[{
+                                  "ra":[1,8],
+                             }],          
+                             }],
+                             }],
+
+'leestekens':[{".,?!@ $%^&#*-(_=+[]{}:;\|<>/`~)	~":
+            
+        [{
+                    "compartement":[{'coordinaten hoekpunten':
+        [{
+                             'hoekpunt':[ 104.931,146.037],
+                             'hoekpunt':[ 108.754,149.860],
+                             'hoekpunt':[101.118, 152],
+                             'hoekpunt':[105 , 148.865],
+        }],
+        }],
+                    "tussen ruimte":[{",?":[1.65],}],
+        }],
+        }],
+    
+'cijfers':[{'1,2,3,4,5,6,7,8,9,0,':
+        [{ '3':[{   "compartement 1":[{'coordinaten hoekpunten':
+        [{ 
+                            'hoekpunt':[ 14.47 , 10.50],
+                            'hoekpunt':[14.66 , 10.31 ],
+                            'hoekpunt':[14.77 , 10.46],
+                            'hoekpunt':[14.77 , 10.54],
+                            'hoekpunt':[14.66 , 10.54],
+                            'hoekpunt':[14.66 , 10.69], 
+        }],
+                    "compartement 2":[{'coordinaten hoekpunten':[{'coordinaten hoekpunten':[{ 
+                            'hoekpunt':[14.82 , 10.82],
+                            'hoekpunt':[14.93 , 10.46],
+                            'hoekpunt':[14.77 , 10.54],
+                            'hoekpunt':[14.82 , 10.54],
+        }],
+        }],
+                    "compartement 3":[{'coordinaten hoekpunten':[{ 
+                            'hoekpunt':[14.98 , 10.46],
+                            'hoekpunt':[15.08 , 10.46 ],
+                            'hoekpunt':[15.08 , 10.54],
+                            'hoekpunt':[ 14.98 , 10.54],
+        }],
+        }],
+                    "compartement 4":[{'coordinaten hoekpunten':[{ 
+                            'hoekpunt':[15.13 , 10.46],
+                            'hoekpunt':[15.23 , 10.46  ],
+                            'hoekpunt':[15.23 , 10.54],
+                            'hoekpunt':[14.13 , 10.54],
+        }]
+        }],
+        }],
+        }],
+        
+                    "tussen ruimte":[{"34":[1],}],
+        }],
+        }],
+        }],
+        }
