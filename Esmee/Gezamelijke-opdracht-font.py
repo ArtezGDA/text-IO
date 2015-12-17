@@ -7,19 +7,19 @@ Font = {
 
 		{
 		"weight": "Thin",
-		'weight': 'Thin italic',
-		'weight': 'Light',
-		'weight': 'Light italic',
-		'weight': 'Regular',
-		'weight': 'Regular italic',
-		'weight': 'Semibold',
-		'weight': 'Semibold italic',
-		'weight': 'Bold',
-		'weight': 'Bold italic',
-		'weight': 'Extrabold',
-		'weight': 'Extrabold italic',
-		'weight': 'Black',
-		'weight': 'Black italic',
+		"weight": "Thin italic",
+		"weight": "Light",
+		"weight": "Light italic",
+		"weight": "Regular",
+		"weight": "Regular italic",
+		"weight": "Semibold",
+		"weight": "Semibold italic",
+		"weight": "Bold",
+		"weight": "Bold italic",
+		"weight": "Extrabold",
+		"weight": "Extrabold italic",
+		"weight": "Black",
+		"weight": "Black italic",
 		}
 
 		],
@@ -32,17 +32,17 @@ Font = {
         {
         "A": [   
         {
-        "out point 1": ['x:4,84, y:112,77'],
-        "point 2": ['x:40,33, y:20,67'],
-        "point 3": ['x:64,91, y:20,67'],
-        "point 4": ['x:100,39, y:112,77'],
-        "point 5": ['x:79,16, y:112,77'],
-        "point 6": ['x:72,36, y:97,17'],
-        "point 7": ['x:32,87, y:97,17'],
-        "point 8": ['x:27,07, y:112,77'],
-        "inside point 1": ['x:38,26, y:79,91'],
-        "point 2": ['x:62,62, y:40,28'],
-        "point 3": ['x:66,98, y:79,91']
+        "out point 1": ["x:4,84", "y:112,77"],
+        "point 2": ["x:40,33", "y:20,67"],
+        "point 3": ["x:64,91", "y:20,67"],
+        "point 4": ["x:100,39", "y:112,77"],
+        "point 5": ["x:79,16", "y:112,77"],
+        "point 6": ["x:72,36", "y:97,17"],
+        "point 7": ["x:32,87", "y:97,17"],
+        "point 8": ["x:27,07", "y:112,77"],
+        "inside point 1": ["x:38,26", "y:79,91"],
+        "point 2": ["x:62,62", "y:40,28"],
+        "point 3": ["x:66,98", "y:79,91"]
             ], 
 
                 'B':[   'out point 1': ('x:16,71, y:112,77'),
