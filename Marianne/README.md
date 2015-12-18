@@ -2,7 +2,11 @@
 
 ## Homework
 [collections]() (python code)
-![](Marianne/Spotify.pv)
+
+![](Spotify.pv)
+
+![](fontdatabase.py)
+![](Diagram.png)
 
 ## Concept
 
