@@ -1,11 +1,10 @@
 # Marianne's work for Text IO 
 
 ## Homework
-[collections]() (python code)
 
-![](Spotify.pv)
+[Spotify-list](my_data_spotify.py)
 
-![](fontdatabase.py)
+[Group Assignment](fontdatabase.py)
 ![](Diagram.png)
 
 ## Concept
