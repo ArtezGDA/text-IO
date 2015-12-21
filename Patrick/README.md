@@ -9,13 +9,18 @@
 
 [Itunes](iTunes.py) (iTunes.py)
 
-[Terminal Cowsay](Cowsay.md) (iTunes.py)
+[Terminal Cowsay](Cowsay.md) (Cowsay.md)
 
+[Terminal Day and Month](DayandMonth.md) (DayandMonth.md)
 
+[Terminal Phone home](Phonehome.md) (Phonehome.md)
 
+[Terminal Poe Cat Dog](PoeCatdog.md) (PoeCatdog.md)
 
+[Groepsopdracht TYPE](GroepType.py) (GroepType.py)
 
 ## Concept
+Ik ga een programmatje schrijven die de (cliche) coaching van een voetbal wedstrijd doet.
 
 ## Prototype: working demo
 
