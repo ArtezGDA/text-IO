@@ -1,7 +1,7 @@
 # Patrick's work for Text IO 
 
 ## Homework
-[collections]() (python code)
+[Array list]() (List_vakken.pv)
 
 ## Concept
 
