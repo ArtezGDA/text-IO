@@ -20,7 +20,7 @@
 [Groepsopdracht TYPE](GroepType.py) (GroepType.py)
 
 ## Concept
-Ik ga een programmatje schrijven die de (cliche) coaching van een voetbal wedstrijd doet.
+Als ik op zaterdag langs de voetbal velden loop dan hoor ik de coaches altijd als debielen scheeuwen tegen die kleine jochies die gewoon lekker aan het voetballen zijn. Ik ben een tijd gaan opletten wat deze coaches nou eigenlijk roepen en 9 van de 10 keer gooien ze de meest nutteloze cliches over het veld. Ik wil een programmatje schrijven die zich gedraagt als deze coaches. Willekeurig op de paar minuten moet er een pop up in het scherm komen met een belachelijk coach cliche.
 
 ## Prototype: working demo
 
