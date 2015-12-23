@@ -36,6 +36,9 @@
 Cowsay conversation
 
 ## Prototype: working demo
+[Random_notifs](random_notifs.py) 
+
+[Sentences](sentences.json)
 
 ### Cowsay conversation
 [Cowsay conversation](cowsay_conversation.md) 
