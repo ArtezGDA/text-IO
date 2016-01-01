@@ -2,7 +2,7 @@ import Vis
 
 d = Vis.Visdict
 
-print "Supermark: %s." %(d['supermarkt'])
+print "Supermarkt: %s." %(d['supermarkt'])
 print "artikel: %s." %(d['wat'])
 print "Beschrijving: %s." %(d['hoeveel'])
 print "Korting: %s." % (d['korting'])
@@ -11,7 +11,7 @@ print "Voor: %s." % (d['deze week'])
 
 d = Vis.Visdict1
 
-print "Supermark: %s." %(d['supermarkt'])
+print "Supermarkt: %s." %(d['supermarkt'])
 print "artikel: %s." %(d['wat'])
 print "Beschrijving: %s." %(d['hoeveel'])
 print "Korting: %s." % (d['korting'])
@@ -20,7 +20,7 @@ print "Voor: %s." % (d['deze week'])
 
 d = Vis.Visdict2
 
-print "Supermark: %s." %(d['supermarkt'])
+print "Supermarkt: %s." %(d['supermarkt'])
 print "artikel: %s." %(d['wat'])
 print "Beschrijving: %s." %(d['hoeveel'])
 print "Korting: %s." % (d['korting'])
@@ -29,7 +29,7 @@ print "Voor: %s." % (d['deze week'])
 
 d = Vis.Visdict3
 
-print "Supermark: %s." %(d['supermarkt'])
+print "Supermarkt: %s." %(d['supermarkt'])
 print "artikel: %s." %(d['wat'])
 print "Beschrijving: %s." %(d['hoeveel'])
 print "Korting: %s." % (d['korting'])
@@ -38,7 +38,7 @@ print "Voor: %s." % (d['deze week'])
 
 d = Vis.Visdict4
 
-print "Supermark: %s." %(d['supermarkt'])
+print "Supermarkt: %s." %(d['supermarkt'])
 print "artikel: %s." %(d['wat'])
 print "Beschrijving: %s." %(d['hoeveel'])
 print "Korting: %s." % (d['korting'])
@@ -47,7 +47,7 @@ print "Voor: %s." % (d['deze week'])
 
 d = Vis.Visdict5
 
-print "Supermark: %s." %(d['supermarkt'])
+print "Supermarkt: %s." %(d['supermarkt'])
 print "artikel: %s." %(d['wat'])
 print "Beschrijving: %s." %(d['hoeveel'])
 print "Korting: %s." % (d['korting'])
@@ -56,7 +56,7 @@ print "Voor: %s." % (d['deze week'])
 
 d = Vis.Visdict6
 
-print "Supermark: %s." %(d['supermarkt'])
+print "Supermarkt: %s." %(d['supermarkt'])
 print "artikel: %s." %(d['wat'])
 print "Beschrijving: %s." %(d['hoeveel'])
 print "Korting: %s." % (d['korting'])
