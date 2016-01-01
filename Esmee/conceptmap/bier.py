@@ -1,1 +1,0 @@
-reclamedict = {'plaats': "emte", 'hoeveel': "3 kratten van 12 flesjes", 'korting': "39 procent", 'liter': 0.30, 'normaal': 16.47, 'deze week': 9.99}
