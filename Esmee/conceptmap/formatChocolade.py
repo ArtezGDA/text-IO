@@ -9,7 +9,7 @@ print "Korting: %s." % (d['korting'])
 print "Van: %s." % (d['normaal'])
 print "Voor: %s." % (d['deze week'])
 
-d = Chocolade.Dessertdict1
+d = Chocolade.Chocoladedict1
 
 print "Supermarkt: %s." %(d['supermarkt'])
 print "Artikel: %s." %(d['wat'])
@@ -18,7 +18,7 @@ print "Korting: %s." % (d['korting'])
 print "Van: %s." % (d['normaal'])
 print "Voor: %s." % (d['deze week'])
 
-d = Chocolade.Dessertdict2
+d = Chocolade.Chocoladedict2
 
 print "Supermarkt: %s." %(d['supermarkt'])
 print "Artikel: %s." %(d['wat'])
