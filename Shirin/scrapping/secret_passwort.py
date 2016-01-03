@@ -1,1 +1,0 @@
-github_account = {"user": "shirincode", "password": "c3c16abd1048d5520de6aea562e99c53ea04b0bb"}
