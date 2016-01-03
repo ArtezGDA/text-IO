@@ -8,11 +8,8 @@ Activated from out the terminal, it tells you a joke! The jokes are selected ran
 The program is written in python and uses a database
 ## How to install
 ## Screenshots
+[Image](1.png)
+[Image](2.png)
 
-## Design the flow of the program
-
-## How to use the script
-
-## PDF format 
 
 			
