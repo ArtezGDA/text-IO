@@ -19,19 +19,18 @@
 [Photoshop](adobe.rtf)<br>
 
 
-
-
-
 ## Concept
-[Jokes working like fortune](1.jpg)<br>
-[Jokes working like fortune](2.jpg)<br>
+The program that I want to write is a joke generator. Using cowsay as inspiration I want the program to output one-line randomly from a database that I created.
 
 
 ## Prototype: working demo
+[Jokes working like fortune](1.jpg)<br>
+[Jokes working like fortune](2.jpg)<br>
 
 ## Design the flow of the program
 
 ## How to use the script
 
 ## PDF format 
+
 			
