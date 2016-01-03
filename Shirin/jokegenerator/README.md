@@ -9,7 +9,7 @@ The program is written in python and uses a database
 ## How to install
 ## Screenshots
 [Image](1.png)<br>
-asdasdasd[Image](2.png)<br>
+[Image](2.png)<br>
 
 
 			
