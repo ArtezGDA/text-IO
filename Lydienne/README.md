@@ -36,13 +36,10 @@
 Cowsay conversation
 
 ## Prototype: working demo
-[Random_notifs](random_notifs.py) 
-
-[Sentences](sentences.json)
-
-### Cowsay conversation
 [Test cowsay conversation](cowsay_conversation/conversation.py) 
 
+
+### Cowsay conversation
 [Apotheek conversation](cowsay_conversation/apotheek.py) 
 
 [Groepstherapie conversation](cowsay_conversation/groepstherapie.py) 
