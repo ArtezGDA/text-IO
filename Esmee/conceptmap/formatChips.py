@@ -1,14 +1,13 @@
 import Chips
 import random
 
-d = Chips.Chipsdict=
+Chips.Chipsdict=
 {"Supermarkt: %s." %(d['supermarkt']),
 "Artikel: %s." %(d['wat']),
 "Beschrijving: %s." %(d['hoeveel']),
 "Korting: %s." % (d['korting']),
 "Van: %s." % (d['normaal']),
 "Voor: %s." % (d['deze week']),
-
 
 "Supermarkt: %s." %(d['supermarkt']),
 "Artikel: %s." %(d['wat']),
