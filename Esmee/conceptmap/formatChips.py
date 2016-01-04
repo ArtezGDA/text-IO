@@ -1,42 +1,48 @@
 import Chips
-import random
 
-Chips.Chipsdict =
+d = Chips.Chipsdict
 
-{"Supermarkt: %s." %(d['supermarkt']),
-"Artikel: %s." %(d['wat']),
-"Beschrijving: %s." %(d['hoeveel']),
-"Korting: %s." % (d['korting']),
-"Van: %s." % (d['normaal']),
-"Voor: %s." % (d['deze week']),
+print "Supermarkt: %s." %(d['supermarkt'])
+print "Artikel: %s." %(d['wat'])
+print "Beschrijving: %s." %(d['hoeveel'])
+print "Korting: %s." % (d['korting'])
+print "Van: %s." % (d['normaal'])
+print "Voor: %s." % (d['deze week'])
 
-"Supermarkt: %s." %(d['supermarkt']),
-"Artikel: %s." %(d['wat']),
-"Beschrijving: %s." %(d['hoeveel']),
-"Korting: %s." % (d['korting']),
-"Van: %s." % (d['normaal']),
-"Voor: %s." % (d['deze week']),
+d = Chips.Chipsdict1
 
-"Supermarkt: %s." %(d['supermarkt']),
-"Artikel: %s." %(d['wat']),
-"Beschrijving: %s." %(d['hoeveel']),
-"Korting: %s." % (d['korting']),
-"Van: %s." % (d['normaal']),
-"Voor: %s." % (d['deze week']),
+print "Supermarkt: %s." %(d['supermarkt'])
+print "Artikel: %s." %(d['wat'])
+print "Beschrijving: %s." %(d['hoeveel'])
+print "Korting: %s." % (d['korting'])
+print "Van: %s." % (d['normaal'])
+print "Voor: %s." % (d['deze week'])
 
-"Supermarkt: %s." %(d['supermarkt']),
-"Artikel: %s." %(d['wat']),
-"Beschrijving: %s." %(d['hoeveel']),
-"Korting: %s." % (d['korting']),
-"Van: %s." % (d['normaal']),
-"Voor: %s." % (d['deze week']),
+d = Chips.Chipsdict2
 
-"Supermarkt: %s." %(d['supermarkt']),
-"Artikel: %s." %(d['wat']),
-"Beschrijving: %s." %(d['hoeveel']),
-"Korting: %s." % (d['korting']),
-"Van: %s." % (d['normaal']),
-"Voor: %s." % (d['deze week'])}
+print "Supermarkt: %s." %(d['supermarkt'])
+print "Artikel: %s." %(d['wat'])
+print "Beschrijving: %s." %(d['hoeveel'])
+print "Korting: %s." % (d['korting'])
+print "Van: %s." % (d['normaal'])
+print "Voor: %s." % (d['deze week'])
+
+d = Chips.Chipsdict3
+
+print "Supermarkt: %s." %(d['supermarkt'])
+print "Artikel: %s." %(d['wat'])
+print "Beschrijving: %s." %(d['hoeveel'])
+print "Korting: %s." % (d['korting'])
+print "Van: %s." % (d['normaal'])
+print "Voor: %s." % (d['deze week'])
+
+d = Chips.Chipsdict4
+
+print "Supermarkt: %s." %(d['supermarkt'])
+print "Artikel: %s." %(d['wat'])
+print "Beschrijving: %s." %(d['hoeveel'])
+print "Korting: %s." % (d['korting'])
+print "Van: %s." % (d['normaal'])
+print "Voor: %s." % (d['deze week'])
 
 print "Chips is 5x in de aanbieding deze week."
-print random.choice(Chips)
