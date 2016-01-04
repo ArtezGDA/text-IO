@@ -47,7 +47,7 @@ Cowsay conversation
 
 [Groepstherapie conversation](groepstherapie.py) 
 
-[Hechtingconversation](hechting.py) 
+[Hechting conversation](hechting.py) 
 
 ## Design the flow of the program
 
