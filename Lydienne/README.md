@@ -41,13 +41,13 @@ Cowsay conversation
 [Sentences](sentences.json)
 
 ### Cowsay conversation
-[Test cowsay conversation](conversation.py) 
+[Test cowsay conversation](cowsay_conversation/conversation.py) 
 
-[Apotheek conversation](apotheek.py) 
+[Apotheek conversation](cowsay_conversation/apotheek.py) 
 
-[Groepstherapie conversation](groepstherapie.py) 
+[Groepstherapie conversation](cowsay_conversation/groepstherapie.py) 
 
-[Hechting conversation](hechting.py) 
+[Hechting conversation](cowsay_conversation/hechting.py) 
 
 ## Design the flow of the program
 
