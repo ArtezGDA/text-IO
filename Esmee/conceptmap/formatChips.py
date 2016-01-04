@@ -1,7 +1,8 @@
 import Chips
 import random
 
-Chips.Chipsdict=
+Chips.Chipsdict =
+
 {"Supermarkt: %s." %(d['supermarkt']),
 "Artikel: %s." %(d['wat']),
 "Beschrijving: %s." %(d['hoeveel']),
