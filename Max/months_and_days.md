@@ -1,33 +1,27 @@
-Last login: Tue Dec 15 10:20:16 on ttys000
-[maxwaelbers@MacBook-Pro-van-Max: ~]% ls                                   [82]
-Algorithmic-Nature/    Dropbox (Persoonlijk)/ Samsung/
-Applications/          Dropbox (Zelfstroom)/  VirtualBox VMs/
-Artez/                 Library/               Vormgeving/
-Desktop/               Movies/                poe/
-Documents/             Music/                 text-IO/
-Downloads/             Pictures/              zsh_dotfiles.tar
-Dropbox@               Public/
-[maxwaelbers@MacBook-Pro-van-Max: ~]% cd artez                             [83]
-[maxwaelbers@MacBook-Pro-van-Max: ~/artez]% ls                             [84]
-Jaar 1/                             Testfiles/
-Jaar 2/                             tumblr_n5p729L9K61qzxuoio1_400.jpg
-STUDIO'S.rtf                        tumblr_ne4l8zzSr61s1z87yo1_500.jpg
-[maxwaelbers@MacBook-Pro-van-Max: ~/artez]% cd testfiles                   [85]
-[maxwaelbers@MacBook-Pro-van-Max: ~/artez/testfiles]% mkdir Days           [86]
-[maxwaelbers@MacBook-Pro-van-Max: ~/artez/testfiles]% mkdir Days           [87]
-mkdir: Days: File exists
-[maxwaelbers@MacBook-Pro-van-Max: ~/artez/testfiles]% mkdir Months         [87]
-[maxwaelbers@MacBook-Pro-van-Max: ~/artez/testfiles]% ls                   [88]
-Days/          february.txt   march.txt      saturday.txt   wednesday.txt
-Months/        friday.txt     may.txt        september.txt
-april.txt      january.txt    monday.txt     sunday.txt
-august.txt     july.txt       november.txt   thursday.txt
-december.txt   june.txt       october.txt    tuesday.txt
-[maxwaelbers@MacBook-Pro-van-Max: ~/artez/testfiles]% mv *day.txt Days/    [89]
-[maxwaelbers@MacBook-Pro-van-Max: ~/artez/testfiles]% ls                   [90]
-Days/          august.txt     january.txt    march.txt      october.txt
-Months/        december.txt   july.txt       may.txt        september.txt
-april.txt      february.txt   june.txt       november.txt
-[maxwaelbers@MacBook-Pro-van-Max: ~/artez/testfiles]% mv *month.txt Months/
-mv: rename *month.txt to Months/*month.txt: No such file or directory
-[maxwaelbers@MacBook-Pro-van-Max: ~/artez/testfiles]%                      [92]
+Last login: Wed Jan  6 15:24:33 on ttys000
+[maxwaelbers@MacBook-Pro-van-Max: ~]% ls                                  [122]
+Applications/          Dropbox (Zelfstroom)/  Samsung/
+Artez/                 Library/               VirtualBox VMs/
+Desktop/               Media Design/          Vormgeving/
+Documents/             Movies/                poe/
+Downloads/             Music/                 zsh_dotfiles.tar
+Dropbox@               Pictures/
+Dropbox (Persoonlijk)/ Public/
+[maxwaelbers@MacBook-Pro-van-Max: ~]% cd downloads                        [123]
+[maxwaelbers@MacBook-Pro-van-Max: ~/downloads]% cd testfiles              [124]
+[maxwaelbers@MacBook-Pro-van-Max: ~/downloads/testfiles]% ls              [125]
+april.txt      friday.txt     march.txt      october.txt    thursday.txt
+august.txt     january.txt    may.txt        saturday.txt   tuesday.txt
+december.txt   july.txt       monday.txt     september.txt  wednesday.txt
+february.txt   june.txt       november.txt   sunday.txt
+[maxwaelbers@MacBook-Pro-van-Max: ~/downloads/testfiles]% mkdir days      [126]
+[maxwaelbers@MacBook-Pro-van-Max: ~/downloads/testfiles]% mkdir months    [127]
+[maxwaelbers@MacBook-Pro-van-Max: ~/downloads/testfiles]% mv *day.txt days
+[maxwaelbers@MacBook-Pro-van-Max: ~/downloads/testfiles]% mv *.txt months
+[maxwaelbers@MacBook-Pro-van-Max: ~/downloads/testfiles]% ls              [130]
+days/   months/
+[maxwaelbers@MacBook-Pro-van-Max: ~/downloads/testfiles]% cd days         [131]
+[maxwaelbers@MacBook-Pro-van-Max: downloads/testfiles/days]% ls           [132]
+friday.txt     saturday.txt   thursday.txt   wednesday.txt
+monday.txt     sunday.txt     tuesday.txt
+[maxwaelbers@MacBook-Pro-van-Max: downloads/testfiles/days]%              [133]
