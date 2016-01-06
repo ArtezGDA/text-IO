@@ -33,7 +33,7 @@
 
 <br>
 ## Concept
-Nieuwe fortune berichten van random regels uit Charles Bukowski boeken
+A fortune inspired program with random quotes from Charles Bukowski 
 
 ## Prototype: working demo
 ![](textIO/prototype1.png)
@@ -41,9 +41,7 @@ Nieuwe fortune berichten van random regels uit Charles Bukowski boeken
 ![](textIO/prototype2.png)
 
 
-## Design the flow of the program
+## Program and Documentation
 
-## How to use the script
 
-## PDF format 
 			
