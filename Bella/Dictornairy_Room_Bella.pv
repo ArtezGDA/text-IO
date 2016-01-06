@@ -1,0 +1,5 @@
+import  slaapkamer
+
+d = slaapkamer.mijn_slaapkamer
+
+print "I live in %s on the street %s, the zip code is %s. The height of my room is %d, i have %d door,  %d windows, and  %d bed." % (d ["stad"], d ["adres"], d ["postcode"] , d ["oppervlakte"] , d ["plafon hoogte"] , d ["deuren"] , d ["ramen"] , d ["bedden"])
