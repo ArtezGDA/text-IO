@@ -35,13 +35,13 @@ Vervanging:  	n	o	p	q	r	s	t	u	v	w	x	y	z	a	b	c	d	e	f	g	h	i	j	k	l	m
 
 ## Prototype: working demo
 
-![](textIO/Lola/prototype1.png)
+[](textIO/Lola/prototype1.png)
 
-![](textIO/Lola/prototype2.png)
+[](textIO/Lola/prototype2.png)
 
 [prototype code 1](prototype1.png)
 
-[prototype code 2](prototype2.png)
+[prototype](prototype2.png)
 
 ## Design the flow of the program
 
