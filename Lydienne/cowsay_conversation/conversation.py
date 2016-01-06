@@ -1,8 +1,12 @@
 #!/usr/bin/env python
 # encoding: utf-8
 
+# dit gedeelte zorgt ervoor dat stdout, stderr = subprocess.Popen werkt.
 import subprocess
 
+# tussen word = "" kun je de tekst typen die de koe moet uitspreken.
+# cowsay staat voor een koe, maar als je een ander karakter wilt zul je de code moeten aanpassen.
+# van 'cowsay', naar 'cowsay' '-f' 'hier komt de naam van je karakter'
 word="In de hal van kasteel Elseneur."
 stdout, stderr = subprocess.Popen(
                      ['cowsay', word]).communicate()
