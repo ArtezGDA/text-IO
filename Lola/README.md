@@ -10,13 +10,13 @@
 
 [3. Spotify](itunes.pv) 
 
-[4. Folders](Search_Files.md) 
+[4. Folders](search_files.md) 
 
-[5. Search Files](Search_Files.md) 
+[5. Search Files](search_files.md) 
 
 [6. Cowsay](cowsay.md) 
 
-[7. Poe](Poe.md) 
+[7. Poe](poe.md) 
 
 [8. Adobe](phone_behavior.md)
 
