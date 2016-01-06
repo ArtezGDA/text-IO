@@ -34,7 +34,7 @@ yum install cowsay
 
 Open de terminal, plak één van de terminal commando's hierboven en druk ENTER.
 
-Download de map met python-bestanden op uw computer en verplaatsen ze naar een logische locatie op uw computer. Open de terminal zoals in de voorbeeld hieronder:
+Download de map met python-bestanden en verplaatsen ze naar een logische locatie op uw computer. Open de terminal zoals in de voorbeeld hieronder:
 
 ```
 cd documents
