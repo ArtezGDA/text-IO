@@ -1,0 +1,49 @@
+"hoi"
+"ik"
+"ben"
+"jeanine"
+
+
+
+ipython
+
+t = """text"""
+
+t.split()
+
+import random 
+random.choice (t.split())
+
+eentje uithalen door l.pop(getal)
+
+random.randrange(len(l))
+
+
+
+
+#tekst husselen
+
+l = t.split
+
+newlist = []
+
+while len(l) > 0:
+	i = random.randrange(len(l))
+	w = l.pop(i)
+	newlist.append(w)
+
+newlist 
+
+
+Een array van dictonairys; daarin wil je het woord, de index (getal oorspronkelijke positie), 
+
+Vaste regelafstand nodig 
+while len(newlist) > 0:
+	c = 0
+	line = ""
+	while c < 10 and len(newlist) > 0:
+		w = nelist.pop(0)
+		line = line + w
+		line = line + ' '
+		c = c + len(w) + 1 
+	print line

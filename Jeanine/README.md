@@ -24,6 +24,10 @@ Het idee voor mijn programma is om een random tekst goed op te laten lezen en zi
 ## Prototype: working demo
 
 ## Design the flow of the program
+[Script](script_random_text.py)
+
+[Text](text.json)
+
 
 ## How to use the script
 
