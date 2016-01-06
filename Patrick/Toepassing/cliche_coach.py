@@ -24,7 +24,7 @@ def main():
 	while True:
 		executeShell(random_name, "COACH:")
 		random_name = randomZin()
-		time.sleep(10)
+		time.sleep(60)
 
 if __name__ == '__main__':
 	main()
