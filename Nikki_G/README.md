@@ -394,32 +394,21 @@ typeface = {
 
 ## Concept
 
-Mijn idee was om tekst als een emotie in te voeren, en vervolgens dat er een digitale smiley uitkomt. Als een computer die tie toch emoties kan tonen. Dit moet alleen nog verder ontwikkeld worden. 
+Translate functie. Als je een Engelse tekst invoerd en vervolgens op translate klikt vertaald hij elk Engelse woord wat jij hetb ingevoerd naar een andere taal. Dus als je een hele tekst hebt en deze vertaald zie je een hele tekst geschreven in allemaal verschillende talen. Zodat iedereen over de hele wereld een klein stukje van de tekst kan lezen. 
 
 
 ## Prototype: working demo
 
-```
-emoties = { 
-	'emoties' :[
-	{
-		'boos': " >:( ",
-		'blij': " :) ",
-		'verdrietig': " :'(",
-		'verbaasd': " :o",
-		'heel blij': " :D",
-		'knipoog': " ;)",
-		'vragend': " :/ ",
-		'tevreden': " ^^ ",
-		'beertje blij': " :3 "
+[Filmpje](vertalen)<br>
+[Dingen geprobeerd](proberen/browser.html)<br>
+[Dingen geprobeerd](debug.js)<br>
+[Dingen geprobeerd](index.html)<br>
+[Dingen geprobeerd](jquery.js)<br>
+[Dingen geprobeerd](languages.js)<br>
+[Dingen geprobeerd](node-demo.js)<br>
+[Dingen geprobeerd](node.js)<br>
+[Dingen geprobeerd](package.json)<br>
+[Dingen geprobeerd](translate.js)<br>
 
-	}],}
 
-```
-
-## Design the flow of the program
-
-## How to use the script
-
-## PDF format 
 			
