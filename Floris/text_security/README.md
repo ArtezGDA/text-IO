@@ -19,7 +19,9 @@ Floris Versteeg 2A
 open in de terminal de python file text_security.py
 terminal command: "python 'text_security.py'"
 
-![screenshotfase1.png](florisversteeg.github.com/ArtezGDA/text-IO/blob/master/Floris/text_security/screenshotfase1.png)
+
+
+![screenshotfase1.png](https://.github.com/ArtezGDA/text-IO/blob/master/Floris/text_security/screenshotfase1.png)
 
 ![screenshotfase2.png](florisversteeg.github.com/ArtezGDA/text-IO/blob/master/Floris/text_security/screenshotfase2.png)
 
