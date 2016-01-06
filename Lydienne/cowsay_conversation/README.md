@@ -34,6 +34,15 @@ yum install cowsay
 
 Open de terminal en plak één de hierboven genoemde terminal commando. Druk daarna op ENTER.
 
+Download de map met python-bestanden op uw computer en verplaatsen ze naar een logische locatie op uw computer. Open de terminal zoals in de voorbeeld hieronder:
+
+```
+cd documents
+cd cowsay_conversation
+python bestandsnaam.py
+ENTER
+```
+
 ###Screenshots
 
 ![3 conversaties](screenshot.jpg)
@@ -74,7 +83,7 @@ De onderstaande gegeven kopieren en boven in de code plakken.</br>
 import subprocess
 ```
 
-Cowsay: <b>cowfiles</b> .cow
+Cowsay: cowfiles.cow
 
 ###License (MIT License) 
 
