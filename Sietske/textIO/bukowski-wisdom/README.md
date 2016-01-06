@@ -23,7 +23,7 @@ Bukowski Wisdom is released under the MIT License (MIT)
 
 Inspired by the program fortune from Homebrew.
 
-Copyright (c) 2015 Sietske Barten (github.com/sietsiam)
+Copyright (c) 2016 Sietske Barten (github.com/sietsiam)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
