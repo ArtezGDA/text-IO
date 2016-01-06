@@ -1,12 +1,12 @@
 ##Cowsay Conversation
 
 ###Omschrijving
-Cowsay is een pratende koe die zegt wat je typt. Als je niet van koeien houdt, geen probleem er zijn ook andere dieren die je kan gebruiken. Naast dieren zijn er nog een paar andere figuren. 
+Cowsay is een pratende koe die zegt wat u typt. Als u niet van koeien houdt, geen probleem er zijn ook andere karakters die u kunt gebruiken. Naast dieren zijn er nog een paar andere figuren. 
 
-Met deze cowsay versie kun je de dieren een conversatie met elkaar aan laten gaan.
+Met deze cowsay versie kunt u de karakters een conversatie met elkaar laten voeren.
 
 ###Installeer
-Voor u cowsay kan instaleren moet u eerst Homebrew instaleren. Dit doet u op de volgende manier, open de terminal en kopier/plak de hieronder genoemde terminal commando's en druk ENTER.</br>
+Voor u cowsay kan installeren moet u eerst Homebrew installeren. Dit doet u op de volgende manier, open de terminal, kopieer/plak de terminal commando's hieronder en druk ENTER.</br>
 
 ```
 xcode-select --install
@@ -20,7 +20,7 @@ brew doctor
 ```
 
 Installeer cowsay op uw computer systeem. </br>
-Het kan geïnstalleerd worden met één van deze terminal commando:
+Het kan geïnstalleerd worden met één van deze terminal commando's:
 
 ```
 brew install cowsay
@@ -32,7 +32,7 @@ sudo apt-get install cowsay
 yum install cowsay
 ```
 
-Open de terminal en plak één de hierboven genoemde terminal commando. Druk daarna op ENTER.
+Open de terminal, plak één van de terminal commando's hierboven en druk ENTER.
 
 Download de map met python-bestanden op uw computer en verplaatsen ze naar een logische locatie op uw computer. Open de terminal zoals in de voorbeeld hieronder:
 
@@ -42,9 +42,10 @@ cd cowsay_conversation
 python bestandsnaam.py
 ENTER
 ```
+Eerst opent u de map waar u de gedownloaden bestand heen heeft geplaatst, daarna de map met python-bestanden en dan de python-bestand.
 
 ###Screenshots
-
+![3 conversaties](screenshot2.jpg)
 ![3 conversaties](screenshot.jpg)
 
 ###Voorbeelden van hoe te gebruiken
@@ -54,7 +55,7 @@ De volgende code gebruiken in Sublime Text:</br>
 stdout, stderr = subprocess.Popen(</br>
                      ['<b>cowsay</b>', <b>word</b>]).communicate()</br></br>                                          
 In het gedeelte <b>word = "......"</b> type je de tekst die de koe moet zeggen.</br>
-In het gedeelte <b>'cowsay'</b> kun je een dier kiezen. Als je een andere dier wilt dan een koe heb je de volgende commando nodig: <b>'cowsay', '-f', 'vader-koala'</b></br></br>
+In het gedeelte <b>'cowsay'</b> kunt u een karakter kiezen. Als je een andere karakter wilt heeft u de volgende commando nodig: <b>'cowsay', '-f', 'naam karakter'</b></br></br>
 
 Terminal commando: 
 
