@@ -1,18 +1,25 @@
 # Jeanine's work for Text IO 
 
 ## Homework
-[List]() (List_vakken.pv)
+[1. List](List_vakken.pv) 
 
-[Dictonairy]() (my_data_file_room.py)
+[2.Dictonairy](my_data_file_room.py) 
 
-[Spotify]() (my_data_file_spotify.py)
+[3. Spotify](my_data_file_spotify.py) 
 
-[Cowsay] () (Cowsay)
+[4. Folders](Folders.md) 
 
-[Poe] () (Poe)
+[4. Search Files](Search_Files.md) 
 
+[6. Cowsay](cowsay.jpg) 
+
+[7. Poe](Poe.md) 
+
+[8. Adobe](Adobe.md)
 
 ## Concept
+
+
 
 ## Prototype: working demo
 
