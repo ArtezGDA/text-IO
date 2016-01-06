@@ -3,6 +3,16 @@
 ## Homework
 ###collections
 [array](1.array.md)
+
+[day and month](2.day_month.md)
+
+[dictionary](3.dictionary.md)
+
+[]()
+
+[]()
+
+[]()
 ###groepsopdracht
 ###zs
 
