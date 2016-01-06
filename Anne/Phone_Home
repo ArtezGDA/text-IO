@@ -1,0 +1,32 @@
+Last login: Wed Jan  6 21:49:24 on ttys006
+[AnneGoossens@MacBook-Pro-van-Anne-Goossens: ~]% ps                       [165]
+  PID TTY           TIME CMD
+ 1424 ttys000    0:00.01 -zsh
+ 1426 ttys001    0:00.10 -zsh
+ 1541 ttys002    0:00.08 -zsh
+ 2213 ttys003    0:00.07 -zsh
+ 1916 ttys004    0:00.09 -zsh
+ 2136 ttys004    0:00.00 cat
+ 2103 ttys006    0:00.07 -zsh
+[AnneGoossens@MacBook-Pro-van-Anne-Goossens: ~]% ps -ax.                  [166]
+ps: illegal option -- .
+usage: ps [-AaCcEefhjlMmrSTvwXx] [-O fmt | -o fmt] [-G gid[,gid...]]
+          [-g grp[,grp...]] [-u [uid,uid...]]
+          [-p pid[,pid...]] [-t tty[,tty...]] [-U user[,user...]]
+       ps [-L]
+[AnneGoossens@MacBook-Pro-van-Anne-Goossens: ~]% netstat -a |grep 'Adobe'
+d1c7ab25949acb97 stream      0      0                0 d1c7ab25949acc5f                0                0 /tmp/com.adobe.AdobeIPCBroker.ctrl-AnneGoossens
+d1c7ab25949acd27 stream      0      0                0 d1c7ab25949aceb7                0                0 /tmp/com.adobe.AdobeIPCBroker.ctrl-AnneGoossens
+d1c7ab25949ae497 stream      0      0                0 d1c7ab25949ae55f                0                0 /tmp/com.adobe.AdobeIPCBroker.ctrl-AnneGoossens
+d1c7ab25949ae947 stream      0      0                0 d1c7ab25949aea0f                0                0 /tmp/com.adobe.AdobeIPCBroker.ctrl-AnneGoossens
+d1c7ab25949ae627 stream      0      0                0 d1c7ab25949ae6ef                0                0 /tmp/com.adobe.AdobeIPCBroker.ctrl-AnneGoossens
+d1c7ab25949ae7b7 stream      0      0                0 d1c7ab25949ae87f                0                0 /tmp/com.adobe.AdobeIPCBroker.ctrl-AnneGoossens
+d1c7ab25931b8d27 stream      0      0                0 d1c7ab25931b8def                0                0 /tmp/com.adobe.AdobeIPCBroker.ctrl-AnneGoossens
+d1c7ab25931b8eb7 stream      0      0                0 d1c7ab25931b8f7f                0                0 /tmp/com.adobe.AdobeIPCBroker.ctrl-AnneGoossens
+d1c7ab25931b99a7 stream      0      0                0 d1c7ab25931b9d8f                0                0 /tmp/com.adobe.AdobeIPCBroker.ctrl-AnneGoossens
+d1c7ab258f7c6557 stream      0      0                0 d1c7ab25931b9bff                0                0 /tmp/com.adobe.AdobeIPCBroker.ctrl-AnneGoossens
+d1c7ab258f7c67af stream      0      0 d1c7ab25939c01bf                0                0                0 /tmp/com.adobe.AdobeIPCBroker.ctrl-AnneGoossens
+d1c7ab25931ba55f stream      0      0                0 d1c7ab25931ba497                0                0 /Users/AnneGoossens/Library/Application Support/Adobe/Acrobat/DC/Acrobat/Synchronizer/Commands
+d1c7ab25931ba87f stream      0      0 d1c7ab258fa1457f                0                0                0 /Users/AnneGoossens/Library/Application Support/Adobe/Acrobat/DC/Acrobat/Synchronizer/Notification
+d1c7ab25931ba7b7 stream      0      0 d1c7ab25933b3cff                0                0                0 /Users/AnneGoossens/Library/Application Support/Adobe/Acrobat/DC/Acrobat/Synchronizer/Commands
+[AnneGoossens@MacBook-Pro-van-Anne-Goossens: ~]%                                                      [168]
