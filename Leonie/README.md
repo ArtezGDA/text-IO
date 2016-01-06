@@ -5,9 +5,17 @@
 [Dictionary Leonie](format.py) <br>
 [Data Leonie](my_data_file.py) <br>
 [Spotify](spotify.pv) <br>
+
 ## Concept
 
+	$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+A tool to give some extra blinggangstaflavour to your story. A typetool that transform normal words to a dollar word. *catchinggg* 
+
+	$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ## Prototype: working demo
+
+![](Leonie/prototype.png)
 
 ## Design the flow of the program
 
