@@ -50,7 +50,7 @@ ENTER
 ###Voorbeelden van hoe te gebruiken
 De volgende code gebruiken in Sublime Text:</br>
 
-<b>word</b>="In de hal van kasteel Elseneur."</br>
+<b>word</b>="Type hier uw tekst."</br>
 stdout, stderr = subprocess.Popen(</br>
                      ['<b>cowsay</b>', <b>word</b>]).communicate()</br></br>                                          
 In het gedeelte <b>word = "......"</b> type je de tekst die de koe moet zeggen.</br>
