@@ -35,6 +35,7 @@
 ## Concept
 A fortune inspired program with random quotes from Charles Bukowski 
 
+<br>
 ## Prototype: working demo
 ![](textIO/prototype1.png)
 

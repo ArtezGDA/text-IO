@@ -4,18 +4,19 @@ Bukowski Wisdom is a program which tells you a random quote or a short poem from
 
 If you activate Bukowski Wisdom in the terminal it shows a randomized quote from Charles Bukowski, and it brings you the wisdom of life experience by Bukowski himself.
 
-
+<br>
 ## How to install
 1. Download the folder with the files on your computer
 2. Open Terminal, go to the folder with the files
 3. Type in: "python bukowskywisdom.py" > enter
 4. And Done! You have a random quote from Charles Bukowski
 
-
+<br>
 ## Screenshots
-[Image 1](screenshot1.png)
-
+[Image 1](screenshot1.png) <br>
 [Image 2](screenshot2.png)
+<br>
+<br>
 
 ## MIT License
 Bukowski Wisdom is released under the MIT License (MIT)
