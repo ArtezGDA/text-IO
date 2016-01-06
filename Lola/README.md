@@ -35,15 +35,28 @@ Vervanging:  	n	o	p	q	r	s	t	u	v	w	x	y	z	a	b	c	d	e	f	g	h	i	j	k	l	m
 
 ## Prototype: working demo
 
-[](textIO/Lola/prototype1.png)
-
-[](textIO/Lola/prototype2.png)
 
 [prototype code 1](prototype1.png)
 
-[prototype](prototype2.png)
+[prototype code 2](prototype2.png)
+
 
 ## Design the flow of the program
+
+python:
+
+[Script 1](secretcode1.py)
+
+[Script 2](secretcode2.py)
+
+Dit zijn mijn 2 scriptjes op python, Als ik ze in de terminal open werken ze niet. Maar op plotdive wel.
+
+plotdivice:
+
+
+[Script 1](prototype_1>2.pv)
+
+[Script 2](prototype_2>1.pv)
 
 ## How to use the script
 
