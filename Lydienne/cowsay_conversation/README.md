@@ -42,7 +42,7 @@ cd cowsay_conversation
 python bestandsnaam.py
 ENTER
 ```
-Eerst opent u de map waar u de gedownloaden bestand heen heeft geplaatst, daarna de map met python-bestanden en dan de python-bestand.
+Eerst opent u de map waar u de gedownloaden bestand heen heeft verplaatst, daarna de map met python-bestanden en dan de python-bestand.
 
 ###Screenshots
 ![3 conversaties](screenshot2.jpg)
