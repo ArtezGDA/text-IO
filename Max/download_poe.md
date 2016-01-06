@@ -1,34 +1,5 @@
-Last login: Tue Dec 15 09:57:20 on ttys000
-\[maxwaelbers@MacBook-Pro-van-Max: ~]% \cd ~\documents                      [62]
-cd: no such file or directory: ~documents
-[maxwaelbers@MacBook-Pro-van-Max: ~]% cd ~/Documents                       [63]
-[maxwaelbers@MacBook-Pro-van-Max: ~/Documents]% ls                         [64]
-20151211 - MWS - AO bepaalde tijd tm 23-6-2016.pdf
-Microsoft User Data/
-My Books/
-Processing/
-planning_van_noa.rtf
-stekker.jpg
-[maxwaelbers@MacBook-Pro-van-Max: ~/Documents]% mkdir poe                  [65]
-[maxwaelbers@MacBook-Pro-van-Max: ~/Documents]% ls                         [66]
-20151211 - MWS - AO bepaalde tijd tm 23-6-2016.pdf
-Microsoft User Data/
-My Books/
-Processing/
-planning_van_noa.rtf
-poe/
-stekker.jpg
-[maxwaelbers@MacBook-Pro-van-Max: ~/Documents]% curl http://gutenberg.org/files/2147/2147-8.txt
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>301 Moved Permanently</title>
-</head><body>
-<h1>Moved Permanently</h1>
-<p>The document has moved <a href="http://www.gutenberg.org/zipcat2.php/2147/2147-8.txt">here</a>.</p>
-<hr>
-<address>Apache Server at www.gutenberg.org Port 80</address>
-</body></html>
-[maxwaelbers@MacBook-Pro-van-Max: ~/Documents]% curl http://www.gutenberg.org/files/2147/2147-8.txt
+Last login: Wed Jan  6 15:22:37 on ttys000
+[maxwaelbers@MacBook-Pro-van-Max: ~]% curl http://www.gutenberg.org/files/2147/2147-8.txt
 Project Gutenberg's The Works of Edgar Allan Poe, by Edgar Allan Poe
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -9255,4 +9226,120 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
-[maxwaelbers@MacBook-Pro-van-Max: ~/Documents]%                            [69]
+[maxwaelbers@MacBook-Pro-van-Max: ~]% ls                                  [116]
+Applications/          Dropbox (Zelfstroom)/  Samsung/
+Artez/                 Library/               VirtualBox VMs/
+Desktop/               Media Design/          Vormgeving/
+Documents/             Movies/                poe/
+Downloads/             Music/                 zsh_dotfiles.tar
+Dropbox@               Pictures/
+Dropbox (Persoonlijk)/ Public/
+[maxwaelbers@MacBook-Pro-van-Max: ~]% cd poe                              [117]
+[maxwaelbers@MacBook-Pro-van-Max: ~/poe]% cat vol*.txt | grep -ci cat     [118]
+665
+[maxwaelbers@MacBook-Pro-van-Max: ~/poe]% cat vol*.txt | grep -ci 'cat'   [119]
+665
+[maxwaelbers@MacBook-Pro-van-Max: ~/poe]% cat vol*.txt | grep -ci 'dog'   [120]
+50
+[maxwaelbers@MacBook-Pro-van-Max: ~/poe]% cat vol*.txt | grep -n 'horror'
+583:subtle ramifications of its roots. In raising images of horror, also,
+585:some terrible _doubt _which is the secret of all horror. He leaves to
+609:the unreal as sources of effect. They have not used dread and horror
+1367:any adequate idea of the horror of my situation. I gasped convulsively
+1392:nor horror-stricken. If I felt any emotion at all, it was a kind of
+1437:die rapidly away, and thereunto succeeded horror, and dismay, and a
+2333:can give any adequate idea of the extreme, the absolute horror and
+5003:every one present not less with horror than with astonishment.
+5327:horror of the thing. But dismiss the idle opinions of this print. It
+5665:brutal, a butchery without motive, a _grotesquerie_ in horror absolutely
+5720:to all. I understood the full horrors of the murder at once.
+5934:fell from his hold through excess of horror. Now it was that those
+5959:horror, was just discernible. The fury of the beast, who no doubt bore
+5974:Frenchman's exclamations of horror and affright, commingled with the
+7596:in fact, a secret. The horrors of this dark deed are known only to one,
+7693:unutterable horror at finding that the boat has been picked up and
+8475:attended us. All around were horror, and thick gloom, and a black
+8513:mainly inspired us with horror and astonishment, was that she bore up
+8711:To conceive the horror of my sensations is, I presume, utterly
+8728:horror upon horror! the ice opens suddenly to the right, and to the
+9809:subtle ramifications of its roots. In raising images of horror, also,
+9811:some terrible _doubt _which is the secret of all horror. He leaves to
+9835:the unreal as sources of effect. They have not used dread and horror
+10593:any adequate idea of the horror of my situation. I gasped convulsively
+10618:nor horror-stricken. If I felt any emotion at all, it was a kind of
+10663:die rapidly away, and thereunto succeeded horror, and dismay, and a
+11559:can give any adequate idea of the extreme, the absolute horror and
+14229:every one present not less with horror than with astonishment.
+14553:horror of the thing. But dismiss the idle opinions of this print. It
+14891:brutal, a butchery without motive, a _grotesquerie_ in horror absolutely
+14946:to all. I understood the full horrors of the murder at once.
+15160:fell from his hold through excess of horror. Now it was that those
+15185:horror, was just discernible. The fury of the beast, who no doubt bore
+15200:Frenchman's exclamations of horror and affright, commingled with the
+16822:in fact, a secret. The horrors of this dark deed are known only to one,
+16919:unutterable horror at finding that the boat has been picked up and
+17701:attended us. All around were horror, and thick gloom, and a black
+17739:mainly inspired us with horror and astonishment, was that she bore up
+17937:To conceive the horror of my sensations is, I presume, utterly
+17954:horror upon horror! the ice opens suddenly to the right, and to the
+19035:subtle ramifications of its roots. In raising images of horror, also,
+19037:some terrible _doubt _which is the secret of all horror. He leaves to
+19061:the unreal as sources of effect. They have not used dread and horror
+19819:any adequate idea of the horror of my situation. I gasped convulsively
+19844:nor horror-stricken. If I felt any emotion at all, it was a kind of
+19889:die rapidly away, and thereunto succeeded horror, and dismay, and a
+20785:can give any adequate idea of the extreme, the absolute horror and
+23455:every one present not less with horror than with astonishment.
+23779:horror of the thing. But dismiss the idle opinions of this print. It
+24117:brutal, a butchery without motive, a _grotesquerie_ in horror absolutely
+24172:to all. I understood the full horrors of the murder at once.
+24386:fell from his hold through excess of horror. Now it was that those
+24411:horror, was just discernible. The fury of the beast, who no doubt bore
+24426:Frenchman's exclamations of horror and affright, commingled with the
+26048:in fact, a secret. The horrors of this dark deed are known only to one,
+26145:unutterable horror at finding that the boat has been picked up and
+26927:attended us. All around were horror, and thick gloom, and a black
+26965:mainly inspired us with horror and astonishment, was that she bore up
+27163:To conceive the horror of my sensations is, I presume, utterly
+27180:horror upon horror! the ice opens suddenly to the right, and to the
+28261:subtle ramifications of its roots. In raising images of horror, also,
+28263:some terrible _doubt _which is the secret of all horror. He leaves to
+28287:the unreal as sources of effect. They have not used dread and horror
+29045:any adequate idea of the horror of my situation. I gasped convulsively
+29070:nor horror-stricken. If I felt any emotion at all, it was a kind of
+29115:die rapidly away, and thereunto succeeded horror, and dismay, and a
+30011:can give any adequate idea of the extreme, the absolute horror and
+32681:every one present not less with horror than with astonishment.
+33005:horror of the thing. But dismiss the idle opinions of this print. It
+33343:brutal, a butchery without motive, a _grotesquerie_ in horror absolutely
+33398:to all. I understood the full horrors of the murder at once.
+33612:fell from his hold through excess of horror. Now it was that those
+33637:horror, was just discernible. The fury of the beast, who no doubt bore
+33652:Frenchman's exclamations of horror and affright, commingled with the
+35274:in fact, a secret. The horrors of this dark deed are known only to one,
+35371:unutterable horror at finding that the boat has been picked up and
+36153:attended us. All around were horror, and thick gloom, and a black
+36191:mainly inspired us with horror and astonishment, was that she bore up
+36389:To conceive the horror of my sensations is, I presume, utterly
+36406:horror upon horror! the ice opens suddenly to the right, and to the
+37487:subtle ramifications of its roots. In raising images of horror, also,
+37489:some terrible _doubt _which is the secret of all horror. He leaves to
+37513:the unreal as sources of effect. They have not used dread and horror
+38271:any adequate idea of the horror of my situation. I gasped convulsively
+38296:nor horror-stricken. If I felt any emotion at all, it was a kind of
+38341:die rapidly away, and thereunto succeeded horror, and dismay, and a
+39237:can give any adequate idea of the extreme, the absolute horror and
+41907:every one present not less with horror than with astonishment.
+42231:horror of the thing. But dismiss the idle opinions of this print. It
+42569:brutal, a butchery without motive, a _grotesquerie_ in horror absolutely
+42624:to all. I understood the full horrors of the murder at once.
+42838:fell from his hold through excess of horror. Now it was that those
+42863:horror, was just discernible. The fury of the beast, who no doubt bore
+42878:Frenchman's exclamations of horror and affright, commingled with the
+44500:in fact, a secret. The horrors of this dark deed are known only to one,
+44597:unutterable horror at finding that the boat has been picked up and
+45379:attended us. All around were horror, and thick gloom, and a black
+45417:mainly inspired us with horror and astonishment, was that she bore up
+45615:To conceive the horror of my sensations is, I presume, utterly
+45632:horror upon horror! the ice opens suddenly to the right, and to the
+[maxwaelbers@MacBook-Pro-van-Max: ~/poe]%                                 [122]
