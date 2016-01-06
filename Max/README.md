@@ -28,6 +28,9 @@
 ### Phone Home
 [Phone Home](phone_home.md)
 
+###Type group assignment
+[Group Typeface](typeface.py)
+
 <br>
 ## Concept
 <br>
@@ -77,9 +80,6 @@ Mona Gezingspudding griesmeel met saus 500 g
 
 #####-drinken:
 AH Zuid-afrika huiswijn fris
-
-##Type group assignment
-[Group Typeface](typeface.py)
 
 
 ## Prototype: working demo
