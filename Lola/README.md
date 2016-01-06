@@ -35,6 +35,7 @@ Vervanging:  	n	o	p	q	r	s	t	u	v	w	x	y	z	a	b	c	d	e	f	g	h	i	j	k	l	m
 
 ## Prototype: working demo
 
+Met deze twee voorbeelden zou je dan samen in code taal kunnen typen:
 
 [prototype code 1](prototype1.png)
 
@@ -59,6 +60,8 @@ plotdivice:
 [Script 2](prototype_2>1.pv)
 
 ## How to use the script
+
+
 
 ## PDF format 
 			
