@@ -9,7 +9,7 @@
 
 [4. Folders](Folders.md) 
 
-[4. Search Files](Search_Files.md) 
+[5. Search Files](Search_Files.md) 
 
 [6. Cowsay](cowsay.jpg) 
 
@@ -18,7 +18,7 @@
 [8. Adobe](Adobe.md)
 
 ## Concept
-
+Het idee voor mijn programma is om een random tekst goed op te laten lezen en zien. Zie het voor je dat er een door elkaar gehusselde tekst staat die wordt opgelezen door de computer maar dan in de goede volgorde. Tegelijkertijd zie je ook de woorden die opgelezen worden gemarkeerd.
 
 
 ## Prototype: working demo
