@@ -2,7 +2,7 @@
 
 ## Homework
 
-[1. List](List_courses.pv) 
+[1. List](list_courses.pv) 
 
 [2 format Dictonairy](format_room.py) 
 
