@@ -36,6 +36,9 @@ Waarom werkt dit niet?
 
 ## Concept
 
+[Heavy Metal Album Art](Heavy Metal Album Art.rtf)
+
+
 
 
 ## Prototype: working demo
