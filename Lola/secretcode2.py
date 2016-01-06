@@ -1,3 +1,4 @@
+#!/usr/bin/python 
 def karakters (n):
     o=""
     key = {'@':'a', 'Q':'b', '>':'c', '<':'d', '?':'e', '/':'f', '=':'g', '+':'h', 
