@@ -44,4 +44,31 @@ Last login: Wed Jan  6 19:23:14 on ttys000
 
 ![ScreenShot](terminalnavigatiescreenshot.png)
 
+[text_security.pv](text_security/text_security.pv) <br>
+
+```
+import smtplib
+from email.MIMEMultipart import MIMEMultipart
+from email.MIMEText import MIMEText
+
+fromaddr = "fsversteeg2@gmail.com"
+toaddr = "fsversteeg2@gmail.com"
+
+msg = MIMEMultipart()
+msg['From'] = fromaddr
+msg['To'] = toaddr
+msg['Subject'] = "WARNING MESSAGE"
+body = "Dit is een waarschuwings bericht (!) Er probeert iemand een text bestand aan te passen."
+msg.attach(MIMEText(body, 'plain'))
+
+server = smtplib.SMTP('smtp.gmail.com', 587)
+server.starttls()
+server.login(fromaddr, "Wdrrhb22/")
+text = msg.as_string()
+server.sendmail(fromaddr, toaddr, text)
+server.quit()
+```
+
+
+
 
