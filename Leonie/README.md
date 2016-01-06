@@ -14,7 +14,7 @@ A tool to give some extra blinggangstaflavour to your story. A typetool that tra
 
 	$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ## Prototype: working demo
-		
+
 
 ![Text-IO](prototype.png)
 
