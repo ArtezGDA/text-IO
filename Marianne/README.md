@@ -2,7 +2,7 @@
 
 ## Homework
 
-Arrays and Dictionaries
+## Arrays and Dictionaries
 
 [Array Subjects](Array.pv)
 
@@ -13,13 +13,13 @@ Arrays and Dictionaries
 Waarom werkt dit niet?
 
 [Dictionary en string in 1 file](roominonefile.pv)
-Werkt wel
+
 
 [Group Assignment](fontdatabase.py)
 ![](Diagram.png)
 
 
-Shell exercises
+## Shell exercises
 
 [Days and Months](daysmonths.rtf)
 
