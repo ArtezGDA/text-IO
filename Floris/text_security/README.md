@@ -21,4 +21,10 @@ terminal command: "python 'text_security.py'"
 
 ![My image](florisversteeg.github.com/ArtezGDA/text-IO/blob/master/Floris/text_security/screenshotfase1.png)
 
+![My image](florisversteeg.github.com/ArtezGDA/text-IO/blob/master/Floris/text_security/screenshotfase2.png)
+
+![My image](florisversteeg.github.com/ArtezGDA/text-IO/blob/master/Floris/text_security/screenshotfase3.png)
+
+![My image](florisversteeg.github.com/ArtezGDA/text-IO/blob/master/Floris/text_security/screenshotfase4.png)
+
 
