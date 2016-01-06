@@ -1,7 +1,24 @@
 # Lola's work for Text IO 
 
 ## Homework
-[collections]() (python code)
+
+[1. List](List_courses.pv) 
+
+[2 format Dictonairy](format_room.py) 
+
+[2 data Dictonairy](my_data_room.py) 
+
+[3. Spotify](itunes.pv) 
+
+[4. Folders](Search_Files.md) 
+
+[5. Search Files](Search_Files.md) 
+
+[6. Cowsay](cowsay.md) 
+
+[7. Poe](Poe.md) 
+
+[8. Adobe](phone_behavior.md)
 
 ## Concept
 

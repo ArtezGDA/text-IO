@@ -396,4 +396,4 @@ december.txt   july.txt       may.txt        september.txt
 Month 12 is December
 Month 11 is November
 Month 9 is September
-[lolabeumer@Lolas-MacBook-Pro: Downloads/testfiles/Months]%     
+[lolabeumer@Lolas-MacBook-Pro: Downloads/testfiles/Months]%   
