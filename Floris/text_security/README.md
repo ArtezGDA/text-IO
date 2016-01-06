@@ -4,12 +4,14 @@
 naam programma: text_security.
 OS in gebruik: OS X El Capitan 10.11.1
 
-## lOGO
+## logo
 
 ![ScreenShot](screenshotlogo.png)
 
 ## Concept
 Text_security is een programma dat text bestanden beveiligd. Bij het openen en lezen van een text file is er niks aan de hand.(zie screenshot fase1) Echter bij het bewerken van deze beveiligde bestanden krijgt men een waarschuwings bericht. (zie screenshot fase1&2) 
+
+
 ![ScreenShot](screenshotfase1.png)
 
 ![ScreenShot](screenshotfase2.png)
