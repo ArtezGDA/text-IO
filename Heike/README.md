@@ -9,14 +9,28 @@
  
 
 ####Individual Exercises
+***The Array***
 
-[The Array | Courses](courses.pv)
+[Courses](courses.pv)
 
-[The Dictionary | Room](room1.pv)
+***The Dictionary***
 
-[Print Dictionary](room2.pv)
+[1. Room Database](my_room.py)
 
-[Data Structure | iTunes](itunes.pv)
+[2. Print Room](print_room.py)
+
+***Data Structure***
+
+[iTunes](iTunes.py)
+
+####Group Exercise
+with Marianne, Lola and Leonie 
+
+[Font Database | Helvetica](font_database.py)
+
+####Exercises with the Shell
+[Overview in Mou](exercises_with_the_shell.md)
+
  
 ## Concept
 
