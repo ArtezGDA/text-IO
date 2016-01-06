@@ -12,8 +12,8 @@ For example<br>
 python /Users/shirin/Desktop/jokegenerator/joke.generator.py
 
 ## Screenshots
-[Image](1.png)<br>
-[Image](2.png)<br>
+![Image](1.png)<br>
+![Image](2.png)<br>
 
 ## License (MIT License)
 Copyright © 2016 Shirin Pfisterer shrine.pfisterer@gmail.com<br>
