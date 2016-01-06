@@ -14,8 +14,9 @@ A tool to give some extra blinggangstaflavour to your story. A typetool that tra
 
 	$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ## Prototype: working demo
+		
 
-![](Leonie/prototype.png)
+![Text-IO](prototype.png)
 
 ## Design the flow of the program
 
