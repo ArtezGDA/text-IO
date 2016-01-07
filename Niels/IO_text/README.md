@@ -232,7 +232,7 @@ print a[4]
 print a
 ```
 
-###Kamer
+###Dictionary/Kamer
 
 ```
 d = {
@@ -245,9 +245,8 @@ d = {
 'hoogte':3.77 ,
 'lengte':3.77 ,
 'breedte':3.05,
-'banken':0 ,
 'bureaus': 1 ,
-'kasten': 2,
+'kasten': 3,
 'deur': 1 ,
 'ramen': 1,
 'bed': 1,
@@ -256,36 +255,14 @@ d = {
 
 print d
 print d['plaats']
-zin = "i live in %s on the street %s, the postcode is %s" % (d ["plaats"], d ["straat naam"], d ["postcode"])
-print zin
+zin = "I live in %s on the street %s, the postcode is %s and my number is %s. The squaremeters of my room are %s m2, his height is %s m, his length is %s m and his width is %s m. My room contains %s desk, %s closets, %s door, %s window and %s bed." % (d ["plaats"], d ["straat naam"], d ["postcode"], d ["huisnummer"], d ["opp"], d ["hoogte"], d ["lengte"], d ["breedte"], d ["bureaus"], d ["kasten"], d ["deur"], d ["ramen"], d ["bed"])
+print zin     
 
-[broersebroeder@MacBook-Pro-van-Niels-2: ~]% cd documents/DigitalMedia                                                                                                         [128]
-[broersebroeder@MacBook-Pro-van-Niels-2: ~/documents/DigitalMedia]% ls                                                                                                         [129]
-Alfabet/                                              Random/                                               line
-Algorithmic-Nature/                                   Rest/                                                 line.pages
-Array.pv                                              Xcode.app/                                            o
-Bewaarde terminaluitvoer                              a.py                                                  o.pages
-Fibonacci/                                            ascii_character.py                                    omtrek letter.ai
-GitHub Desktop                                        ascii_random.py                                       password github python.pages
-GitHub.html                                           b.py                                                  pygame.py
-GitHub_bestanden/                                     blessed.py                                            pygame.pyc
-Gotham/                                               blessed.pyc                                           recursiveFunction/
-HelloWorld.py                                         c                                                     s
-HelloWorld.py.sb-47757bd9-qf9kAp                      c.pages                                               s.pages
-IO Map/                                               code itunes.pages                                     spiralling squares
-Mou.app/                                              f.py                                                  text-IO/
-NEW-AB.good.pv                                        helloworld_terminal                                   turtle_import1
-Niels_schetsen.md                                     huiskamer.pv                                          turtlegraphics/
-PerlinNoise/                                          huiswerk_poe/                                         zsh_dotfiles/
-PlotDevice.app/                                       itunes.pv                                             zsh_dotfiles.tar
-PyGithub — PyGithub 1.25.2 documentation.html         json/
-PyGithub — PyGithub 1.25.2 documentation_bestanden/   kamer.py
-[broersebroeder@MacBook-Pro-van-Niels-2: ~/documents/DigitalMedia]% python kamer.py                                                                                            [130]
-{'huisnummer': 30, 'opp': 11.5, 'bed': 1, 'postcode': '6814 AB', 'breedte': 3.05, 'ramen': 1, 'hoogte': 3.77, 'bureaus': 1, 'banken': 0, 'straat naam': 'Sonsbeeksingel 30', 'kasten': 2, 'plaats': 'Arnhem', 'deur': 1, 'lengte': 3.77}
-Arnhem
-i live in Arnhem on the street Sonsbeeksingel 30, the postcode is 6814 AB
-[broersebroeder@MacBook-Pro-van-Niels-2: ~/documents/DigitalMedia]%        
+{'huisnummer': 30, 'opp': 11.5, 'bed': 1, 'postcode': '6814 AB', 'breedte': 3.05, 'ramen': 1, 'hoogte': 3.77, 'bureaus': 1, 'straat naam': 'Sonsbeeksingel 30', 'kasten': 3, 'plaats': 'Arnhem', 'deur': 1, 'lengte': 3.77}
+I live in Arnhem on the street Sonsbeeksingel 30, the postcode is 6814 AB and my number is 30. The squaremeters of my room are 11.5 m2, his height is 3.77 m, his length is 3.77 m and his width is 3.05 m. My room contains 1 desk, 3 closets, 1 door, 1 window and 1 bed.
 ```
+
+
 ###iTunes
 ```
 Last login: Thu Dec 10 11:20:34 on ttys001
