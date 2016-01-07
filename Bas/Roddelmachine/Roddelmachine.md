@@ -15,15 +15,15 @@ Het tweede bestand is er een die bestaat uit namen.
 Aan de In kant zijn 2 lijsten aangemaakt worden. 1 lijst zullen namen zijn van mede studeren en evenueel leraren. Aan de andere kant zullen 'roddel' zinnen wor den gemaakt.
 
 
-Download map: ‘concept_roddel’ (sla hem ergens op waar je hem kan terugvinden)
+Download map: ‘roddelmachine’ (sla hem ergens op waar je hem kan terugvinden)
 	Map bestaat uit: - README.md
 				 - roddel_story.py
 				 - names.py 
 				 - roddelmachine.md
 				 - roddels.txt
 
-	◆	format.py Is het bestand waarin de verhalen staan zonder namen. 
-	◆	my_data.py is het bestand waarin de namen staan
+	◆	roddel_story.py Is het bestand waarin de verhalen staan zonder namen. 
+	◆	names.py is het bestand waarin de namen staan
 	
 	Download de bestanden format.py en my_data.py
 	
