@@ -1,30 +1,31 @@
 # MusicPlayer
 
 ## Omschrijving
-
-De MusicPlayer zal u alle 3 minuten nieuwe muziek laten zien. Dit doet hij doormiddel van een notificatie die boven links in het scherm verschijnt.
+<br>
+De MusicPlayer zal u alle 3 minuten nieuwe muziek laten zien. Dit doet hij doormiddel van een notificatie die boven rechts op het scherm verschijnt.
 U schrijft een lijst met songs en interprets of kunt een lijst laten schrijven.
 De lijst met songs en interprets kan continu bijgewerkt worden in de .jsonfile.
 
 
 ## Installeer
-
-Installeer de twee files music.json en music_player.py op uw desktop, daarna dient u de files via de terminal doormiddel het typen van "cd desktop, daarna python music_player.py".
+<br>
+Download de twee files music.json en music_player.py op uw desktop, daarna dient u de files via de terminal doormiddel het typen van "cd desktop, daarna python music_player.py" aantesturen.
 Nu zal de musicplayer alle 3 minuten een random song met interpret laten zien.
+<br>
+<br>
 
 ![mp](terminal_musicplayer.png)
 ![mp](titellijst_musicplayer.png)
 
 
 ## Screenshots
-
+<br>
 ![mp](musicplayer_1.png)
 ![mp](musicplayer_2.png)
 ![mp](musicplayer_3.png)
 ![mp](musicplayer_4.png)
 
 ###License (MIT License) 
-
 MusicPlayer is released under the MIT license.
 
 Copyright © 2015 Lydienne Albertoe albertoe@live.nl
