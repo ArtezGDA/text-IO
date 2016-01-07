@@ -63,17 +63,21 @@ plotdivice:
 
 in het mapje "tool" staan de volgende bestanden,
 
-[README](README_secretcode.md) 
+[readme](README_secretcode.md) 
 
 [tool](secretcode.zip) 
 
-[sreenshot 1](1.png) 
+sreenshot ![Text-IO](1.png)
 
-[sreenshot 2](2.png) 
+sreenshot ![Text-IO](2.png)
 
-[sreenshot 3](3.png) 
+sreenshot ![Text-IO](3.png)
 
-[sreenshot 4](4.png) 
+sreenshot ![Text-IO](4.png)
+
+exampel ![Text-IO](exampel1.png)
+
+exampel ![Text-IO](exampel2.png)
 
 
 ## PDF format 
