@@ -15,7 +15,7 @@ _ facing wall() your body is facing the wall
 Also where the font is bold you have to put an accent in the dance.
 
 you install this tool by saving the code in the texteditor program and to save it as python, then you ask in the terminal: python
-waltz choreographer.py then it should print the chroreography.
+waltzprinter.py then it should print the chroreography.
  
  My tool is designed for people who don't have a lot of time and work hard, when they have a bit of time they can use this tool to practise their dance moves. A little excersize when you worked behind the computer all day.
  
