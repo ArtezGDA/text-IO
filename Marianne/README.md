@@ -39,7 +39,8 @@ Waarom werkt dit niet?
 
 [Heavy Metal Album Art](Heavy Metal Album Art.txt)
 
-[Heavy Metal Album Art](heavy metal.png)
+![](heavy metal.png)
+![](heavy metal2.png)
 
 
 
