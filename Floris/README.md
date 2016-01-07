@@ -1,15 +1,32 @@
 # Floris's work for Text IO 
 
 ## Homework
-[collections]() (python code)
+###Array
+[Array](array.py)
+###Dictionary
+[Format](format.py)
 
-## Concept
+[Dictionary Room](myroom.py)
+### Cowsay
+[cowsay](cowsay.md)
 
-## Prototype: working demo
+###Data structure I
+[Data structure Dexter](dexter.py)
 
-## Design the flow of the program
+[Data structure iTunes](itunes.py)
 
-## How to use the script
+##Excercises for working with the shell
 
-## PDF format 
-			
+## Phone Home
+[Phone Home](phone_home.md)
+
+
+## Cowsay
+[Cowsay](cowsay.md)
+
+
+### Research Edgar Allan Poe
+[Edgar Allan Poe](poe_download.md)
+
+###Type group assignment
+[Group Typeface](typeface.py)

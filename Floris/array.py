@@ -1,0 +1,19 @@
+size(512, 512)
+background(1)
+
+courses = ["philosophy", "photography", "design research", "media theory", "coding", "media design", "typography", "graphic design"]
+
+print len(courses)
+
+courses.append("media theory lectures")
+print courses
+
+print len(courses)
+
+del courses[8]
+
+print courses
+
+print len(courses)
+
+

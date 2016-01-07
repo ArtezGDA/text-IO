@@ -1,6 +1,6 @@
 my_data = {'name': "Leonie Gores",
 			'age': 19
-   			'address': "Leoninusstraat 3", 
+   			'adress': "Leoninusstraat 3", 
     		'city' : "arnhem", 
     		'noroommates' : "one", 
     		'roommate' : "Ronja",
