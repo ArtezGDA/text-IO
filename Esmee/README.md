@@ -21,7 +21,7 @@
 
 
 ###Datastructure 2
-[Datastructure](Collections/Datastrudture2/fontesmee.py)
+[Datastructure](Collections/Datastructure2/fontesmee.py)
 
 [Datastructure1](Collections/Datastructure2/fontesmee.pv)
 
