@@ -3,8 +3,8 @@
 ## Homework: Collections
 
 ###The array
-![drawning 1](Esmee/schets1/Esmee-rect-oval.png)
-[drawning 1](Esmee/schets1/Esmee-rect-oval.pv)
+![drawning 1](Collections/Esmee-rect-oval.png)
+[drawning 1](README.mdAPI-testCollectionsMoby dickNotes about frustrationsShellTool Aspace Leaflet/Esmee-rect-oval.pv)
 
 ![drawning 1](Esmee/schets1/Esmee-rect-oval.png)
 [drawning 1](Esmee/schets1/Esmee-rect-oval.pv)![drawning 1](Esmee/schets1/Esmee-rect-oval.png)
