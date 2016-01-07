@@ -29,6 +29,8 @@ Input = your text //  Output =  generated stutter text with sound (text to voice
 ## Prototype: working demo
 [1. Stutter Machine](stutter_machine.pv)
 <br>
+[2. Pseudo-code](pseudo.py)
+
 #### PNG
 [1. Example](demo_1.png)
 ####M4A
