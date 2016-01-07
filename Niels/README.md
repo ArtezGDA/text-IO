@@ -138,19 +138,376 @@ vol5.txt:     And thy Angel I'll be, 'mid the horrors of this,--\
 vol5.txt:             What a horror they outpour\
 vol5.txt:  With horror and awe!\
 [broersebroeder@MacBook-Pro-van-Niels-2: documents/DigitalMedia/huiswerk_poe]%                                                                                                  [90]
-
-
+```
 ###Cowsay
 
-###Array
+```
+Last login: Thu Jan  7 11:40:01 on ttys000                                                                                                                                [98]
+[broersebroeder@MacBook-Pro-van-Niels-2: ~]% ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"                                          [98]
+==> This script will install:
+/usr/local/bin/brew
+/usr/local/Library/...
+/usr/local/share/man/man1/brew.1
+==> The following directories will be made group writable:
+/usr/local/.
+/usr/local/bin
+==> The following directories will have their owner set to broersebroeder:
+/usr/local/.
+/usr/local/bin
+==> The following directories will have their group set to admin:
+/usr/local/.
+/usr/local/bin
 
-###Dictonairy
+Press RETURN to continue or any other key to abort
+==> /usr/bin/sudo /bin/chmod g+rwx /usr/local/. /usr/local/bin
+Password:
+==> /usr/bin/sudo /usr/sbin/chown broersebroeder /usr/local/. /usr/local/bin
+==> /usr/bin/sudo /usr/bin/chgrp admin /usr/local/. /usr/local/bin
+==> /usr/bin/sudo /bin/mkdir /Library/Caches/Homebrew
+==> /usr/bin/sudo /bin/chmod g+rwx /Library/Caches/Homebrew
+==> /usr/bin/sudo /usr/sbin/chown broersebroeder /Library/Caches/Homebrew
+==> Downloading and installing Homebrew...
+remote: Counting objects: 3934, done.
+remote: Compressing objects: 100% (3777/3777), done.
+remote: Total 3934 (delta 34), reused 2259 (delta 22), pack-reused 0
+Receiving objects: 100% (3934/3934), 3.43 MiB | 1.36 MiB/s, done.
+Resolving deltas: 100% (34/34), done.
+From https://github.com/Homebrew/homebrew
+ * [new branch]      master     -> origin/master
+HEAD is now at a58b4b4 a few more diagnostic checks
+==> Installation successful!
+==> Next steps
+Run `brew help` to get started
+[broersebroeder@MacBook-Pro-van-Niels-2: ~]% cowsay "Hoi"  
+ _____ 
+< Hoi >
+ ----- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+[broersebroeder@MacBook-Pro-van-Niels-2: ~]%  cowsay -f stegosaurus "Hoi"  
+
+ _____ 
+< Hoi >
+ ----- 
+\                             .       .
+ \                           / `.   .' " 
+  \                  .---.  <    > <    >  .---.
+   \                 |    \  \ - ~ ~ - /  /    |
+         _____          ..-~             ~-..-~
+        |     |   \~~~\.'                    `./~~~/
+       ---------   \__/                        \__/
+      .'  O    \     /               /       \  " 
+     (_____,    `._.'               |         }  \/~~~/
+      `----.          /       }     |        /    \__/
+            `-.      |       /      |       /      `. ,~~|
+                ~-.__|      /_ - ~ ^|      /- _      `..-'   
+                     |     /        |     /     ~-.     `-. _  _  _
+                     |_____|        |_____|         ~ - . _ _ _ _ _>
+[broersebroeder@MacBook-Pro-van-Niels-2: ~]%
+```
+###Array
+```
+a = ["Design and philosophy", "Photography", "Design Reaserch", "Computer Skills", "Digital Media", "Typography", "Graphic Design"]
+print len(a)
+
+a + ["Media Theorie"]
+
+#a.append("Media Theorie")
+
+print len (a)
+
+a.pop(7)
+print len (a)
+
+a.pop(3)
+print len (a)
+
+print a[4]
+
+
+print a
+```
 
 ###Kamer
 
-###iTunes
+```
+d = {
 
-###Groepsopdracht Gothic MD
+'plaats': "Arnhem",
+'straat naam': "Sonsbeeksingel 30" ,
+'postcode': "6814 AB",
+'huisnummer':30,
+'opp':11.5 ,
+'hoogte':3.77 ,
+'lengte':3.77 ,
+'breedte':3.05,
+'banken':0 ,
+'bureaus': 1 ,
+'kasten': 2,
+'deur': 1 ,
+'ramen': 1,
+'bed': 1,
+
+}
+
+print d
+print d['plaats']
+zin = "i live in %s on the street %s, the postcode is %s" % (d ["plaats"], d ["straat naam"], d ["postcode"])
+print zin
+
+[broersebroeder@MacBook-Pro-van-Niels-2: ~]% cd documents/DigitalMedia                                                                                                         [128]
+[broersebroeder@MacBook-Pro-van-Niels-2: ~/documents/DigitalMedia]% ls                                                                                                         [129]
+Alfabet/                                              Random/                                               line
+Algorithmic-Nature/                                   Rest/                                                 line.pages
+Array.pv                                              Xcode.app/                                            o
+Bewaarde terminaluitvoer                              a.py                                                  o.pages
+Fibonacci/                                            ascii_character.py                                    omtrek letter.ai
+GitHub Desktop                                        ascii_random.py                                       password github python.pages
+GitHub.html                                           b.py                                                  pygame.py
+GitHub_bestanden/                                     blessed.py                                            pygame.pyc
+Gotham/                                               blessed.pyc                                           recursiveFunction/
+HelloWorld.py                                         c                                                     s
+HelloWorld.py.sb-47757bd9-qf9kAp                      c.pages                                               s.pages
+IO Map/                                               code itunes.pages                                     spiralling squares
+Mou.app/                                              f.py                                                  text-IO/
+NEW-AB.good.pv                                        helloworld_terminal                                   turtle_import1
+Niels_schetsen.md                                     huiskamer.pv                                          turtlegraphics/
+PerlinNoise/                                          huiswerk_poe/                                         zsh_dotfiles/
+PlotDevice.app/                                       itunes.pv                                             zsh_dotfiles.tar
+PyGithub — PyGithub 1.25.2 documentation.html         json/
+PyGithub — PyGithub 1.25.2 documentation_bestanden/   kamer.py
+[broersebroeder@MacBook-Pro-van-Niels-2: ~/documents/DigitalMedia]% python kamer.py                                                                                            [130]
+{'huisnummer': 30, 'opp': 11.5, 'bed': 1, 'postcode': '6814 AB', 'breedte': 3.05, 'ramen': 1, 'hoogte': 3.77, 'bureaus': 1, 'banken': 0, 'straat naam': 'Sonsbeeksingel 30', 'kasten': 2, 'plaats': 'Arnhem', 'deur': 1, 'lengte': 3.77}
+Arnhem
+i live in Arnhem on the street Sonsbeeksingel 30, the postcode is 6814 AB
+[broersebroeder@MacBook-Pro-van-Niels-2: ~/documents/DigitalMedia]%        
+```
+###iTunes
+```
+Last login: Thu Dec 10 11:20:34 on ttys001
+MacBook-Pro-van-Niels-2% python
+Python 2.7.10 (default, Aug 22 2015, 20:33:39) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> iTunes = {
+...     'Artist': 'Joy Division',
+...     'Information': [{
+...           "Begin": "1977",
+...           "End": "1980",
+...           "Genre": "Postpunk",
+...           "Members": "Ian Curtis, Peter Hook, Stephen Morris, Bernard Sumner",
+...     }],
+...     'Albums' :  [
+...             {
+...                 "name": ["Unknown Pleasures"],
+...                 "Released": ["1979"],
+...                 "Genre":["Postpunk", "Alternative", "New Age"],
+...                 "Label": ["Factory Records"],
+...                 "Duration": ["39:23"],
+...                 "tracks": [
+...                     { 
+...                         "number": "1",
+...                         "title": "Disorder",
+...                         "duration": "3:32",
+...                     },
+...                     { 
+...                         "number": "2",
+...                         "title": "Day of the Lords",
+...                         "duration": "4:49",
+...                     },
+...                     { 
+...                         "number": "3",
+...                         "title": "Candidate",
+...                         "duration": "3:05",
+...                     },
+...                     { 
+...                         "number": "4",
+...                         "title": "Insight",
+...                         "duration": "4:29",
+...                     },
+...                     { 
+...                         "number": "5",
+...                         "title": "New Dawn Fades",
+...                         "duration": "4:47",
+...                     },
+...                     { 
+...                         "number": "6",
+...                         "title": "She's Lost Control",
+...                         "duration": "3:57",
+...                     },
+...                     { 
+...                         "number": "7",
+...                         "title": "Shadowplay",
+...                         "duration": "3:55",
+...                     },
+...                     { 
+...                         "number": "8",
+...                         "title": "Wilderness",
+...                         "duration": "2:38",
+...                     },
+...                     { 
+...                         "number": "9",
+...                         "title": "Interzone",
+...                         "duration": "2:16",
+...                     },
+...                     { 
+...                         "number": "10",
+...                         "title": "I Remember Nothing",
+...                         "duration": "5:53",
+...                     }
+...                     ]
+...             },
+... 
+...             {
+...             }
+... 
+...             ]
+... 
+...         }
+>>> print iTunes["Artist"]
+Joy Division
+>>> print iTunes["Albums"][0]
+{'Duration': ['39:23'], 'Label': ['Factory Records'], 'Released': ['1979'], 'tracks': [{'duration': '3:32', 'number': '1', 'title': 'Disorder'}, {'duration': '4:49', 'number': '2', 'title': 'Day of the Lords'}, {'duration': '3:05', 'number': '3', 'title': 'Candidate'}, {'duration': '4:29', 'number': '4', 'title': 'Insight'}, {'duration': '4:47', 'number': '5', 'title': 'New Dawn Fades'}, {'duration': '3:57', 'number': '6', 'title': "She's Lost Control"}, {'duration': '3:55', 'number': '7', 'title': 'Shadowplay'}, {'duration': '2:38', 'number': '8', 'title': 'Wilderness'}, {'duration': '2:16', 'number': '9', 'title': 'Interzone'}, {'duration': '5:53', 'number': '10', 'title': 'I Remember Nothing'}], 'Genre': ['Postpunk', 'Alternative', 'New Age'], 'name': ['Unknown Pleasures']}
+>>> 
+```
+
+###Groepsopdracht Gotham 
+```
+typeface = {
+    'font': 'Gotham',
+    "foundry": "Hoefler",
+    "designer": "tobias frere-jones",
+    "cassification": "geometric sans-serif",
+    'weights' : [
+            {
+                "weight": "bold",
+                "weight": "Italic",
+                "weight": "light",
+            }
+                ],
+   #166.68pt
+   "characters": [
+                    { 
+                        "capitals": [
+                    {
+                        "A": [
+                            {
+                                "compoundshape":[{
+                                    "point 1":["x 16.767", "y -19.182"],
+                                    "point 2":["x 33.395", "y -19.182"],
+                                    "point 3":["x 25.047", "y -38.501"],
+                                }],
+                                "outline":[{
+                                    "point 1":["x 0", "y 0"],
+                                    "point 2":["x 7,115", "y 0"],
+                                    "point 3":["x 7,115", "y -4,822"],
+                                    "point 4":["x 17,7", "y 0,647"],
+                                    "point 4":["x 32,107", "y -15,583"],
+                                    "point 5":["x 50.369", "y 0"],
+                                    "point 6":["x 17,7", "y -31,695"],
+                                    "point 7":["x 7,115", "y -25,874"],
+                                    "point 8":["x 7,115", "y -42,927"],
+                                    "point ":["x 0", "y -42,927"],
+                                    
+                                }],
+                                "kerning":{
+                                    "pair": "AB", "kerning": -10,
+                                    "pair": "AC", "kerning": -10,
+                                    "pair": "AD", "kerning": -10,
+                                    "pair": "Ab", "kerning": -10,
+                                    "pair": "Ac", "kerning": -10,
+                                    "pair": "Ad", "kerning": -10
+                                }
+                            }
+                            ],
+                         "B": [{
+                             "compoundshape":[{
+                                    "point 1":["x 0", "y 0"],
+                                    "point 2":["x 0", "y 0"],
+                                    "point 3":["x 0", "y 0"]
+                                }],
+                                
+                                "outline":[{
+                                    "point 1":["x 0", "y 0"],
+                                    "point 2":["x 19,052", "y 0", "d.3 0,575", "c.3 67,046"],
+                                    "point 3":["x 34,282", "y -11,29", "d.2 0,575", "c.2 67,046"],
+                                    "point 4":["x 34,282", "y -11,408", "d.5 0,575", "c.5 67,046"],
+                                    "point 5":["x 19,052", "y 0", "d.4 0,575", "c.4 67,046"],
+                                    "point 6":["x 34,282", "y -11,29", "d.7 0,575", "c.7 67,046"],
+                                    "point 7":["x 34,282", "y -11,408"]
+                                 }],
+                                 
+                                 "kerning":{
+                                    "pair": "BA", "kerning": -10,
+                                    "pair": "BB", "kerning": -10,
+                                    "pair": "BC", "kerning": -10,
+                                    "pair": "Ba", "kerning": -10,
+                                    "pair": "Bb", "kerning": -10,
+                                    "pair": "Bc", "kerning": -10
+                                }
+                                }],
+                                }
+                    ],
+                        "lowercase": [
+                    {
+                        "a": [
+                            {
+                                "compundshape": "1"
+                            }
+                            ],
+                        "b": [{
+                             "compoundshape":[{
+                                    "point 1":["x 15,995", "y -5,527"],
+                                    "point 2":["x 24,874", "y -15,465"],
+                                    "point 3":["x 15,995", "y -38.501"],
+                                    "point 4":["x 6,939", "y -15,465"],
+                                }],
+                                
+                                "outline":[{
+                                    "point 1":["x 0", "y 0"],
+                                    "point 2":["x 7,115", "y 0", "d.3 0,575", "c.3 67,046"],
+                                    "point 3":["x 7,115", "y -4,822", "d.4 2,743", "c.4 -48,348"],
+                                    "point 4":["x 17,7", "y 0,647", "d.3 8,577", "c.3 0"],
+                                    "point 4":["x 32,107", "y -15,583", "d.3 3,829", "c.3 63,823"],
+                                    "point 5":["x 17,7", "y -31,695", "d.3 7,292", "c.3 67,046"],
+                                    "point 6":["x 7,115", "y -25,874"],
+                                    "point 7":["x 7,115", "y -42,927"],
+                                    "point 8":["x 0", "y -42,927"],
+                                 }],
+
+                                 "kerning":{
+                                    "pair": "AB", "kerning": -10,
+                                    "pair": "AC", "kerning": -10,
+                                    "pair": "AD", "kerning": -10,
+                                    "pair": "Ab", "kerning": -10,
+                                    "pair": "Ac", "kerning": -10,
+                                    "pair": "Ad", "kerning": -10
+                                }
+                                }],
+                                }
+                    ],
+            "characterset":[{
+            "uper-case":["'A', 'B', 'C', 'D', 'E', 'etc.'"],
+            "lower-case":["'a', 'b', 'c', 'd', 'e', 'etc.'"],
+            "numbers":["'1', '2', '3', '4', '5', '6', '7', '8', '9'"],
+            "punctuation mark":["'.', ',', '!', '?', '-', '(', ')'"],
+            "glyphs":["'!', '@', '#', '%', '^', '&', '*', '(', ')', '-', '_', '+', '=', '{', '}', '[', ']', ':', ';', '|', '.', '/', '?', '<', '>', '§', '±', '~', '`',"],
+        }],
+        
+            
+            
+    
+}]
+    
+}
+                            
+                            
+print typeface
+```
 
 ## Concept
 It's about making font from ascii code and the random numbers. Due the differences in numbers the thickness can change every time you load it and the code creates every time another form.
