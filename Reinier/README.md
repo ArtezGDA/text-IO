@@ -31,13 +31,18 @@ Input = your text //  Output =  generated stutter text with sound (text to voice
 <br>
 #### PNG
 [1. Example](demo_1.png)
-
-####MP3
+####M4A
 [1. Beginnen](demo_sound_1.m4a)
 <br>
 [1. Liesje](demo_sound_2.m4a)
 <br>
 [1. Vliegen](demo_sound_3.m4a)
+####MP3
+[1. Beginnen](demo_sound_1.mp3)
+<br>
+[1. Liesje](demo_sound_2.mp3)
+<br>
+[1. Vliegen](demo_sound_3.mp3)
 
 ## Design the flow of the program
 
