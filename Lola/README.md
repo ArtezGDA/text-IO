@@ -63,7 +63,7 @@ plotdivice:
 
 in het mapje "tool" staan de volgende bestanden,
 
-[readme](README_tool.md) 
+[readme](readme.md) 
 
 hij linkt de read me file niet?!
 dit staat erin:
