@@ -3,13 +3,11 @@
 ## Homework
 [collections]() (python code)
 
-## Concept
+## Cowsay
 
-## Prototype: working demo
-
-## Design the flow of the program
-
-## How to use the script
-
-## PDF format 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 			
