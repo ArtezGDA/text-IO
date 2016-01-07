@@ -1777,6 +1777,95 @@ It's about making font from ascii code and the random numbers. Due the differenc
 ## Design the flow of the program
 
 ## How to use the script
+this is the code for the letter "f" 
+```
+import curses
+import random
+import time
+
+for myChar in range(10):
+    randomNum = random.randint(1, 10000)
+
+screen = curses.initscr()
+screen.addstr( 24, 75, str(randomNum))
+screen.addstr( 25, 75, str(randomNum))
+screen.addstr( 26, 75, str(randomNum))
+screen.addstr( 27, 75, str(randomNum))
+screen.addstr( 28, 75, str(randomNum))
+screen.addstr( 29, 75, str(randomNum))
+screen.addstr( 30, 75, str(randomNum))
+screen.addstr( 31, 75, str(randomNum))
+screen.addstr( 32, 75, str(randomNum))
+screen.addstr( 33, 75, str(randomNum))
+screen.addstr( 23, 76, str(randomNum))
+screen.addstr( 22, 78, str(randomNum))
+screen.addstr( 23, 81, str(randomNum))
+screen.addstr( 27, 72, str(randomNum))
+screen.addstr( 27, 74, str(randomNum))
+screen.addstr( 27, 76, str(randomNum))
+screen.addstr( 27, 78, str(randomNum))
+
+screen.addstr( 16, 95, str(randomNum))
+screen.addstr( 17, 95, str(randomNum))
+screen.addstr( 18, 95, str(randomNum))
+screen.addstr( 19, 95, str(randomNum))
+screen.addstr( 20, 95, str(randomNum))
+screen.addstr( 21, 95, str(randomNum))
+screen.addstr( 22, 95, str(randomNum))
+screen.addstr( 23, 95, str(randomNum))
+screen.addstr( 24, 95, str(randomNum))
+screen.addstr( 25, 95, str(randomNum))
+screen.addstr( 26, 95, str(randomNum))
+screen.addstr( 27, 95, str(randomNum))
+screen.addstr( 28, 95, str(randomNum))
+screen.addstr( 29, 95, str(randomNum))
+screen.addstr( 30, 95, str(randomNum))
+screen.addstr( 31, 95, str(randomNum))
+screen.addstr( 32, 95, str(randomNum))
+screen.addstr( 33, 95, str(randomNum))
+screen.addstr( 25, 97, str(randomNum))
+screen.addstr( 25, 99, str(randomNum))
+screen.addstr( 25, 101, str(randomNum))
+screen.addstr( 25, 103, str(randomNum))
+screen.addstr( 25, 105, str(randomNum))
+screen.addstr( 16, 95, str(randomNum))
+screen.addstr( 16, 97, str(randomNum))
+screen.addstr( 16, 99, str(randomNum))
+screen.addstr( 16, 101, str(randomNum))
+screen.addstr( 16, 103, str(randomNum))
+screen.addstr( 16, 105, str(randomNum))
+screen.addstr( 16, 107, str(randomNum))
+screen.addstr( 16, 109, str(randomNum))
+screen.addstr( 16, 111, str(randomNum))
+
+
+screen.getch()
+curses.endwin()
+```
+You can make a form by changing the numbers you see in the example are the numbers that brings the gliphs into their position. You can import this in your terminal with the text "python f.py" (if you're making an "a" use "a.py", "b" "b.py" etc.).
+
+this is the result:
+                       										1010101010101010108
+                                                                                               108
+                                                                                               108
+                                                                                               108
+                                                                                               108
+                                                                                               108
+                                                                              108              108
+                                                                            108  108           108
+                                                                           108                 108
+                                                                           108                 1010101010108
+                                                                           108                 108
+                                                                        101010108              108
+                                                                           108                 108
+                                                                           108                 108
+                                                                           108                 108
+                                                                           108                 108
+                                                                           108                 108
+                                                                           108                 108
+
+
+
 
 ## PDF format 
 			
