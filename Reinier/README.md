@@ -27,6 +27,9 @@ Input = your text //  Output =  generated stutter text with sound (text to voice
 
 
 ## Prototype: working demo
+[1. Stutter Machine](stutter_machine.pv)
+[2. Example](demo_1.png)
+
 
 ## Design the flow of the program
 

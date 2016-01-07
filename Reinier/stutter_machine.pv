@@ -1,0 +1,2 @@
+def karakters (n): o="" key = {'gaa':'gaa gaa gaa', 'ga':'ga ga', 'be':'be be be', 'bee':'bee be bee bee', 'ge':'ge g g ge', 'gee':'g g gee', 'ba':'b ba ba', 'baa':'b baa', 'ke':'ke ke ke', 'kee':'k k kee',} for x in n: v = x in key.keys() if v==True: o+=(key[x])
+else: o+=x return o type= karakters("gaan we zo beginnen") print(type)
