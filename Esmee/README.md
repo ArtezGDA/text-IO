@@ -5,7 +5,7 @@
 ###The array
 [Array](Collections/Array/arrayesmee.py)
 
-[Array 1](Collections/Array/arrayesmee1.py)
+[Array1](Collections/Array/arrayesmee1.py)
 
 
 ###Dictionary
@@ -15,7 +15,7 @@
 
 
 ###Datastructure 1
-[Datastructure](Collections/Datastrudture1/muziekesmee.pv)
+[Datastructure](Collections/Datastructure1/muziekesmee.pv)
 
 [Datastructure1](Collections/Datastructure1/muziekesmee.py)
 
