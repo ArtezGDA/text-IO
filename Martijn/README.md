@@ -11,8 +11,8 @@
 ##phonehome
 [phonehome](phonehome.md)
 
-##phonehome
-[my_data](my_data.py)
+##cowsay
+[cowsay](cowsay.md)
 
 ## Concept
 []()
@@ -22,8 +22,8 @@
 
 
 ## How to use the script
-[waltz choreographer](waltz.py)
-[waltz](waltz.md)
+[waltzprinter](waltzprinter.py)
+[waltzprinter](waltzprinter.md)
 
 
 ## PDF format

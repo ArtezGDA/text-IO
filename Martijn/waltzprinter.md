@@ -1,5 +1,5 @@
 
-Waltz Choreographer
+Waltz printer
 
 My tool enables you to print a waltz choreography. Where the steps re printed that are steps you have to follow, besides that you wil see little icons, they mean the following:
 / right foot action
