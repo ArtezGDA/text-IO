@@ -1845,6 +1845,7 @@ curses.endwin()
 You can make a form by changing the numbers you see in the example are the numbers that brings the gliphs into their position. You can import this in your terminal with the text "python f.py" (if you're making an "a" use "a.py", "b" "b.py" etc.).
 
 this is the result:
+```
                        										1010101010101010108
                                                                                                108
                                                                                                108
@@ -1863,7 +1864,7 @@ this is the result:
                                                                            108                 108
                                                                            108                 108
                                                                            108                 108
-
+```
 
 
 
