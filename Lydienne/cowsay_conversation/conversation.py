@@ -1,7 +1,12 @@
 #!/usr/bin/env python
 # encoding: utf-8
 
+# dit gedeelte zorgt ervoor dat stdout, stderr = subprocess.Popen werkt.
 import subprocess
+
+# tussen word = "" kun je de tekst typen die de koe moet uitspreken.
+# cowsay staat voor een koe, maar als je een ander karakter wilt zul je de code moeten aanpassen.
+# van 'cowsay', naar 'cowsay' '-f' 'hier komt de naam van je karakter'
 
 word="In de hal van kasteel Elseneur."
 stdout, stderr = subprocess.Popen(
@@ -98,3 +103,23 @@ stdout, stderr = subprocess.Popen(
 word="Wat een edele geest is hier verscheurd! Oog, tong en zwaard van hoveling, geleerde en krijgsman, hoop en bloem van onze staat, spiegel der zeden, toonbeeld van beschaving, door eerbetoon omringd... voorgoed verloren. En ik, rampzaligste van alle vrouwen, die honing zoog uit zijn welluidend woord, hoor nu de tonen van dat helder brein verward en schril als een ontstemde beiaard, en zie het ongeëvenaarde beeld van bloesemende jeugd, verdord door waanzin. 0, wee mij, die gezien heeft wat ik zag, zie wat ik zie!"
 stdout, stderr = subprocess.Popen(
                      ['cowsay', word]).communicate()
+
+
+def main():
+       """ Hiermee opent u de script bestanden en print u de conversatie. """
+       #roep de python bestand op en voert het uit, met de juiste cowfile.
+       
+       py = conversation.py
+       print conversation.py #print conversatie uit script bestand
+       
+#if __name__ == '__main__':
+#       main()
+
+
+#def main():
+#       word = .communicate()
+#       stdout, stderr = subprocess.Popen(
+ #                    ['cowsay', word]).communicate()
+
+#if __name__ == '__main__':
+#      main()

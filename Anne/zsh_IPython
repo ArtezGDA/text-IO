@@ -1,0 +1,113 @@
+Last login: Thu Dec 10 11:48:17 on ttys005
+[AnneGoossens@MacBook-Pro-van-Anne-Goossens: DM/PYTHON/Github.ipy]% sudo easy_install pip
+Password:
+Searching for pip
+Reading https://pypi.python.org/simple/pip/
+Best match: pip 7.1.2
+Downloading https://pypi.python.org/packages/source/p/pip/pip-7.1.2.tar.gz#md5=3823d2343d9f3aaab21cf9c917710196
+Processing pip-7.1.2.tar.gz
+Writing /tmp/easy_install-8KAoSJ/pip-7.1.2/setup.cfg
+Running pip-7.1.2/setup.py -q bdist_egg --dist-dir /tmp/easy_install-8KAoSJ/pip-7.1.2/egg-dist-tmp-fYDXJi
+warning: no previously-included files found matching '.coveragerc'
+warning: no previously-included files found matching '.mailmap'
+warning: no previously-included files found matching '.travis.yml'
+warning: no previously-included files found matching 'pip/_vendor/Makefile'
+warning: no previously-included files found matching 'tox.ini'
+warning: no previously-included files found matching 'dev-requirements.txt'
+no previously-included directories found matching '.travis'
+no previously-included directories found matching 'docs/_build'
+no previously-included directories found matching 'contrib'
+no previously-included directories found matching 'tasks'
+no previously-included directories found matching 'tests'
+Adding pip 7.1.2 to easy-install.pth file
+Installing pip script to /usr/local/bin
+Installing pip2.7 script to /usr/local/bin
+Installing pip2 script to /usr/local/bin
+
+Installed /Library/Python/2.7/site-packages/pip-7.1.2-py2.7.egg
+Processing dependencies for pip
+Finished processing dependencies for pip
+[AnneGoossens@MacBook-Pro-van-Anne-Goossens: DM/PYTHON/Github.ipy]% pip install ipython
+zsh: correct pip to pp ? ([Y]es/[N]o/[E]dit/[A]bort) n
+Collecting ipython
+  Downloading ipython-4.0.1-py2-none-any.whl (730kB)
+    100% |████████████████████████████████| 733kB 340kB/s 
+Collecting traitlets (from ipython)
+  Downloading traitlets-4.0.0-py2.py3-none-any.whl (56kB)
+    100% |████████████████████████████████| 57kB 2.2MB/s 
+Collecting pickleshare (from ipython)
+  Downloading pickleshare-0.5.tar.gz
+Collecting simplegeneric>0.8 (from ipython)
+  Downloading simplegeneric-0.8.1.zip
+Collecting decorator (from ipython)
+  Downloading decorator-4.0.5-py2.py3-none-any.whl
+Collecting gnureadline (from ipython)
+  Downloading gnureadline-6.3.3-cp27-none-macosx_10_6_intel.whl (262kB)
+    100% |████████████████████████████████| 262kB 400kB/s 
+Collecting appnope (from ipython)
+  Downloading appnope-0.1.0-py2.py3-none-any.whl
+Collecting pexpect (from ipython)
+  Downloading pexpect-4.0.1.tar.gz (143kB)
+    100% |████████████████████████████████| 147kB 1.0MB/s 
+Collecting ipython-genutils (from traitlets->ipython)
+  Downloading ipython_genutils-0.1.0-py2.py3-none-any.whl
+Collecting path.py (from pickleshare->ipython)
+  Downloading path.py-8.1.2-py2.py3-none-any.whl
+Collecting ptyprocess>=0.5 (from pexpect->ipython)
+  Downloading ptyprocess-0.5.tar.gz
+Installing collected packages: decorator, ipython-genutils, traitlets, path.py, pickleshare, simplegeneric, gnureadline, appnope, ptyprocess, pexpect, ipython
+Exception:
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/pip-7.1.2-py2.7.egg/pip/basecommand.py", line 211, in main
+    status = self.run(options, args)
+  File "/Library/Python/2.7/site-packages/pip-7.1.2-py2.7.egg/pip/commands/install.py", line 311, in run
+    root=options.root_path,
+  File "/Library/Python/2.7/site-packages/pip-7.1.2-py2.7.egg/pip/req/req_set.py", line 646, in install
+    **kwargs
+  File "/Library/Python/2.7/site-packages/pip-7.1.2-py2.7.egg/pip/req/req_install.py", line 803, in install
+    self.move_wheel_files(self.source_dir, root=root)
+  File "/Library/Python/2.7/site-packages/pip-7.1.2-py2.7.egg/pip/req/req_install.py", line 998, in move_wheel_files
+    isolated=self.isolated,
+  File "/Library/Python/2.7/site-packages/pip-7.1.2-py2.7.egg/pip/wheel.py", line 339, in move_wheel_files
+    clobber(source, lib_dir, True)
+  File "/Library/Python/2.7/site-packages/pip-7.1.2-py2.7.egg/pip/wheel.py", line 317, in clobber
+    shutil.copyfile(srcfile, destfile)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/shutil.py", line 83, in copyfile
+    with open(dst, 'wb') as fdst:
+IOError: [Errno 13] Permission denied: '/Library/Python/2.7/site-packages/decorator.py'
+[AnneGoossens@MacBook-Pro-van-Anne-Goossens: DM/PYTHON/Github.ipy]% sudo pip install ipython
+The directory '/Users/AnneGoossens/Library/Caches/pip/http' or its parent directory is not owned by the current user and the cache has been disabled. Please check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+The directory '/Users/AnneGoossens/Library/Caches/pip' or its parent directory is not owned by the current user and caching wheels has been disabled. check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+Collecting ipython
+  Downloading ipython-4.0.1-py2-none-any.whl (730kB)
+    100% |████████████████████████████████| 733kB 301kB/s 
+Collecting traitlets (from ipython)
+  Downloading traitlets-4.0.0-py2.py3-none-any.whl (56kB)
+    100% |████████████████████████████████| 57kB 1.2MB/s 
+Collecting pickleshare (from ipython)
+  Downloading pickleshare-0.5.tar.gz
+Collecting simplegeneric>0.8 (from ipython)
+  Downloading simplegeneric-0.8.1.zip
+Collecting decorator (from ipython)
+  Downloading decorator-4.0.5-py2.py3-none-any.whl
+Collecting gnureadline (from ipython)
+  Downloading gnureadline-6.3.3-cp27-none-macosx_10_6_intel.whl (262kB)
+    100% |████████████████████████████████| 262kB 1.1MB/s 
+Collecting appnope (from ipython)
+  Downloading appnope-0.1.0-py2.py3-none-any.whl
+Collecting pexpect (from ipython)
+  Downloading pexpect-4.0.1.tar.gz (143kB)
+    100% |████████████████████████████████| 147kB 554kB/s 
+Collecting ipython-genutils (from traitlets->ipython)
+  Downloading ipython_genutils-0.1.0-py2.py3-none-any.whl
+Collecting path.py (from pickleshare->ipython)
+  Downloading path.py-8.1.2-py2.py3-none-any.whl
+Collecting ptyprocess>=0.5 (from pexpect->ipython)
+  Downloading ptyprocess-0.5.tar.gz
+Installing collected packages: decorator, ipython-genutils, traitlets, path.py, pickleshare, simplegeneric, gnureadline, appnope, ptyprocess, pexpect, ipython
+  Running setup.py install for pickleshare
+  Running setup.py install for simplegeneric
+  Running setup.py install for ptyprocess
+  Running setup.py install for pexpect
+Successfully installed appnope-0.1.0 decorator-4.0.5 gnureadline-6.3.3 ipython-4.0.1 ipython-genutils-0.1.0 path.py-8.1.2 pexpect-4.0.1 pickleshare-0.5 ptyprocess-0.5 simplegeneric-0.8.1 traitlets-4.0.0
+[AnneGoossens@MacBook-Pro-van-Anne-Goossens: DM/PYTHON/Github.ipy]%       [127]

@@ -1,0 +1,36 @@
+Last login: Thu Nov 26 10:29:43 on ttys002
+MacBook-Pro-van-Anne-Goossens% pwd
+/Users/AnneGoossens
+MacBook-Pro-van-Anne-Goossens% cd ~
+MacBook-Pro-van-Anne-Goossens% curl -Lk https://github.com/irlabs/zsh-dotfiles/blob/master/zsh_dotfiles.tar?raw=true > zsh_dotfiles.tar
+zsh: no matches found: https://github.com/irlabs/zsh-dotfiles/blob/master/zsh_dotfiles.tar?raw=true
+MacBook-Pro-van-Anne-Goossens% curl -Lk https://github.com/irlabs/zsh-dotfiles/blob/master/zsh_dotfiles.tar?raw=true > zsh_dotfiles.tar
+zsh: no matches found: https://github.com/irlabs/zsh-dotfiles/blob/master/zsh_dotfiles.tar?raw=true
+MacBook-Pro-van-Anne-Goossens% curl -Lk https://github.com/irlabs/zsh-dotfiles/blob/master/zsh_dotfiles.tare > zsh_dotfiles.tar 
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100    21    0    21    0     0     27      0 --:--:-- --:--:-- --:--:--    27
+MacBook-Pro-van-Anne-Goossens% ls
+Applications			Movies
+Creative Cloud Files		Music
+Creative Cloud Files (1)	Pictures
+Desktop				Public
+Documents			Sites
+Downloads			hs_err_pid443.log
+Dropbox				zsh_dotfiles.tar
+Library
+MacBook-Pro-van-Anne-Goossens% tar -xzf zsh_dotfiles.tar
+tar: Unrecognized archive format
+tar: Error exit delayed from previous errors.
+MacBook-Pro-van-Anne-Goossens% open .
+MacBook-Pro-van-Anne-Goossens% open .
+MacBook-Pro-van-Anne-Goossens% tar -xzf zsh_dotfiles.tar
+tar: Error opening archive: Failed to open 'zsh_dotfiles.tar'
+MacBook-Pro-van-Anne-Goossens% open .
+MacBook-Pro-van-Anne-Goossens% tar -xzf zsh_dotfiles.tar
+tar: Unrecognized archive format
+tar: Error exit delayed from previous errors.
+MacBook-Pro-van-Anne-Goossens% open .
+MacBook-Pro-van-Anne-Goossens% tar -xzf zsh_dotfiles.tar
+MacBook-Pro-van-Anne-Goossens% open .
+MacBook-Pro-van-Anne-Goossens%     

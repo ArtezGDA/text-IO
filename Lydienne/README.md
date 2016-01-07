@@ -46,6 +46,8 @@ Cowsay conversation
 
 [Hechting conversation](cowsay_conversation/hechting.py) 
 
+[README.md](cowsay_conversation/README.md)
+
 ## Design the flow of the program
 
 ## How to use the script

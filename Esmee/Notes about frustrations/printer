@@ -1,0 +1,69 @@
+Last login: Sun Dec 27 13:51:51 on ttys004
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% lpstat -d                  [195]
+system default destination: Canon_MG3200_series
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% lpstat -p                  [196]
+printer _194_171_139_40 disabled since Tue Sep 22 10:23:00 2015 -
+	De printer reageert niet.
+printer _194_171_193_41 is idle.  enabled since Tue Sep 22 10:21:47 2015
+printer Brother_QL_710W is idle.  enabled since Sun Dec 27 14:06:55 2015
+printer Canon_MG3200_series now printing Canon_MG3200_series-84.  enabled since Sun Dec 27 13:59:15 2015
+	Looking for printer.
+printer Canon_MG3200_series_2 is idle.  enabled since Sun Dec  6 01:12:24 2015
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% lpstat -p | awk '{print $2}'
+_194_171_139_40
+printer
+_194_171_193_41
+Brother_QL_710W
+Canon_MG3200_series
+for
+Canon_MG3200_series_2
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% lpstat -p | awk '{print $2}' | xargs -n1 lpq -P
+_194_171_139_40 is not ready
+no entries
+lpq: Unknown destination "printer".
+_194_171_193_41 is ready
+no entries
+Brother_QL_710W is ready
+no entries
+Canon_MG3200_series is ready and printing
+Rank    Owner   Job     File(s)                         Total Size
+active  esmeeel 84      (stdin)                         1024 bytes
+1st     esmeeel 86      (stdin)                         0 bytes
+lpq: Unknown destination "for".
+Canon_MG3200_series_2 is ready
+no entries
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% echo "ik ben Esmee" | lp   [199]
+request id is Canon_MG3200_series-88 (0 file(s))
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% lpstat -p | awk '{print $2}' | xargs -n1 lpq -P
+_194_171_139_40 is not ready
+no entries
+lpq: Unknown destination "printer".
+_194_171_193_41 is ready
+no entries
+Brother_QL_710W is ready
+no entries
+Canon_MG3200_series is ready and printing
+Rank    Owner   Job     File(s)                         Total Size
+active  esmeeel 84      (stdin)                         1024 bytes
+1st     esmeeel 87      (stdin)                         0 bytes
+2nd     esmeeel 88      (stdin)                         1024 bytes
+lpq: Unknown destination "for".
+Canon_MG3200_series_2 is ready
+no entries
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% echo "ik ben Esmee" | lp   [201]
+request id is Brother_QL_710W-89 (0 file(s))
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% echo "ik ben Esmee" | lp   [202]
+request id is Brother_QL_710W-90 (0 file(s))
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% echo "ik ga nu boodschappen doen en ik ga glas weg gooien. Ik heb nodig bananen en melk." | lp
+request id is Brother_QL_710W-91 (0 file(s))
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% echo "hoi Niek." | lp      [203]
+request id is Brother_QL_710W-92 (0 file(s))
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% echo "hoi Niek." | lp      [204]
+request id is Brother_QL_710W-93 (0 file(s))
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% echo "hoi Niek." | lp      [204]
+request id is Brother_QL_710W-94 (0 file(s))
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% echo "hoi Niek." | lp      [204]
+request id is Brother_QL_710W_2-96 (0 file(s))
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% echo "hoi Niek." | lp      [204]
+request id is Brother_QL_710W-97 (0 file(s))
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% 

@@ -260,7 +260,6 @@ iTunes = {
         }
 print iTunes["Artist"]
 print iTunes["Albums"][0]
-print "NEXT ALBUM"
-print iTunes["Albums"][1]
+
 
 

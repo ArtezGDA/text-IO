@@ -1,0 +1,10 @@
+d = {
+    'address': "Frans Halslaan", 
+    'number' : 30, 
+    'surface' : "24 m2", 
+    'doors' : 2,
+    'roommates' : 2,
+    'color' : "black",
+  }
+  
+print "I have a room of %s big at the %s number %d. It has %d doors and I painted my walls %s. I share the front door with %d others." % ( d["surface"], d["address"], d["number"],d["doors"], d["color"], d["roommates"],)
