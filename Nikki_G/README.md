@@ -133,6 +133,38 @@ Itunens = {
 	
 	],
 }```
+```
+import itunes.py 
+
+d = Itunes.data
+
+print "Mijn lievelings liedje is %s met de duur van %d minuten" % (d ['title14'], d ['time14'])
+
+UITKOMST
+
+Last login: Wed Dec  9 14:49:38 on ttys001
+[Nikki@MacBook-Pro-van-Nikki: ~]% cd/Users/Nikki/Documents/A\ School/Artez\ GD2A/Media\ Design/Zelf\ Text 
+zsh: command not found: cd/Users/Nikki/Documents/A School/Artez GD2A/Media Design/Zelf Text
+[Nikki@MacBook-Pro-van-Nikki: ~]% cd Documents                            [109]
+[Nikki@MacBook-Pro-van-Nikki: ~/Documents]% cd /Users/Nikki/Documents/A\ School/Artez\ GD2A/Media\ Design/Zelf\ Text 
+[Nikki@MacBook-Pro-van-Nikki: Artez GD2A/Media Design/Zelf Text]% python itunes_data.py
+Traceback (most recent call last):
+  File "itunes_data.py", line 1, in <module>
+    import itunes.py 
+  File "/Users/Nikki/Documents/A School/Artez GD2A/Media Design/Zelf Text/itunes.py", line 8
+    {'title2': "omen', 'time": 3.50},
+                             ^
+SyntaxError: invalid syntax
+[Nikki@MacBook-Pro-van-Nikki: Artez GD2A/Media Design/Zelf Text]% python itunes_data.py
+Traceback (most recent call last):
+  File "itunes_data.py", line 1, in <module>
+    import itunes.py 
+  File "/Users/Nikki/Documents/A School/Artez GD2A/Media Design/Zelf Text/itunes.py", line 8
+    {'title2': "omen', 'time2": 3.50},
+                              ^
+SyntaxError: invalid syntax
+[Nikki@MacBook-Pro-van-Nikki: Artez GD2A/Media Design/Zelf Text]%  
+```
 
 
 ### Poe
@@ -397,12 +429,15 @@ typeface = {
 
 ## Concept
 
-Translate functie. Als je een Engelse tekst invoerd en vervolgens op translate klikt vertaald hij elk Engelse woord wat jij hetb ingevoerd naar een andere taal. Dus als je een hele tekst hebt en deze vertaald zie je een hele tekst geschreven in allemaal verschillende talen. Zodat iedereen over de hele wereld een klein stukje van de tekst kan lezen. 
+<br>
 
+Translate function. When you type in the terminal an Englisch sentance, and you click on enter the terminal translates every different Englisch word in to an different language. So when you translate an whole Englisch text there will be an text in all different languages. So evereyone on earth can read a little bit in your text. 
+
+<br>
 
 ## Prototype: working demo
-
-[Filmpje](vertalen.mov)<br><br><br>
+<br>
+[Filmpje](vertalen.mov)<br><br>
 [Dingen geprobeerd](proberen/browser.html)<br>
 [Dingen geprobeerd](debug.js)<br>
 [Dingen geprobeerd](index.html)<br>
