@@ -5,8 +5,8 @@
 [Dictionary Leonie](format.py) <br>
 [Data Leonie](my_data_file.py) <br>
 [Spotify](spotify.pv) <br>
-[Cowsay](Cowsay.md) <br>
-[Poe](Poe1.md) <br>
+[Cowsay](Cowsay.md)
+[Poe](Poe1.md)
 [phonehome](phonehome.md)
 
 	$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
