@@ -5,7 +5,7 @@
 ###The array
 [Array](Collections/Array/arrayesmee.py)
 
-[Array1](Collections/Array/arrayesmee1.py)
+[Array1](Collections/Array/array1esmee.py)
 
 
 ###Dictionary
