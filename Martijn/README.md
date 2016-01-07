@@ -15,7 +15,7 @@
 [cowsay](cowsay.md)
 
 ## Concept
-[]()
+[concept](concept.md)
 
 ## Prototype: working demo
 [demo](a1af.mov)
