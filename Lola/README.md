@@ -63,7 +63,7 @@ plotdivice:
 
 in het mapje "tool" staan de volgende bestanden,
 
-[readme](README_secretcode.md) 
+[readme](README_tool.md) 
 
 [tool](secretcode.zip) 
 
