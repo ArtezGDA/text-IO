@@ -9,6 +9,9 @@
 [Poe](Poe1.md)
 [phonehome](phonehome.md)
 
+
+
+##concept
 	$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 A tool to give some extra blinggangstaflavour to your story. A typetool that transform normal words to a dollar word. *catchinggg* 
