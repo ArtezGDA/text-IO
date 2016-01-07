@@ -1,8 +1,8 @@
-# Max's work for Text IO 
+ # Max's work for Text IO 
 
 ## Homework
 ###Array
-[Array](array.pv)
+[Array](array.py)
 ###Dictionary
 [Format](format.py)
 
@@ -30,12 +30,4 @@
 
 ###Type group assignment
 [Group Typeface](typeface.py)
-
-## Prototype: working demo
-
-## Design the flow of the program
-
-## How to use the script
-
-## PDF format 
 			
