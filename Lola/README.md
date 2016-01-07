@@ -104,5 +104,15 @@ exampel ![Text-IO](exampel1.png)
 exampel ![Text-IO](exampel2.png)
 
 
+## license
+
+*Open Source*
+Lola Beumer 
+
+
+copyright ArtEZ
+
+
+
 ## PDF format 
 			
