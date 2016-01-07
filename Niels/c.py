@@ -1,0 +1,58 @@
+import curses
+import random
+import time
+
+for myChar in range(10):
+    randomNum = random.randint(33, 126)
+    myChar = chr(randomNum)
+
+screen = curses.initscr()
+screen.addstr( 32, 81, str(randomNum))
+screen.addstr( 32, 75, str(randomNum))
+screen.addstr( 33, 79, str(randomNum))
+screen.addstr( 33, 77, str(randomNum))
+screen.addstr( 31, 74, str(randomNum))
+screen.addstr( 30, 74, str(randomNum))
+screen.addstr( 29, 75, str(randomNum))
+screen.addstr( 28, 77, str(randomNum))
+screen.addstr( 28, 79, str(randomNum))
+screen.addstr( 29, 81, str(randomNum))
+
+screen.addstr( 17, 121, str(randomNum))
+screen.addstr( 16, 120, str(randomNum))
+screen.addstr( 15, 118, str(randomNum))
+screen.addstr( 14, 115, str(randomNum))
+screen.addstr( 14, 113, str(randomNum))
+screen.addstr( 14, 111, str(randomNum))
+screen.addstr( 14, 109, str(randomNum))
+screen.addstr( 15, 105, str(randomNum))
+screen.addstr( 16, 102, str(randomNum))
+screen.addstr( 17, 100, str(randomNum))
+screen.addstr( 18, 99, str(randomNum))
+screen.addstr( 19, 98, str(randomNum))
+screen.addstr( 20, 97, str(randomNum))
+screen.addstr( 21, 96, str(randomNum))
+screen.addstr( 22, 96, str(randomNum))
+screen.addstr( 23, 96, str(randomNum))
+screen.addstr( 24, 96, str(randomNum))
+screen.addstr( 25, 96, str(randomNum))
+screen.addstr( 26, 96, str(randomNum))
+screen.addstr( 27, 97, str(randomNum))
+screen.addstr( 28, 98, str(randomNum))
+screen.addstr( 29, 99, str(randomNum))
+screen.addstr( 30, 100, str(randomNum))
+screen.addstr( 31, 102, str(randomNum))
+screen.addstr( 32, 104, str(randomNum))
+screen.addstr( 33, 107, str(randomNum))
+screen.addstr( 33, 109, str(randomNum))
+screen.addstr( 33, 111, str(randomNum))
+screen.addstr( 33, 113, str(randomNum))
+screen.addstr( 33, 115, str(randomNum))
+screen.addstr( 32, 118, str(randomNum))
+screen.addstr( 31, 120, str(randomNum))
+screen.addstr( 30, 121, str(randomNum))
+
+
+screen.getch()
+curses.endwin()
+
