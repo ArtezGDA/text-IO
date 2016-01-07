@@ -1,5 +1,10 @@
-import ingredients
+import ingredients #import bestanden uit ingredients.py
 
-d = ingredients
+#whatarewegoingtoeat.py
 
-print "Voorgerecht: %d Hoofdgerecht: %d Nagerecht: %d Drinken: %d" % (d ["voorgerecht"], d ["hoofdgerecht"], d ["nagerecht"] , d ["drinken"] , d ["hoogte"] , d ["lengte"] , d ["breedte"] , d ["banken"])
+d = ingredients. ingredients #linkt an string uit my.data bestand
+
+print "voorgerecht: %s" % (d ["voorgerecht"])
+print "hoofdgerecht: %s" % (d ["hoofdgerecht"])
+print "nagerecht: %s" % (d ["nagerecht"])
+print "drinken: %s" % (d ["drinken"])
