@@ -3,7 +3,7 @@
 ## Homework
 [collections]() (python code)
 ### Poe
-[poe.py]() (poe)
+[poe.rtf]() (poe)
 
 ## Concept
 It's about making font from ascii code and the random numbers. Due the differences in numbers the thickness can change every time you load it and the code creates every time another form.
