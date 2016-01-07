@@ -1,8 +1,17 @@
 import names #import bestanden uit namess.py
+#import json
+#import random
 
 #wroddelstory.py
 
+#def randomhoofdgerecht():
+#	jsonfile = "hoofdgerecht.json"
+
 d = names. mensen #namen uit string names.py
+
+#def main():
+#	random_hoofd = randomhoofdgerecht()
+	#while True:
 
 print "Brad en %s ontmoeten de paus" % (d ["roddel1"])
 print "Gigi Hadid en %s samen op huizentocht in New York" % (d ["roddel2"])

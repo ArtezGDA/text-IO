@@ -13,6 +13,7 @@ d = ingredients. ingredients #linkt an string uit my.data bestand
 #def main():
 #	random_hoofd = randomhoofdgerecht()
 	#while True:
+	
 print "menu 1"
 print "voorgerecht: %s" % (d ["voorgerecht"])
 print "hoofdgerecht: %s" % (d ["hoofdgerecht"])
