@@ -107,10 +107,10 @@ exampel ![Text-IO](exampel2.png)
 ## license
 
 *Open Source*
-Lola Beumer 
 
 
-copyright ArtEZ
+
+Lola Beumer copyright ArtEZ
 
 
 
