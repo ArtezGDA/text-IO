@@ -17,6 +17,9 @@
 
 ##Excercises for working with the shell
 
+## Phone Home
+[Phone Home](phone_home.md)
+
 
 ## Cowsay
 [Cowsay](cowsay.md)
