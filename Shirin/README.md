@@ -18,7 +18,7 @@
 <br><br>
 [Photoshop](adobe.rtf)<br>
 <br><br>
-[Photoshop](cowsay.png)<br>
+[Cowsay](cowsay.png)<br>
 
 
 ## Concept
