@@ -1,4 +1,6 @@
 Last login: Thu Dec  3 15:18:51 on ttys002
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% cd Poe
+[156]
 [esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% curl http://www.gutenberg.org/files/2147/2147-8.txt
 Project Gutenberg's The Works of Edgar Allan Poe, by Edgar Allan Poe
 
