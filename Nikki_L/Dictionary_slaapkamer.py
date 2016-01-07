@@ -13,7 +13,7 @@ mijn_slaapkamer = {
 
 print "Mijn adres is:" 
 print mijn_slaapkamer["adres"]
-print "De hoogte van mijn plafon  is"
+print "De hoogte van mijn plafon is"
 print mijn_slaapkamer["plafon hoogte"]
 print "De opppervlakte van mijn kamer is:"
 print mijn_slaapkamer["oppervlakte"]
