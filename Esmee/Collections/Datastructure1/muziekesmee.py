@@ -59,12 +59,12 @@ Muziek = {
                     'track': "11-12",
                     'titel': "I dont't want to be your friend",
                     'duur': "4:21"
-                }
+                },
                 {
                     'track': "12-12",
                     'titel': "Kindred spirit",
                     'duur': "1:16"
-                }
+                },
                 ]
         },
         {
