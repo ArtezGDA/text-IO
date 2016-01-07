@@ -30,3 +30,5 @@
 "‘PAPOOSE - NO HANDOUTS’",
 "‘METRIK - SOLAR’"
 ]
+
+//zonder , komma kan hij de jsonfile niet lezen en daarom ook niet openen!
