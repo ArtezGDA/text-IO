@@ -760,5 +760,9 @@ Translate function. When you type in the terminal an Englisch sentance, and you 
 [Dingen geprobeerd](package.json)<br>
 [Dingen geprobeerd](translate.js)<br>
 
+site:
+![Text-IO](sitevertalen.png)
+
+
 
 			
