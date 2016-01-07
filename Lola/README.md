@@ -61,6 +61,19 @@ plotdivice:
 
 ## How to use the script
 
+in het mapje "tool" staan de volgende bestanden,
+
+[README](README_secretcode.md) 
+
+[tool](secretcode.zip) 
+
+[sreenshot 1](1.png) 
+
+[sreenshot 2](2.png) 
+
+[sreenshot 3](3.png) 
+
+[sreenshot 4](4.png) 
 
 
 ## PDF format 
