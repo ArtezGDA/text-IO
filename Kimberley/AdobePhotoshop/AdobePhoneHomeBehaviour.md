@@ -1,4 +1,3 @@
-```
 Last login: Thu Dec  3 10:01:49 on ttys004
 [Kimberleyterheerdt@MacBook-Pro-van-Kimberley: ~]% netsat -a               [28]
 zsh: correct netsat to netstat ? ([Y]es/[N]o/[E]dit/[A]bort) n
@@ -586,4 +585,3 @@ kctl       0      0     25      8 com.apple.netsrc
 kctl       0      0     26      8 com.apple.netsrc
 kctl       0      0     29      8 com.apple.netsrc
 [Kimberleyterheerdt@MacBook-Pro-van-Kimberley: ~]%                                                                                                   [31]
-```
