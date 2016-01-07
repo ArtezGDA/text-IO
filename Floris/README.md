@@ -1,7 +1,8 @@
 # Floris's work for Text IO 
 
 ## Homework
-
+###Array
+[Array](array.py)
 ###Dictionary
 [Format](format.py)
 
