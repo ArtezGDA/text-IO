@@ -14,10 +14,10 @@ The program is dedicated to give people a "little push in the back"". You can pu
 To install `Motivy`, open your terminal and type: 
 
 ```
-curl http://www.link.... 
+curl http://www.https://github.com/ArtezGDA/text-IO/blob/master/Kimberley/Tool/Motivy.zip?raw=true
 ```
 
-Or download the [DownloadMotivy.zip](TheDictionary/..........py) file in this directory.
+Or download the [Motivy.zip](Motivy.zip) file in this directory.
 
 The sounds in the file need to be put in your sounds folder before you can use `Motivy`.
 
@@ -43,7 +43,7 @@ You should be at the "Sounds" folder. Go ahead and drag the `Motivy` sounds into
 
 sounds: 
 
- - yes
+ - Yes
  - Applause
  - Cheer
  - Woohoo
@@ -68,16 +68,16 @@ When you're in Finder, simultaneously press the Shift-Command-U key combination
 
 ### Adjusting Motivy
 
-You want to change the sounds into your own sounds? Make sure you have some .aiff file to put into the sounds folder (noted above) and you change the [Motivy JSON](Tool/Motivyinput.json) sound names in the code.
+You want to change the sounds into your own sounds? Make sure you have some .aiff file to put into the sounds folder (noted above) and you change the [Motivy JSON](Motivyinput.json) sound names in the code.
 
-You want to change Motivy's messages? change the text in the [Motivy JSON](Tool/Motivyinput.json)
+You want to change Motivy's messages? change the text list in the [Motivy JSON](Motivyinput.json)
 file.
 
 ### Screenshots
 
-![image](Screenshots/Motivity.png)
-![image](Screenshots/Motivity1.png)
-![image](Screenshots/Motivity2.png)
+![image](Screenshots/Motivy1.png =300x76)
+![image](Screenshots/Motivy.png =300x76)
+
 
 
 ### Dependencies:
