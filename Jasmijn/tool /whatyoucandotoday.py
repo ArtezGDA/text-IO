@@ -37,6 +37,10 @@ def main():
     and print the first line.
     """
 
+    print "I don't know what to do today, so what do you suggest?"
+    
+
+    
     print random.choice(line)
     #print out random strings from the file sentences.py
     print random.choice(sentences)
