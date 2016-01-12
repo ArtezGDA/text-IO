@@ -19,7 +19,7 @@
 #### Search files
 [Search Files](lists/searchfiles.rtf)
 ##### Cowsay 
-[Text](cowsay.rtf)<br>
+[Text](lists/cowsay.rtf)<br>
 [Image 1](images/im3.pmg)<br>
 [Image 2](images/im4.png)
 
