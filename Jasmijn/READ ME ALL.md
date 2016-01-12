@@ -19,9 +19,9 @@
 #### Search files
 [Search Files](lists/searchfiles.rtf)
 ##### Cowsay 
-[Text](cowsay.rtf)
-[Image 1](im3.pmg)
-[Image 2](im4.png)
+[Text](cowsay.rtf)<br>
+[Image 1](images/im3.pmg)<br>
+[Image 2](images/im4.png)
 
 ##### Phone Home
 [Phone Home](lists/phonehome.rtf)
@@ -32,7 +32,7 @@ Het idee voor mijn programma was om een oplossing te geven voor de verveelde men
 <br>
 ## Prototype: Working demo 
 <br>
-[Demo](tool/demo.mov)
+[Demo](images/demo.mov)
 
 ## How to use the script
 
@@ -45,6 +45,6 @@ Het script is geschreven in python. Het enige wat je moet doen is ' whatyoucando
 
 ######Screenshots
 
-[Image 1](tool/im1.png)
-[Image 2](tool/im2.png)
+[Image 1](images/im1.png)<br>
+[Image 2](images/im2.png)
 

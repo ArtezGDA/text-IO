@@ -11,10 +11,13 @@
 
 <br>
 
-## Screenshots
-[Image 1](tool/im1.png)<br>
+## Demo
+[Video](images/demo.mov)
 
-[Image 2](tool/im2.png)
+## Screenshots
+[Image 1](images/im1.png)<br>
+
+[Image 2](images/im2.png)
 <br>
 <br>
 ## MIT License
