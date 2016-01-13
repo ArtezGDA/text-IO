@@ -40,11 +40,15 @@ Het script is geschreven in python. Het enige wat je moet doen is ' whatyoucando
 
 ## Program and Documentation 
 
-[Script](tool/whatyoucandotoday.py)
+[Script](tool/whatyoucandotoday.py)<br>
+
 [Sentences](tool/ideas.py)
 
 ######Screenshots
 
 [Image 1](images/im1.png)<br>
 [Image 2](images/im2.png)
+
+## Read me file tool
+[file](tool/READMETOOL.md)
 
