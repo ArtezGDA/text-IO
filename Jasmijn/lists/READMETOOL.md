@@ -6,7 +6,7 @@
 
 1. Download the folder with the files on your computer
 2. Open Terminal, go to the folder with the files
-3. Type in: "python whatcanyoudotoday.py > enter
+3. Type in: "python whatyoucandotoday.py > enter
 4. And you're done! 
 
 <br>
