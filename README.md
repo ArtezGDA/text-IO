@@ -14,7 +14,7 @@ This repository holds all student works plus example files, homework and demo's 
 - [Esmee](Esmee/README.md)
 - [Heike](Heike/README.md)
 - [Ilse B](Ilse_B/README.md)
-- [Jasmijn](Jasmijn/README.md)
+- [Jasmijn](Jasmijn/READMEALL.md)
 - [Kimberley](Kimberley/README.md)
 - [Luc](Luc/README.md)
 - [Lydienne](Lydienne/README.md)
