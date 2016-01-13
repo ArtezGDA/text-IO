@@ -2,7 +2,7 @@
 
 ## Homework 
 ### Aray 
-[the array](lists/coursesarray.pv)
+[the array](lists/coursesarray.py)
 
 ### Dictionary 
 [format](lists/formatroom.py)
@@ -10,7 +10,7 @@
 [Dictionary Room](lists/room_file.py)
 
 ### Data structure I 
-[Data Structure Spottify](lists/spotifylist.pv)
+[Data Structure Spottify](lists/spotifylist.py)
 
 <br>
 
