@@ -2,7 +2,7 @@
 
 ## Homework 
 ### Aray 
-[the array](lists/arraycourses)
+[the array](lists/coursesarray.pv)
 
 ### Dictionary 
 [format](lists/formatroom.py)
@@ -10,7 +10,7 @@
 [Dictionary Room](lists/room_file.py)
 
 ### Data structure I 
-[Data Structure Itunes](lists/itunes.pv)
+[Data Structure Spottify](lists/spotifylist.pv)
 
 <br>
 
@@ -20,7 +20,7 @@
 [Search Files](lists/searchfiles.rtf)
 ##### Cowsay 
 [Text](lists/cowsay.rtf)<br>
-[Image 1](images/im3.pmg)<br>
+[Image 1](images/im3.png)<br>
 [Image 2](images/im4.png)
 
 ##### Phone Home
@@ -40,9 +40,9 @@ Het script is geschreven in python. Het enige wat je moet doen is ' whatyoucando
 
 ## Program and Documentation 
 
-[Script](tool/whatyoucandotoday.py)<br>
+[Script](lists/whatyoucandotoday.py)<br>
 
-[Sentences](tool/ideas.py)
+[Sentences](lists/ideas.py)
 
 ######Screenshots
 
@@ -50,5 +50,8 @@ Het script is geschreven in python. Het enige wat je moet doen is ' whatyoucando
 [Image 2](images/im2.png)
 
 ## Read me file tool
-[file](tool/READMETOOL.md)
+[file](lists/READMETOOL.md)
+
+## Notes
+[Notes](images/notes.md)
 

@@ -1,4 +1,4 @@
-import ROOM_FILE
+import room_file
 
 d = room_file.room_jasmijn
 
