@@ -1,0 +1,35 @@
+Last login: Thu Jan  7 09:02:36 on ttys000
+MacBook-Pro-van-Anne-Goossens:~ AnneGoossens$ python
+Python 2.7.10 (default, Jul 14 2015, 19:46:27) 
+[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.39)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import random
+>>> print list[random.randint(0, len(list)-1)]
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: object of type 'type' has no len()
+>>> Het nieuws 
+  File "<stdin>", line 1
+    Het nieuws 
+             ^
+SyntaxError: invalid syntax
+>>>     •         1.  1 uur geleden Voor bij het nieuws Dit zijn de conclusies uit het onderzoek naar de Teeven-deal Dit zijn de belangrijkste conclusies uit het onderzoek van de commissie-Oosting naar de zogeheten 'Teeven-deal' uit 2000, die dit voorjaar leidde tot het aftreden van minister Ivo Opstelten en staatssecretaris Fred Teeven van Veiligheid en Justitie.  
+  File "<stdin>", line 1
+    •	  1.  1 uur geleden Voor bij het nieuws Dit zijn de conclusies uit het onderzoek naar de Teeven-deal Dit zijn de belangrijkste conclusies uit het onderzoek van de commissie-Oosting naar de zogeheten 'Teeven-deal' uit 2000, die dit voorjaar leidde tot het aftreden van minister Ivo Opstelten en staatssecretaris Fred Teeven van Veiligheid en Justitie.  
+    ^
+IndentationError: unexpected indent
+>>>     •         2.  1 uur geleden Voor bij het nieuws Reacties op kritisch onderzoek naar Teeven-deal De onderzoekscommissie-Oosting oordeelde woensdag hard over de zogenaamde Teeven-deal, tussen toenmalig officier van justitie Fred Teeven en drugscrimineel Cees H. in 2000. Dit zijn de reacties op het rapport.  
+  File "<stdin>", line 1
+    •	  2.  1 uur geleden Voor bij het nieuws Reacties op kritisch onderzoek naar Teeven-deal De onderzoekscommissie-Oosting oordeelde woensdag hard over de zogenaamde Teeven-deal, tussen toenmalig officier van justitie Fred Teeven en drugscrimineel Cees H. in 2000. Dit zijn de reacties op het rapport.  
+    ^
+IndentationError: unexpected indent
+>>>     •         3.  1 uur geleden Voor bij het nieuws Profiel Rabobank: Van boerenleenbanken naar marktleider hypotheken Rabobank schrapt de komende drie jaar nog eens negenduizend voltijdsbanen. Een profiel van het financiële concern.
+  File "<stdin>", line 1
+    •	  3.  1 uur geleden Voor bij het nieuws Profiel Rabobank: Van boerenleenbanken naar marktleider hypotheken Rabobank schrapt de komende drie jaar nog eens negenduizend voltijdsbanen. Een profiel van het financiële concern.
+    ^
+IndentationError: unexpected indent
+>>> print list[random.randint(0, len(list)-1)]
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: object of type 'type' has no len()
+>>> 

@@ -60,6 +60,44 @@ AH Zuid-afrika huiswijn fris
 ![](demo_03.png)
 
 
+##How to install
+
+download code:
+
+[Recipe](recipe.py)
+
+[Ingredients](ingredients.py)
+
+Save op bureaublad
+
+run in terminal bijv:
+
+Last login: Thu Jan  7 13:29:09 on ttys000
+[maxwaelbers@MacBook-Pro-van-Max: ~]% ls                                  [141]
+Applications/          Dropbox (Zelfstroom)/  Samsung/
+Artez/                 Library/               VirtualBox VMs/
+Desktop/               Media Design/          Vormgeving/
+Documents/             Movies/                poe/
+Downloads/             Music/                 zsh_dotfiles.tar
+Dropbox@               Pictures/
+Dropbox (Persoonlijk)/ Public/
+[maxwaelbers@MacBook-Pro-van-Max: ~]% cd desktop                          [142]
+[maxwaelbers@MacBook-Pro-van-Max: ~/desktop]% python recipe.py            [143]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br><br><br><br><br><br><br>
 Copyright (c) 2016 Max Waelbers

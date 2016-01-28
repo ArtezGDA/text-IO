@@ -1,124 +1,58 @@
 # Esmee's work for Text IO 
 
-## Homework
-![Schets list]()
+## Homework: Collections
 
-```
->>> couses = ['Photography', 'Design Philosophy', 'Media Theory', 'Design Research', 'Digital Media', 'Computer Skills', 'Graphic Design', 'Typography']
->>> print len(couses)
-8
->>> couses.append(Media Theory lecture series)
-  File "<stdin>", line 1
-    couses.append(Media Theory lecture series)
-                             ^
-SyntaxError: invalid syntax
->>> couses.append(9)
->>> 9=[Media Theory lecture series]
-  File "<stdin>", line 1
-    9=[Media Theory lecture series]
-                  ^
-SyntaxError: invalid syntax
->>> couses.append(Media Theory lecture series)
-  File "<stdin>", line 1
-    couses.append(Media Theory lecture series)
-                             ^
-SyntaxError: invalid syntax
->>> print len(couses)
-9
->>> couses.pop(9)
-Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
-IndexError: pop index out of range
->>> couses.pop()9
-  File "<stdin>", line 1
-    couses.pop()9
-                ^
-SyntaxError: invalid syntax
->>> couses.pop(9)
-Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
-IndexError: pop index out of range
->>> len(couses)
-9
+###The array
+[Array](Collections/Array/arrayesmee.py)
 
-```
-![List]()
+[Array1](Collections/Array/array1esmee.py)
 
-```
->>> [0,1,2,3]
-[0, 1, 2, 3]
->>> reeks = [0,1,2,3]
->>> reeks
-[0, 1, 2, 3]
->>> naam= "Esmee"
->>> vakken= ["Photography", "Design Philosophy", "Media Theory", "Design Research", "Digital Media", "Computer Skills", "Graphic Design", "Typograhy"]
->>> vakken
-['Photography', 'Design Philosophy', 'Media Theory', 'Design Research', 'Digital Media', 'Computer Skills', 'Graphic Design', 'Typograhy']
->>> len(vakken)
-8
->>> vakken.pop()
-'Typograhy'
->>> len (vakken)
-7
->>> vakken.append("Typography")
->>> len(vakken)
-8
->>> vakken.append("Media Theory Lectures")
->>> len(vakken)
-9
->>> vakken.pop()
-'Media Theory Lectures'
->>> len(vakken)
-8
-```
-![Schets dictionaries]()
 
-```
->>> heading ={}
->>> heading["adres"] = "Janthijssenstraat 13"
->>> heading["hoogte"] = "2.85m"
->>> heading["omtrek"] = "3.50m 2.80m"
->>> heading["deur"] = "1 deur"
->>> heading["raam"] = "1 raam"
->>> heading["kast"] = "4 kasten"
->>> print heading
-{'omtrek': '3.50m 2.80m', 'raam': '1 raam', 'adres': 'Janthijssenstraat 13', 'kast': '4 kasten', 'deur': '1 deur', 'hoogte': '2.85m'}
-```
+###Dictionary
+[Dictionary](Collections/Dictionary/datahuis.py)
 
-![Schets Dictionaries]()
+[Dictionary1](Collections/Dictionary/formathuis.py)
 
-```
->>> huis={'adres': "Janthijssenstraat 13", 'huisdier': 0, 'ramen': 21, 'deuren':8, 'kleuren': "blauw, grijs, zilver, wit, aqua, antraciet, paars, zwart"}
->>> huis
-{'huisdier': 0, 'ramen': 21, 'kleuren': 'blauw, grijs, zilver, wit, aqua, antraciet, paars, zwart', 'adres': 'Janthijssenstraat 13', 'deuren': 8}
->>> print d['adres']
->>> d['deuren'] = "Ik woon in een huis met 8 deuren"
-print d[\deuren']
 
-sentence = "Ik woon bij mijn moeder en we hebben geen %s huisdieren. We hebben %d deuren en %d ramen. We hebben veel kleuren in huis zoals %d." % ['adres']
-print sentence
+###Datastructure 1
+[Datastructure](Collections/Datastructure1/muziekesmee.pv)
 
-```
+[Datastructure1](Collections/Datastructure1/muziekesmee.py)
 
- 
+
+###Datastructure 2
+[Datastructure](Collections/Datastructure2/fontesmee.py)
+
+[Datastructure1](Collections/Datastructure2/fontesmee.pv)
+
+[Datastructure2](Collections/Datastructure2/Datastructurefontesmee.py)
+</br></br></br></br>
+
+## Homework: Shell
+###Adobe 'Phone home' behavior
+[Adobe'Phone home'behavior](Shell/Adobe'Phonehome'behavior/phonehomeesmee.py)
+
+###Cowsay
+[Cowsay](Shell/Cowsay/Cowsayesmee.py)
+
+###Edgar Allen Poe
+[Edgar Allan Poe](Shell/EdgarAllanPoe/EdgarAllanPoeesmee.py)
+
+###Search files
+[Search files](Shell/Searchfiles/Days-Monthsesmee.py)
+</br></br></br></br>
 
 ## Concept
+### Idee 1
 You type one product word and you see the commercial discounts for that product.
+### Idee 2
+Ever need a quick list from offers from the supermarket? Normal you look at offers from the supermarket in the store/app/leaflet/website.  Maybe you don't need to look at all the leaflets. Apeace Leaflet is a collection of offers that you can those by categoies and saves you a lot of old paper.
+</br></br>
 
-## Prototype: working demo
+### ## Prototype: working demo
 
-![drawning 1](conceptmap/bier.png)
-[drawning 1](conceptmap/bier.pv)
+[concept](Tool Aspace Leaflet/Schets concept/concept.py)
 
-![drawning 1](conceptmap/bier.py)
-[drawning 1](conceptmap/bier.py)
+![concept1](Tool Aspace Leaflet/Schets concept/bier.png)
 
-![drawning 1](conceptmap/formatbier.py)
-[drawning 1](conceptmap/formatbier.py)
-
-## Design the flow of the program
-
-## How to use the script
-
-## PDF format 
 			

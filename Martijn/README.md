@@ -1,15 +1,29 @@
-# Martijn's work for Text IO 
+# martijn's work for Text IO 
 
 ## Homework
 [collections]() (python code)
+##poe
+[poe](poe.md)
+##datastrutures
+[itunes](itunes.py)
+[format](format.py)
+[my_data](my_data.py)
+##phonehome
+[phonehome](phonehome.md)
+
+##cowsay
+[cowsay](cowsay.md)
 
 ## Concept
+[concept](concept.md)
 
 ## Prototype: working demo
+[demo](a1af.mov)
 
-## Design the flow of the program
 
 ## How to use the script
+[waltzprinter](waltzprinter.py)
+[waltzprinter](waltzprinter.md)
 
-## PDF format 
-			
+
+## PDF format

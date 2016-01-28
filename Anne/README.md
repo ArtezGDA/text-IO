@@ -990,214 +990,97 @@ drwxr-xr-x  14 AnneGoossens  staff   476B Nov 26 12:12 Months/
 ## Concept
 
 ```
-Concept = {
+Concept 1 = {
+
+Doormiddel van web-scraping wordt er het laatste nieuws van het afgelopen uur van NU.nl afgehaald. 
+
+
+'nieuws': 'www.nu.nl',
 	
-	'nieuws': 'www.nu.nl',
-	
-		'Skip to main content
-Upgrade uw browser (de software die u gebruikt om te internetten). Uw browser is verouderd. 
-￼ 
-NU
-
-￼ 
-NUzakelijk
-
-￼ 
-NUsport
-
-￼ 
-NUtech
-
-￼ 
-NUentertainment
-
-￼ 
-NUlifestyle
-
-￼ 
-NUgeld
-
-￼ 
-NUwerk
-
-￼ 
-Voorpagina
-
-
-Beste bezoeker,  Wij zien dat u een adblocker gebruikt die ervoor zorgt dat u geen advertenties ziet op NU.nl. Dit vinden wij jammer, want NU.nl is mede dankzij deze advertenties gratis toegankelijk. Wilt u een uitzondering maken voor NU.nl, of meer lezen over hoe wij met advertenties omgaan? Klik dan hier. 
-￼ 
-NU
-
-Voorpagina Net binnen
-Algemeen
-Binnenland Buitenland Politiek 
-Klimaattop
-Economie
-Geld Ondernemen Beurs VW-schandaal 
-Sport
-Voetbal Champions League Formule 1 Schaatsen MijnTeam 
-Tech
-Internet Gadgets Games Mobiel 
-Entertainment
-Achterklap Films en series Muziek Boek en cultuur Media 
-Lifestyle
-Gezondheid Eten & Drinken Werk & Privé Wonen Reizen 
-Overig
-Wetenschap Opmerkelijk Dieren Auto Video's 
-Regionaal
-
-￼ 
-NU
-
-￼ 
-NUzakelijk
-
-￼ 
-NUsport
-
-￼ 
-NUtech
-
-￼ 
-NUentertainment
-
-￼ 
-NUlifestyle
-
-￼ 
-NUgeld
-
-￼ 
-NUwerk
-
 
 Woensdag 09 december 2015
-|
+
 Het laatste nieuws het eerst op NU.nl 
 Temperatuur 6 °C 
 Vervoer 0 Files 2 NS € 1,573 
 AEX 440,85 
-TV gids 
-Live voetbalwedstrijden 8 Live 
 
+Het nieuws 
+	•	￼ ￼ 1.  1 uur geleden Voor bij het nieuws Dit zijn de conclusies uit het onderzoek naar de Teeven-deal Dit zijn de belangrijkste conclusies uit het onderzoek van de commissie-Oosting naar de zogeheten 'Teeven-deal' uit 2000, die dit voorjaar leidde tot het aftreden van minister Ivo Opstelten en staatssecretaris Fred Teeven van Veiligheid en Justitie.  
+	•	￼ ￼ 2.  1 uur geleden Voor bij het nieuws Reacties op kritisch onderzoek naar Teeven-deal De onderzoekscommissie-Oosting oordeelde woensdag hard over de zogenaamde Teeven-deal, tussen toenmalig officier van justitie Fred Teeven en drugscrimineel Cees H. in 2000. Dit zijn de reacties op het rapport.  
+	•	￼ ￼ 3.  1 uur geleden Voor bij het nieuws Profiel Rabobank: Van boerenleenbanken naar marktleider hypotheken Rabobank schrapt de komende drie jaar nog eens negenduizend voltijdsbanen. Een profiel van het financiële concern. 
+	
+	
+	
 
-Rabobank schrapt in komende jaren 9.000 banen 
-Banenverlies raakt met name ondersteunende diensten
+Concept 2 = {
+￼Doormiddel van >>> raw_input() wordt er gevraagd naar je naam. In dit geval naar alle namen van de klas op volgorde van de GitHub lijst, en deze wordt vervolgens geprint.
 
-	•	￼ ￼ 2.  13 minuten geleden Algemeen Europa neemt volgens Dijsselbloem te grote stappen met veel risico's De ontwikkeling en uitbreiding van de Europese Unie gaat met te grote stappen en gaat daardoor gepaard met grote risico's.   
-	•	￼ ￼ 3.  26 minuten geleden Algemeen 20.000 euro verstopt in bureau priester Vaticaan Een onderzoek in het Vaticaan naar mogelijke financiële malversaties heeft tot een verrassende vondst geleid. Verborgen in het bureau van een priester, achter een oud blik Weense worstjes, vonden de onderzoekers 20.000 euro.    
-	•	￼ ￼ 4.  een uur geleden Algemeen Twee verdachten in zaak politiemol vrijgelaten Twee verdachten in het onderzoek naar politiemol Mark M. zijn woensdagmiddag weer op vrije voeten. Het voorarrest van de 37-jarige man uit Veldhoven en de 33-jarige man uit Geldrop is niet verlengd.  
-
-Achtergronden bij het nieuws 
-	•	￼ ￼ 1.  7 uur geleden Voor bij het nieuws Dit zijn de conclusies uit het onderzoek naar de Teeven-deal Dit zijn de belangrijkste conclusies uit het onderzoek van de commissie-Oosting naar de zogeheten 'Teeven-deal' uit 2000, die dit voorjaar leidde tot het aftreden van minister Ivo Opstelten en staatssecretaris Fred Teeven van Veiligheid en Justitie.  
-	•	￼ ￼ 2.  6 uur geleden Voor bij het nieuws Reacties op kritisch onderzoek naar Teeven-deal De onderzoekscommissie-Oosting oordeelde woensdag hard over de zogenaamde Teeven-deal, tussen toenmalig officier van justitie Fred Teeven en drugscrimineel Cees H. in 2000. Dit zijn de reacties op het rapport.  
-	•	￼ ￼ 3.  3 uur geleden Voor bij het nieuws Profiel Rabobank: Van boerenleenbanken naar marktleider hypotheken Rabobank schrapt de komende drie jaar nog eens negenduizend voltijdsbanen. Een profiel van het financiële concern.  
-￼ 
-NUpanel: Hoe denkt u over vuurwerk tijdens de jaarwisseling? 
-
-Live: UEFA Champions League
-￼ ￼ 
-
-Chelsea-FC Porto
-￼ ￼ 
-
-Marcano maakt eigen goal
-￼ ￼ 
-
-Oscar schiet naast
-
-￼ 
-Liveblog: Volg de laatste acht wedstrijden in de groepsfase 
-
-
-Economie 
-	•	￼ ￼ 1.  4 uur geleden Economie Bewindvoerders TSN in hoger beroep tegen uitspraak loonsverlaging De bewindvoerders van TSN Thuiszorg gaan in hoger beroep tegen de uitspraak van de rechter dat de loonsverlaging van de thuiszorgmedewerkers moet worden teruggedraaid. Thuiszorgorganisatie wil lonen met 20 tot 30 procent verlagen   
-	•	￼ ￼ 2.  3 uur geleden Economie Nederlandse zeehavens gaan vennootschapsbelasting betalen De vijf zeehavens in onze land moeten er rekening mee houden dat zij op of na 1 januari 2017 vennootschapsbelasting moeten gaan betalen.   
-	•	￼ ￼ 3.  6 uur geleden Economie 'Lage olieprijs maakt tanken in 2016 fors goedkoper' Doordat de prijs van ruwe olie al een jaar lang op een dieptepunt staat, wordt volgend jaar tanken aan de pomp ook fors goedkoper.   
-
-
-Sport 
-	•	￼ ￼ 1.  8 uur geleden Sport Kooiman en Kleibeuker scherpen beiden werelduurrecord aan in Inzell Schaatsers Erik Jan Kooiman en Carien Kleibeuker hebben woensdag in Inzell het werelduurrecord bij respectievelijk de mannen en de vrouwen verbeterd. Schaatsers verbeteren afstand van Douwe de Vries en Maria Sterk   
-	•	￼ ￼ 2. Voetbal  32 minuten geleden Sport Supporters ADO vragen in brief om uitleg eigenaar Wang De officiële supportersvereniging van ADO Den Haag heeft woensdag een open brief geschreven aan clubeigenaar Hui Wang.   
-	•	￼ ￼ 3. Voetbal  19 minuten geleden Sport Van den Brom denkt aan debutant in wedstrijd tegen Athletic Bilbao Thomas Ouwejan debuteert donderdagavond mogelijk voor AZ in de uitwedstrijd tegen Athletic Bilbao in de Europa League. De 19-jarige jeugdinternational komt in aanmerking voor de positie links in de defensie.   
-
-￼ 
-Bekijk UEFA Champions League-video's 
-
-
-Tech 
-	•	￼ ￼ 1.  56 minuten geleden Tech Vodafone gaat 4G-snelheid verhogen naar 300Mbps Vodafone gaat de maximale 4G-snelheid de komende tijd verhogen naar maximaal 300 Mbps. 4G-snelheid Vodafone omhoog door gebruik meerdere antennes   
-	•	￼ ￼ 2.  een uur geleden Tech Facebook wijzigt regels advertenties Instant Articles Facebook geeft uitgevers meer controle over advertenties in Instant Articles, waarbij artikelen op de servers van Facebook worden gepubliceerd Uitgevers hadden commentaar op advertentiemodel   
-	•	￼ ￼ 3.  3 uur geleden Tech 'Magic Leap haalt 827 miljoen dollar op in investeringsronde' Augmented reality-bedrijf Magic Leap zou in een investeringsronde 827 miljoen dollar hebben opgehaald. Augmented reality-bedrijf zou in totaal 1,4 miljard hebben opgehaald   
-
-Entertainment 
-	•	￼ ￼ 1.  19 minuten geleden Entertainment Kensington krijgt dubbel platina voor album Rivals Kensington heeft woensdagavond dubbel platina gekregen voor het album Rivals.  'Dit is mooi en ook wel symbolisch voor ons jaar'   
-	•	￼ ￼ 2.  2 uur geleden Entertainment Pip Pellens wordt jurylid nieuwe dansshow Pip Pellens neemt na haar succesvolle deelname aan Dance Dance Dance geen afscheid van het dansen. De actrice wordt jurylid in de nieuwe dansshow Battle on the Dancefloor. Actrice gaat danstalent beoordelen   
-	•	￼ ￼ 3.  2 uur geleden Entertainment Berget Lewis trots op dochter Trijntje Oosterhuis Berget Lewis is trots op haar pasgeboren nichtje en dochter van Trijntje Oosterhuis.  Baby vernoemd naar drie oudere broers   
-
-
-Lifestyle 
-	•	￼ ￼ 1.  2 uur geleden Lifestyle Aldi niet eens met Gouden Windei-nominatie voor pasta met truffel Aldi is het niet eens met de Gouden Windei-nominatie die de supermarktketen heeft gekregen voor de pasta met truffel. Het zou een "kwalitatief hoogwaardig artikel met champignons, eekhoorntjesbrood en truffelolie" zijn. 'Gehalte en naam gebruikte truffel worden op etiket vermeld'   
-	•	￼ ￼ 2.  5 uur geleden Lifestyle 'Een derde slechthorenden koopt hoortoestel bij lokale audicien' Meer dan een derde van de Nederlandse slechthorenden koopt zijn of haar hoortoestel bij een lokale audicien. Het kopen van een toestel bij een landelijke keten is minder populair. Toestellen van landelijke ketens minder in trek   
-
-
-Overig 
-	•	￼ ￼ 1.  4 uur geleden Wetenschap Plek historische veldslag Caesar ontdekt bij Kessel Archeologen hebben bij Kessel (Noord-Brabant) de plek ontdekt waar de Romeinse veldheer en staatsman Julius Caesar in 55 voor Christus twee Germaanse stammen vernietigde.  Vroegst bekende veldslag op Nederlandse bodem gevonden   
-	•	￼ ￼ 2.  een uur geleden Wetenschap 'Pinguïns kunnen elkaar binnen een uur opwarmen op Antarctica' Pinguïns kunnen zich bijzonder snel opwarmen tijdens sessies waarbij ze met duizenden tegelijk samendrommen.  Dieren drommen met duizenden tegelijk samen   
-
-
-Opmerkelijke video's
-￼ ￼ 
-
-Ruimteschip doet boodschappen voor ISS
-￼ ￼ 
-
-Deelnemers Franse talentenshow zitten vast tijdens act
-￼ ￼ 
-
-Star Wars fans staan 10 dagen te vroeg in de rij
-￼ ￼ 
-
-Racen met drone steeds populairder
-￼ ￼ 
-
-Levensgrote poppen jagen Londen de stuipen op het lijf
-￼ ￼ 
-
-Wat gebeurt er als hipsters en moslims ruilen van kleding?
-
-￼ 
-Bekijk hier meer video's 
-
-Van onze adverteerders
-	•	￼ ￼  ￼  Essent comfort thuis 224    
-	•	￼ ￼  ￼  TUI – Discover your smile 2713    
-	•	￼ ￼  ￼  Ford maakt rijden makkelijk 3028    
-	•	￼ ￼  ￼  Gezond verzekerd 15    
-
-
-Door: onze adverteerders 
-
-
-	•	Net binnen
-	•	Populair
-	•	 
-
-
-	•	21:27 Europa neemt volgens Dijsselbloem te grote stappen met veel risico's Politiek    
-	•	21:21 Van den Brom denkt aan debutant in wedstrijd tegen Athletic Bilbao Voetbal    
-	•	21:21 Kensington krijgt dubbel platina voor album Rivals Muziek    
-	•	21:14 20.000 euro verstopt in bureau priester Vaticaan Buitenland    
-
-Meer nieuws  [
-
-		}
-
-
-		}
-
-		]
-
+Last login: Sun Jan  3 13:06:17 on ttys001
+MacBook-Pro-van-Anne-Goossens:~ AnneGoossens$ python
+Python 2.7.10 (default, Jul 14 2015, 19:46:27) 
+[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.39)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> raw_input()
+print (raw_input('What is your name?'))
+"print (raw_input('What is your name?'))"
+>>> ('Anne')
+'Anne'
+>>> a = raw_input('What is your name?')
+What is your name? Angela
+>>> b = raw_input('What is your name?')
+What is your name? Bas
+>>> c = raw_input('What is your name?')
+What is your name? Bella
+>>> d = raw_input('What is your name?')
+What is your name? Esmee
+>>> e = raw_input('What is your name?')
+What is your name? Floris
+>>> f = raw_input('What is your name?')
+What is your name? Heike
+>>> g = raw_input('What is your name?')
+What is your name? Ilse
+>>> h = raw_input('What is your name?')
+What is your name? Isabel
+>>> i = raw_input('What is your name?')
+What is your name? Jasmijn
+>>> j = raw_input('What is your name?')
+What is your name? Jeanine
+>>> k = raw_input('What is your name?')
+What is your name? Jesse
+>>> l = raw_input('What is your name?')
+What is your name? Kimberley
+>>> m = raw_input('What is your name?')
+What is your name? Leonie
+>>> n = raw_input('What is your name?')
+What is your name? Lola
+>>> o = raw_input('What is your name?')
+What is your name? Luc
+>>> p = raw_input('What is your name?')
+What is your name? Lydienne
+>>> q = raw_input('What is your name?')
+What is your name? Marianne
+>>> r = raw_input('What is your name?')
+What is your name? Marleen
+>>> s = raw_input('What is your name?')
+What is your name? Martijn
+>>> t = raw_input('What is your name?')
+What is your name? Max
+>>> u = raw_input('What is your name?')
+What is your name? Niels
+>>> v = raw_input('What is your name?')
+What is your name? Nikki
+>>> w = raw_input('What is your name?')
+What is your name? Nikki L
+>>> x = raw_input('What is your name?')
+What is your name? Noa
+>>> y = raw_input('What is your name?')
+What is your name? Patrick
+>>> z = raw_input('What is your name?')
+What is your name? Reinier
+>>> print ('Anne' + a + b + c + d + e + f + g + h + i + j + k + l + m + n + o + p + q + r + s + t + u + v + w + x + y + z)
+Anne Angela Bas Bella Esmee Floris Heike Ilse Isabel Jasmijn Jeanine Jesse Kimberley Leonie Lola Luc Lydienne Marianne Marleen Martijn Max Niels Nikki Nikki L Noa Patrick Reinier
+>>> 
 
 ```
 

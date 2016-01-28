@@ -1,0 +1,1 @@
+room_jasmijn = {'adress': "Johan de Wittlaan 41", 'postcode':"6828XC", 'city':"Arnhem", 'surface':"30m2" 'doors': 1, 'windows': 2,}

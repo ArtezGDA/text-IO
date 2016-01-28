@@ -9,6 +9,7 @@
 [Spotify-list](my_data_spotify.py)
 
 [Dictionary Room](room.py)
+
 [String Room](string.py)
 Waarom werkt dit niet?
 
@@ -36,7 +37,12 @@ Waarom werkt dit niet?
 
 ## Concept
 
-[Heavy Metal Album Art](Heavy Metal Album Art.rtf)
+[Heavy Metal Album Art](Heavy Metal Album Art.txt)
+
+![](heavy metal.png)
+![](heavy metal2.png)
+
+
 
 
 

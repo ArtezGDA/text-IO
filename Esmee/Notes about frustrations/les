@@ -1,0 +1,80 @@
+Last login: Wed Dec 16 22:50:34 on ttys004
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% python gezamelijke-opdracht-font.py
+/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'gezamelijke-opdracht-font.py': [Errno 2] No such file or directory
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: ~]% cd Documents/Artez2015/coding/text-IO/Esmee 
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: coding/text-IO/Esmee]% python gezamelijke-opdracht-font.py
+  File "gezamelijke-opdracht-font.py", line 67
+    'Characters' = [
+               ^
+SyntaxError: invalid syntax
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: coding/text-IO/Esmee]% python gezamelijke-opdracht-font.py
+  File "gezamelijke-opdracht-font.py", line 67
+    'Characters' = [
+               ^
+SyntaxError: invalid syntax
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: coding/text-IO/Esmee]% python gezamelijke-opdracht-font.py
+  File "gezamelijke-opdracht-font.py", line 67
+    'Characters' = [
+               ^
+SyntaxError: invalid syntax
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: coding/text-IO/Esmee]% python gezamelijke-opdracht-font.py
+  File "gezamelijke-opdracht-font.py", line 67
+    'Characters' = [
+               ^
+SyntaxError: invalid syntax
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: coding/text-IO/Esmee]% python gezamelijke-opdracht-font.py
+  File "gezamelijke-opdracht-font.py", line 67
+    'Characters' = [
+               ^
+SyntaxError: invalid syntax
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: coding/text-IO/Esmee]% python gezamelijke-opdracht-font.py
+  File "gezamelijke-opdracht-font.py", line 67
+    'Characters' = [
+               ^
+SyntaxError: invalid syntax
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: coding/text-IO/Esmee]% python gezamelijke-opdracht-font.py
+  File "gezamelijke-opdracht-font.py", line 66
+    
+       ^
+SyntaxError: invalid syntax
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: coding/text-IO/Esmee]% python gezamelijke-opdracht-font.py
+  File "gezamelijke-opdracht-font.py", line 66
+    
+       ^
+SyntaxError: invalid syntax
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: coding/text-IO/Esmee]% python gezamelijke-opdracht-font.py
+  File "gezamelijke-opdracht-font.py", line 66
+    
+       ^
+SyntaxError: invalid syntax
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: coding/text-IO/Esmee]% python gezamelijke-opdracht-font.py
+  File "gezamelijke-opdracht-font.py", line 66
+    
+       ^
+SyntaxError: invalid syntax
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: coding/text-IO/Esmee]% python gezamelijke-opdracht-font.py
+  File "gezamelijke-opdracht-font.py", line 64
+    
+       ^
+SyntaxError: invalid syntax
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: coding/text-IO/Esmee]% python gezamelijke-opdracht-font.py
+  File "gezamelijke-opdracht-font.py", line 68
+    "Characters": [
+               ^
+SyntaxError: invalid syntax
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: coding/text-IO/Esmee]% python gezamelijke-opdracht-font.py
+  File "gezamelijke-opdracht-font.py", line 46
+    ], 
+    ^
+SyntaxError: invalid syntax
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: coding/text-IO/Esmee]% python gezamelijke-opdracht-font.py
+  File "gezamelijke-opdracht-font.py", line 46
+    ], 
+    ^
+SyntaxError: invalid syntax
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: coding/text-IO/Esmee]% python gezamelijke-opdracht-font.py
+  File "gezamelijke-opdracht-font.py", line 62
+    "point 1": ("x:36,32", "y:67,26"),
+            ^
+SyntaxError: invalid syntax
+[esmeeellson@MacBook-Pro-van-Esmee-Ellson: coding/text-IO/Esmee]%  
