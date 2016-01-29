@@ -1,108 +1,127 @@
 helvetica = {
-    'font' : {'helvetica': 'sans serif'},
+	'font': "Helvetica",
+	'type': "sans serif",
 	'weights': [
-	    "bold", "italic", "bold-italic", "light", "light oblique", "light-italic"],
-	'characters': [{
-	    'capitals': [{
-	        'F': [{
-	            'bendpoints':{
-	            'point 1':[44.82, 11.61],
-	            'point 2':[46.92, 12.62],
-	            'point 3':[45.23, 11.98], 
-	            'point 4':[46.93, 11.98],
-	            'point 5':[45.23, 12.90],
-	            'point 6':[46.73, 12.90],
-	            'point 7':[46.73, 12.90],
-	            'point 8':[45.23, 13.26], 
-	            'point 9':[46.73, 13.26],
-	            'point 10':[44.22, 14.64],
-	            'point 11':[45.23, 14.64]
-	            },
-	            'kerning' :{
-	                'Yf': '0.2 mm',
-	                'YF': '1 mm',
-	                'Yy': '0.1 mm',
-	                'YY': '0.3 mm',
-	                'Yo': '0.3 mm',
-	                'YO': '0.5 mm'
-	                    
-	                    
-	                    
-	            }
-	        }],
-	        'Z': [{
-	           
-	            'bendpoints':{
-	            'point 1':[41.19, 14.87],
-	            'point 2':[41.96, 11.98],
-	            'point 3':[44.22, 11.62], 
-	            'point 4':[43.69, 11.98],
-	            'point 5':[44.22, 11.97],
-	            'point 6':[41.82, 13.31],
-	            'point 7':[42.34, 14.29],
-	            'point 8':[44.22, 14.29],
-	            'point 9':[41.22, 14.66],
-	            'point 10':[44.22, 14.66]
-	            },
-	            'kerning':{
-	                'Zf': '0.5 mm',
-	                'ZF': '0.8 mm',
-	                'Zz': '1,2 mm',
-	                'ZZ': '1,2 mm',
-	                'Zo': '0.8 mm',
-	                'ZO': '0.8 mm'
-	            }
-	        }],
-	        'Y': [{
-	            'bendpoints':{
-	            'point 1':[1.12, 1.43],
-	            'point 2':[3.99, 6.79],
-	            'point 3':[3.99, 3.09],
-	            'point 4':[5.02, 3.09],
-	            'point 5':[5.02, 6.97],
-	            'point 6':[7.89, 1.43],
-	            'point 7':[6.86, 1.43],
-	            'point 8':[4.50, 6.08],
-	            'point 9':[2.32, 1.43]
-	            },
-	            'kerning':{
-	                'Yf': '0.2 mm',
-	                'YF': '1 mm',
-	                'Yy': '0.1 mm',
-	                'YY': '0.3 mm',
-	                'Yo': '0.3 mm',
-	                'YO': '0.5 mm'
-	            }
-	        }],
-	         'O': [{
-	            'compoundshape':{
-	            'point 1':[6.79, 2.09],
-	            'point 2':[4.32, 3.52],
-	            'point 3':[3.75, 6.35],
-	            'point 4':[6.83, 7.63],
-	            'point 5':[7.33, 6.89],
-	            'point 6':[7.08, 6.18],
-	            'point 7':[7.26, 3.52]
-	            
-	            },
-	            'bendpoints':{
-	            'point 1':[5.05, 1.95],
-	            'point 2':[2.15, 3.35],
-	            'point 3':[1.38, 5.99], 
-	            'point 4':[2.28, 8.81],
-	            'point 5':[5.03, 9.97],
-	            'point 6':[7.92, 8.64],
-	            'point 6':[8.78, 6.82],
-	            'point 6':[8.03, 3.24]
-	            },
-	            'kerning':{
-	                'Of': '0.8 mm',
-	                'OF': '1.2 mm',
-	                'Oy': '0.8 mm',
-	                'OY': '0.8 mm',
-	                'Oo': '0.8 mm',
-	                'OO': '0.8 mm'
-	            }
-	        }]
-	    }]
-	}]    
+		{'name': "medium", 'weight': 500},
+		{'name': "bold", 'weight': 600},
+		{'name': "italic", 'weight': 500},
+		{'name': "bold-italic", 'weight': 600},
+		{'name': "light", 'weight': 400}, 
+		{'name': "light-italic", 'weight': 400}
+	],
+	'characters': [
+		{
+			'type': "uppercase",
+			'weight': "medium",
+			'character': "F",
+			'bendpoints':[
+				[
+					{'x': 44.82, 'y': 11.61},
+					{'x': 46.92, 'y': 12.62},
+					{'x': 45.23, 'y': 11.98}, 
+					{'x': 46.93, 'y': 11.98},
+					{'x': 45.23, 'y': 12.90},
+					{'x': 46.73, 'y': 12.90},
+					{'x': 46.73, 'y': 12.90},
+					{'x': 45.23, 'y': 13.26}, 
+					{'x': 46.73, 'y': 13.26},
+					{'x': 44.22, 'y': 14.64},
+					{'x': 45.23, 'y': 14.64}
+				]
+			]
+		},
+		{
+			'type': "uppercase",
+			'weight': "medium",
+			'character': "Z",
+			'bendpoints':[
+				[
+					{'x': 41.19, 'y': 14.87},
+					{'x': 41.96, 'y': 11.98},
+					{'x': 44.22, 'y': 11.62}, 
+					{'x': 43.69, 'y': 11.98},
+					{'x': 44.22, 'y': 11.97},
+					{'x': 41.82, 'y': 13.31},
+					{'x': 42.34, 'y': 14.29},
+					{'x': 44.22, 'y': 14.29},
+					{'x': 41.22, 'y': 14.66},
+					{'x': 44.22, 'y': 14.66}
+				]
+			]
+		},
+		{
+			'type': "uppercase",
+			'weight': "medium",
+			'character': "Y",
+			'bendpoints':[
+				[
+					{'x': 1.12, 'y': 1.43},
+					{'x': 3.99, 'y': 6.79},
+					{'x': 3.99, 'y': 3.09},
+					{'x': 5.02, 'y': 3.09},
+					{'x': 5.02, 'y': 6.97},
+					{'x': 7.89, 'y': 1.43},
+					{'x': 6.86, 'y': 1.43},
+					{'x': 4.50, 'y': 6.08},
+					{'x': 2.32, 'y': 1.43}
+				]
+			]
+		},
+		{
+			'type': "uppercase",
+			'weight': "medium",
+			'character': "O",
+			'bendpoints':[
+				[
+					{'x': 5.05, 'y': 1.95},
+					{'x': 2.15, 'y': 3.35},
+					{'x': 1.38, 'y': 5.99}, 
+					{'x': 2.28, 'y': 8.81},
+					{'x': 5.03, 'y': 9.97},
+					{'x': 7.92, 'y': 8.64},
+					{'x': 8.78, 'y': 6.82},
+					{'x': 8.03, 'y': 3.24}
+				]
+			],
+			'compoundshapes': [
+				[
+					{'x': 6.79, 'y': 2.09},
+					{'x': 4.32, 'y': 3.52},
+					{'x': 3.75, 'y': 6.35},
+					{'x': 6.83, 'y': 7.63},
+					{'x': 7.33, 'y': 6.89},
+					{'x': 7.08, 'y': 6.18},
+					{'x': 7.26, 'y': 3.52}
+				]
+			]
+		},
+	],
+	'kerningpairs': [
+		{'pair': "Yf", 'kerning': 0.2},
+		{'pair': "YF", 'kerning': 1.0},
+		{'pair': "Yy", 'kerning': 0.1},
+		{'pair': "YY", 'kerning': 0.3},
+		{'pair': "Yo", 'kerning': 0.3},
+		{'pair': "YO", 'kerning': 0.5},
+		{'pair': "Zf", 'kerning': 0.5},
+		{'pair': "ZF", 'kerning': 0.8},
+		{'pair': "Zz", 'kerning': 1.2},
+		{'pair': "ZZ", 'kerning': 1.2},
+		{'pair': "Zo", 'kerning': 0.8},
+		{'pair': "ZO", 'kerning': 0.8},
+		{'pair': "Yf", 'kerning': 0.2},
+		{'pair': "YF", 'kerning': 1.0},
+		{'pair': "Yy", 'kerning': 0.1},
+		{'pair': "YY", 'kerning': 0.3},
+		{'pair': "Yo", 'kerning': 0.3},
+		{'pair': "YO", 'kerning': 0.5},
+		{'pair': "Of", 'kerning': 0.8},
+		{'pair': "OF", 'kerning': 1.2},
+		{'pair': "Oy", 'kerning': 0.8},
+		{'pair': "OY", 'kerning': 0.8},
+		{'pair': "Oo", 'kerning': 0.8},
+		{'pair': "OO", 'kerning': 0.8}
+	]                    
+}
+
+print helvetica
